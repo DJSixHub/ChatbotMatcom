@@ -3,17 +3,12 @@ import random
 import time
 import requests
 import os
+import streamlit as st
+import json
 
 
 class Chat:
     def __init__(self, model, api_key=None):
-        """
-        Inicializa el cliente de Fireworks AI.
-
-        Parámetros:
-          - model: Nombre o identificador del modelo a usar.
-          - api_key: Clave de API de Fireworks. Si no se proporciona, se busca en la variable de entorno FIREWORKS_API_KEY.
-        """
         self.headers = {
             "Authorization": f"Bearer {os.getenv("Token")}",
             "Content-Type": "application/json",
@@ -23,52 +18,30 @@ class Chat:
             api_key = os.getenv(os.getenv("Token"))
         self.url = "https://api.fireworks.ai/inference/v1/chat/completions"
 
-    def run(self, prompt, historial):
+    def run(self, context, input, history):
+        promt_template = f"""
+            Eres un asistente para la formación vocacional de la Universidad de La Habana. 
+            Utiliza la siguiente información de referencia para enriquecer tu respuesta: {context}. 
+            Historial de conversación: {history}. 
+            El usuario ha indicado: {input}. 
+            Con base en esta información, responde de manera clara, precisa y profesional, 
+            orientando al usuario en su proceso de formación vocacional.
+        """
 
         payload = {
             "model": self.model,
-            "messages": [{"role": "system", "content": "<string>", "name": "<string>"}],
-            "tools": [
-                {
-                    "type": "function",
-                    "function": {
-                        "description": "<string>",
-                        "name": "<string>",
-                        "parameters": {
-                            "type": "object",
-                            "required": ["<string>"],
-                            "properties": {},
-                        },
-                    },
-                }
+            "messages": [
+                {"role": "system", "content": f"{promt_template}", "name": "User"}
             ],
-            "max_tokens": 2000,
-            "prompt_truncate_len": 1500,
-            "temperature": 1,
-            "top_p": 1,
-            "top_k": 50,
-            "frequency_penalty": 0,
-            "presence_penalty": 0,
-            "repetition_penalty": 1,
-            "mirostat_lr": 0.1,
-            "mirostat_target": 1.5,
-            "n": 1,
-            "ignore_eos": False,
-            "stop": "<string>",
-            "response_format": None,
-            "stream": False,
-            "context_length_exceeded_behavior": "truncate",
-            "user": "<string>",
         }
 
         response = requests.request(
             "POST", self.url, json=payload, headers=self.headers
         )
 
-        return response.text
+        return json.loads(response.text)
 
 
-# Ejemplo de uso:
 if __name__ == "__main__":
     chat = Chat("accounts/fireworks/models/llama-v3p1-8b-instruct", os.getenv("Token"))
-    print(chat.run("2+2", []))
+    print(chat.run("que es cibernetica", "", [])["choices"][0]["message"])
