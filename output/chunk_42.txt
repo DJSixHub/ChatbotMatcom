@@ -1,0 +1,88 @@
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados prácticos y la adecuada capacidad para el trabajo colaborativo.
+
+Estimular la motivación, la creatividad y el amor hacia la profesión y el compromiso con la calidad y la estética adecuada de los resultados.
+
+Trabajar teniendo en cuenta las medidas de protección y seguridad de los sistemas, la información y su transmisión por las redes de computación, así como contribuir a la difusión y la divulgación de las buenas prácticas de seguridad.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+El enfoque de Inteligencia de Negocios debe ser integrador ya que subsuma todos los fundamentos teóricos y las tecnologías tanto de programación y bases de datos, como de sistemas computacionales e inteligencia artificial, para darle significado en función de un dominio y permitir una toma de decisiones informada.
+
+El desarrollo de las soluciones de inteligencia y analítica de negocios debe estar dirigido a que los estudiantes identifiquen las características, ventajas y desventajas en la utilización y/o adecuación de los diferentes entornos, algoritmos y herramientas para la explotación del sistema considerando sus objetivos evolutivos y la posible vinculación en una solución de Ciencia de Datos. Más que algoritmos o técnicas nuevas, que ya deben haber sido vistas anteriormente, se debe hacer énfasis en la aplicación y/o reformulación de todas estas técnicas de forma integrada en problemas reales.
+
+Teniendo en cuenta la evolución de la inteligencia de negocios, así como la magnitud, la naturaleza y la diversidad de los datos gestionados y los escenarios de aplicación, es importante ubicar el sector del problema general que responda al contexto particular abordado por el estudiante. Las estrategias de desarrollo y los métodos analíticos aplicados deberán sustentar decisiones acertadas.
+
+El programa de la disciplina debe actualizarse sistemáticamente con enfoques y temáticas en evolución utilizando todas las vías académicas disponibles. Asimismo, deben presentarse al estudiante soluciones arquitectónicas para sistemas de inteligencia de negocios en ambientes computacionales diversos y aplicados al área de la Ciencia de Datos, de modo que sean capaces de modificar y/o desarrollar nuevas soluciones durante el ejercicio de la profesión y los estudios de posgrado.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Como complemento de esta asignatura se propone ofertar cursos optativos de tecnologías concretas para la implementación de sistemas de inteligencia de negocios, como Microsoft PowerBI o alternativas de código abierto.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Manning, A. “Databases for Small Business: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals”. Springer Science+Business Media, 2015. [www.it-ebooks.info](http://www.it-ebooks.info/)
+2.  Mohanty S., Jagadeesh, M., Srivatsa, H. “Big Data Imperatives. Enterprise Business Intelligence Implementations & Analytics”. Apress. EUA, 2013. [www.it-ebooks.info](http://www.it-ebooks.info/)
+3.  Sharda R., Delen, D., Turban, E. “Business Intelligence and Analytics: Systems for Decision Support”. Pearson Education, Inc., 2015. ISBN 13: 978-0-13-305090-5.
+
+**COMPLEMENTARIA**
+
+1.  Azarmi, B. _Scalable Big Data Architecture_. Springer Science+Business Media New York. ISBN: 978-1-4842-1327-8. 2016. www.springeronline.com
+2.  Dean, J. “Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners”. Wiley & SAS Business Series. EUA, 2014. [www.it-ebooks.info](http://www.it-ebooks.info/)
+3.  Decker, J. “Embedded analytics for Dummies”. John Wiley & Sons, Inc., EUA, 2017. ISBN 978-1-119-42440-6.
+4.  Harrison, G. “Next Generation Databases: NoSQL, NewSQL, and Big Data”. Apress, NY. EUA, 2015. ISBN: 978-1-4842-1330-8.
+5.  Inmon, W.; Linstedt, D. “Data Architecture: A Primer for the Data Scientist: Big Data, Data Warehouse, and Data Vault”. Elsevier Inc. ISBN: 978-0-12-802044-9. 2015.
+6.  Provost, F.; Fawcett, T. “Data Science for Business”. O’Reilly Media, Inc. ISBN: 978-1-449-36132-7. 2013.
+7.  Simon, Ph. “The Visual Organization: Data Visualization, Big Data, and the Quest for Better Decisions”. Wiley & SAS Business Series, 2015. [www.it-ebooks.info](http://www.it-ebooks.info/)
+8.  Zheng, J. G. “Business Intelligence and Analytics. A Comprehensive Overview”. Presentation. Research Gate, 2020.
+
+#### Asignatura: Sistemas de Recuperación de la Información
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción a los sistemas de recuperación de información textual | 6 | 2 | 4 |  |  |  |
+| Modelos de recuperación de información textual | 24 | 8 |  | 8 |  | 8 |
+| Recuperación de información textual en la Web | 34 | 14 |  | 12 |  | 8 |
+| Totales | 64 | 24 | 4 | 20 |  | 16 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Desde mediados del siglo XX se ha reconocido que el dominio de la información es primordial para el éxito en cualquier ámbito del quehacer humano.
+
+Los sistemas de recuperación de información surgen en el desarrollo de la Ciencia de la Computación al alcanzar una nueva dimensión los problemas de representación, organización y transformación de grandes volúmenes de datos con la perspectiva de considerar los **datos** como cimiento para la toma de decisiones acertadas, oportunas y pertinentes en el marco de la construcción de la sociedad del conocimiento.
+
+Al aplicar procesamientos avanzados a conjuntos de hechos o elementos de los datos de diversos tipos (datos alfanuméricos, textos, imágenes, sonidos, entre otros) se puede obtener _información_. Sin embargo, no basta con la consulta de los datos o la recuperación de la información, sino que la evolución requiere la inferencia, la deducción y la inducción de nuevas aristas del problema, entorno o negocio en cuestión.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los desarrollos de los sistemas de recuperación de la información, en la solución de problemas específicos o interdisciplinarios con una perspectiva científica y enfoques acordes con la filosofía marxista-leninista, contribuyendo al desarrollo social según los principios de dirección y los lineamientos económicos del país.
+2.  Caracterizar los modelos de recuperación de información en términos evolutivos.
+3.  Distinguir las características de los modelos de recuperación de información textual, y desarrollar su modelación matemática computacional y su implementación.
+4.  Desarrollar herramientas para la búsqueda y la recuperación de información en la Web.
+5.  Evaluar, comparar y clasificar documentos con eficiencia y precisión.
+6.  Aplicar la modelación matemática a la concepción, el análisis y la valoración de sistemas de advertencia y recomendación.
+7.  Identificar e incorporar aplicaciones de otras ramas del saber, como la Inteligencia Artificial, para el enriquecimiento de los Sistemas de Información.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Introducción a los Sistemas de Recuperación de Información. Actualidad de la recuperación de información textual en los sistemas de información. Estructuras útiles en la recuperación de información textual. Construcción de índices. Modelos de recuperación de información textual clásicos y extendidos. Métricas y criterios de evaluación de los sistemas de información. Mecanismos de retroalimentación. La Web como repositorio de Información. Eras de la Web. Acercamiento a la recuperación de Información en la Web. _Crawling_. Métodos de Ranking. Agrupamiento y categorización aplicados a la recuperación de documentos en la Web. Sistemas de recomendación y técnicas de filtrado. Análisis de contenidos.
+
+**Habilidades principales a dominar**

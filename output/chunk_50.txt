@@ -1,0 +1,73 @@
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Colectivo de autores “Modeling and Simulation: An Application-Oriented Introduction”, Springer Undergraduate Texts in Mathematics and Technology, 2014
+2.  Sheldon M. Ross (1999), “Simulation”, segunda edición.
+3.  García L. y colectivo de autores.” Temas de Simulación”, en proceso de edición 2017
+
+**COMPLEMENTARIA**
+
+1.  Mchaney R. “Understanding computer simulation”, Ventus Publishing, 2009.
+2.  Chung C. A. “Simulation Modeling Handbook: A Practical Approach”, CRC Press, 2003.
+3.  Maisel Herbert y Gnugnoli Giuliano, “Simulation of Discrete Stochastic Systems”, Science Research Associates Inc. USA, 1972.
+
+###
+
+### CIENCIA DE DATOS
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Introducción a la Ciencia de Datos | BASE | 48 | 1 | 1 |  |
+| Comunicación en Ciencia de Datos | BASE | 32 | 1 | 2 |  |
+| Visualización de Datos | BASE | 32 | 2 | 3 |  |
+| Análisis de Redes Complejas | PROPIO | 32 | 2 | 4 |  |
+| Procesamiento de Lenguaje | PROPIO | 32 | 3 | 5 |  |
+| Procesamiento de Grandes Volúmenes de Datos | BASE | 64 | 3 | 5 |  |
+| Ingeniería de Datos | BASE | 64 | 3 | 6 |  |
+| Procesamiento de Imágenes | PROPIO | 48 | 3 | 6 |  |
+| Ciberseguridad y Privacidad | BASE | 64 | 4 | 7 |  |
+| Total de Horas | 416 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+Esta disciplina es específica de la profesión. En ella se integran y se aplican los conocimientos adquiridos en el resto de las disciplinas de formación básica general y específica. Es la disciplina que establecerá con más fuerza las particularidades de esta profesión. Comienza con los temas introductorios del perfil profesional, donde se discute con los estudiantes la caracterización de esta especialidad, sus campos de acción y los objetivos y contenidos del plan de estudios, y se demuestra su necesidad e impacto mediante la presentación de casos de estudio.
+
+Se incluyen en sus temas los relativos a la gestión de los datos y de las grandes agrupaciones de datos, su preparación, así como los conceptos y tecnologías para su procesamiento.
+
+La disciplina también abarca los temas relacionados con las relaciones con los clientes de los proyectos de Ciencias de Datos y el entorno: los aspectos de comunicación y visualización de los datos y su procesamiento, así como los temas éticos y legales de tanta importancia en esta especialidad.
+
+En esta disciplina tienen cabida, además, aspectos relacionados con el uso de la Ciencia de Datos en entornos y dominios específicos. Ello tiene como objetivo que se pueda trabajar oportunamente aquellos campos y dominios del conocimiento de mayor aplicación, tanto internacionalmente como en Cuba.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+1.  Caracterizar los fundamentos de la Ciencia de Datos como una nueva ciencia interdisciplinaria que integra el dominio que proporcionan los datos; la estadística y las matemáticas para su análisis, modelado e inferencia; y la computación para el acceso, la gestión, el procesamiento y la protección de los datos.
+2.  Identificar y comprender los roles que juegan los Científicos de Datos y las tareas que desempeñan.
+3.  Comunicar los resultados de los procesos de ciencia de datos a través de productos comunicativos y visualizaciones.
+4.  Resolver problemas reales aplicando las metodologías y procesos de la ingeniería de datos en la solución y utilizando, cuando sea necesario,los conceptos, técnicas y herramientas del procesamiento de grandes volúmenes de datos para resolver problemas prácticos.
+5.  Aplicar los conceptos, técnicas y herramientas de la ciberseguridad para garantizar la integridad, protección, veracidad y privacidad de los datos y los sistemas que los gestionan y procesan.
+6.  Aplicar los conocimientos y técnicas de la ciencia de datos en distintos dominios del saber cómo pueden ser el ámbito de las redes complejas, del lenguaje o las imágenes.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Conceptos en la Ciencia de Datos. Pasos de un proceso general de ciencia de datos. Captura, preprocesamiento, modelación, visualización, y comunicación de los resultados. Los datos, su naturaleza, origen, características, y utilidad. Roles de un científico de datos.
+
+Conceptos generales de la comunicación. Conceptos particulares de la comunicación de datos y procesos de análisis de datos. Caracterización de las Audiencias. Técnicas de comunicación oral, escrita, visual e hipermedial. Medios y escenarios de comunicación tradicionales. Nuevos medios y escenarios de comunicación. Redes Sociales. Storytelling tradicional. Storytelling basado en datos. Storytelling interactivo. Modelos de productos comunicativos. Definición, diseño, producción y realización de productos comunicativos. Legislación sobre acceso y manejo de datos. Gobernanza de Datos. Aspectos éticos de los métodos y técnicas usadas en la ciencia de datos y su comunicación.
+
+Tipos de datos estructurados y sus formatos: JSON, XML, CSV, YAML, XLS. Herramientas computacionales para cargar y guardar datos en estos formatos. Estructuras de datos básicas para el almacenamiento de datos: listas, diccionarios, _dataframes_. Herramientas para el trabajo con dichas estructuras de datos. El formato HTML, herramientas para su procesamiento y extracción de datos. Concepto de API RESTful, herramientas de código para su consulta. Herramientas para implementar _web scrappers._ Uso básico de expresiones regulares para extraer datos en formato semi-estructurado (e.j., correos electrónicos, fechas, nombres de entidades). Formatos básicos de datos multimedia (audio, imágenes, vídeos). Herramientas computacionales para su carga y procesamientos básicos.
+
+Conceptos básicos de representación visual y elementos del diseño. Conceptos básicos de las visualizaciones basadas en datos. Tipos de visualizaciones. Gráficos para series temporales. Gráficos para representar rankings, Gráficos de distribución. Gráficos de desviación. Gráficos de frecuencia. Gráficos de correlación. Gráficos de comparación nominal. Gráficos de flujo. Gráficos jerárquicos. Gráficos geoespaciales. Gráficos pictóricos. Técnicas y herramientas para la creación de visualizaciones. Modelos de visualizaciones interactivas. Técnicas y herramientas para la creación de visualizaciones interactivas. Bibliotecas de software para el desarrollo de visualizaciones. Concepto de dashboard. Desarrollo de dashboards. El rol de las visualizaciones dentro de los productos comunicativos.
+
+El ecosistema de datos. Metodologías para la ciencia de datos. El ecosistema de la ingeniería de datos. Responsabilidades y habilidades dentro de la ciencia de datos. Tipos de datos, formatos y fuentes de datos. Repositorios de Datos. Sistemas para el almacenamiento y gestión de datos (_databases, data warehouses, data marts, data lakes_). ETL/ ELT y su relación con los flujos (_pipelines_) de datos. Sistemas de integración de datos. Sistemas para el procesamiento de datos. Sistemas y herramientas para la transformación y consulta de datos. Modelos y herramientas para la interoperabilidad de sistemas. Diseño y arquitectura de plataformas de datos. Sistemas en la nube. Devops. Optimización y detección de errores. Acercamiento a los modos de integración de los datos. Problemas frecuentes en los escenarios de integración de información.
+
+Definiciones de big data. Principio de funcionamiento: MapReduce. Sistemas para la computación distribuida. Almacenamiento y procesamiento distribuido. Concepto ETL, ELT en el ámbito de la ingestión de datos. Fundamentos de _data warehousing_. Estrategias de desarrollo de un almacén de datos heterogéneos. Especificidades y procedimientos para la integración de los datos (ETL/ELT). Principio de funcionamiento de los motores de consulta de datos. Motores y lenguajes de consulta de bases de datos. Herramientas y sistemas de obtención e ingestión de datos. Conceptos de Data Marts y Data Lake. Herramientas y sistemas para el procesamiento de datos en tiempo real.Herramientas para el streaming de mensajes. Procesamiento de datos “in-memory”. Plataformas de integración de información para conjuntos masivos de datos heterogéneos (EAI/EII). Soluciones alternativas: mediadores y virtualización de datos. Sistemas de bases de datos federados. Envolturas para los sistemas basados en mediadores. Generadores de _wrappers_. Optimización de consultas basada en las capacidades de los mediadores. Infraestructura Big Data. Plataformas de Servicios en la nube. Procesamiento HPC.
+
+Fundamentos de la seguridad de la información. Fundamentos de la ciberseguridad, Seguridad y protección de los datos y los sistemas computacionales. Seguridad de las redes y los sistemas distribuidos. Seguridad de las bases de datos y sistemas de ingestión de datos. Seguridad en la web, los dispositivos móviles y redes sociales. Tipos de ataques de ciberseguridad y su prevención (en redes cableadas o inalámbricas, así como en aplicaciones). Ataques de ingeniería social y su prevención. Encriptación y Criptografía. Hacking ético. Análisis forense. Seguridad física. Normas, leyes y regulaciones relacionadas con la gobernanza, la seguridad y la privacidad de los datos.
+
+**Habilidades principales a dominar**

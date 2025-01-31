@@ -1,0 +1,96 @@
+1.  Analizar un fenómeno informacional de cualquier área del conocimiento a partir de la abstracción y la conceptualización de la realidad para obtener el universo de trabajo, las relaciones que se establecen y el contenido informativo de un sistema de recuperación de información.
+2.  Valorar y utilizar las estructuras de datos y las soluciones arquitectónicas que resulten más adecuadas en el diseño e implementación de cada sistema de recuperación de información.
+3.  Identificar las características, las ventajas y las desventajas de las diferentes plataformas programáticas y seleccionar de manera adecuada y fundamentada un entorno para el desarrollo de un sistema de recuperación de información textual, según la potencialidad, la disponibilidad y la efectividad de los recursos computacionales.
+4.  Documentar y exponer de forma clara y precisa el modelo, los programas y/o el sistema de recuperación de información textual desarrollado.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+El estudio de los sistemas de recuperación textual debe estar dirigido a que los estudiantes identifiquen las características, ventajas y desventajas en la utilización y/o adecuación de los diferentes modelos para la implementación del sistema.
+
+Teniendo en cuenta la situación actual de los sistemas de información, así como la magnitud, la naturaleza y la diversidad de los datos gestionados, es importante ubicar al estudiante en el sector del problema general que la modelación matemático-computacional abordada resolverá.
+
+El programa de la asignatura debe actualizarse sistemáticamente con enfoques y temáticas en evolución utilizando todas las vías académicas disponibles
+
+Asimismo, deben presentarse al estudiante soluciones arquitectónicas para sistemas de información en ambientes computacionales diversos, de modo que sean capaces de modificar y/o desarrollar nuevas soluciones durante los estudios de posgrado.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios se relacionen con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Ciencia de Datos que traten los temas relacionados con la ingeniería de los datos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+*   **Seminarios evaluativos** donde el estudiante presente un tema determinado, para evaluar tanto el conocimiento adquirido por el estudiante como las habilidades para la presentación y exposición en público.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Baeza-Yates R. y Berthier Ribeiro Neto Modern “Information Retrieval”, Addison-Wesley, 1999. [http://sunsite.dcc.uchile.cl/irbook/](http://sunsite.dcc.uchile.cl/irbook/).
+2.  Manning, Ch. D.; Raghavan, P.; Schütze, H. “An Introduction to Information Retrieval”. Cambridge University Press. Inglaterra, 2007.
+
+**COMPLEMENTARIA**
+
+1.  Abramowicz, W. (Ed.). “Business Information Systems. Lecture Notes in Business Information Processing”. Springer Verlag. EUA, 2013. ISBN 978-3-642-38365-6; e-ISBN 978-3-642-38366-3.
+2.  Kumar, J. “Apache Solr Search Patterns.” Packt Publishing Ltd. Reino Unido, 2015. ISBN 978-1-78398-184-7.
+3.  Lawson, R.” Web Scraping with Python”. Packt Publishing Ltd. Reino Unido, 2015. ISBN 978-1-78216-436-4.
+4.  Leskovec, J.; Rajaraman, A.; Ullman, J. D. “Mining of Massive Datasets”, Copyright © 2010, 2011, 2012, 2013, 2014 Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman. Stanford University. [www.mmds.org](http://www.mmds.org/).
+5.  Shahi, D. “Apache Solr: A Practical Approach to Enterprise” Search. Apress. Springer Science+Business Media. EUA, 2015. ISBN-13 (pbk): 978-1-4842-1071-0; ISBN-13 (electronic): 978-1-4842-1070-3.
+
+#### Asignatura: Sistemas Computacionales y Redes
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Sistemas Operativos. Conceptos esenciales. | 12 | 6 | 6 |  |  |  |
+| Manejo de recursos y sockets | 12 | 6 | 4 |  |  | 2 |
+| Redes de Computadoras | 20 | 10 | 6 |  | 4 |  |
+| Virtualización y Contenerización | 8 | 4 | 2 |  | 2 |  |
+| Sistemas Distribuidos | 12 | 6 | 4 |  |  | 2 |
+| Totales | 64 | 32 | 22 |  | 6 | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Para el análisis de datos muchas veces es necesario consultar información que se encuentra fuera del ordenador utilizado o que para su procesamiento requiere recursos que se encuentran distribuidos. Ante esta problemática los científicos de datos requieren conocimientos básicos del funcionamiento de los sistemas computacionales y redes de computadoras.
+
+La asignatura complementa el estudio de los sistemas computacionales al introducir al estudiante en el conocimiento, a través del análisis conceptual, de sus componentes fundamentales, sus estructuras y sus funciones. El plan de estudio está diseñado para contribuir en la formación integral de los estudiantes en aras de aplicar conocimientos científicos y tecnológicos en la solución de problemas, aplicando normas, estándares de calidad y seguridad vigentes en el ámbito del desarrollo tecnológico y los sistemas computacionales.
+
+El egresado debe contribuir al desarrollo de las redes de información y comunicación a través de los conocimientos del funcionamiento de las redes, los protocolos de comunicación existentes y los algoritmos de comunicación; con el objetivo de utilizar estos conocimientos desde la perspectiva de la ciencia de datos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar las bases del funcionamiento de los sistemas operativos en la utilización eficiente de los recursos computacionales de un sistema dado.
+2.  Aplicar las bases del funcionamiento de las redes de computadoras en los procesos de ciencia de datos que ocurren a través de las redes de computadoras.
+3.  Aplicar los conocimientos de comunicaciones de datos al funcionamiento de sistemas de analítica.
+4.  Determinar cuándo algunos de los procesos de transmisión de datos pueden afectar el procesamiento de los mismos.
+5.  Aplicar los conceptos básicos de virtualización y contenedores como herramientas para la creación de entornos de desarrollo reproducibles.
+6.  Aplicar los fundamentos y conceptos básicos de los sistemas distribuidos en los procesos de ciencia de datos que ocurren de manera distribuida en un entorno reticular
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Funciones del sistema operativo como administrador de recursos y como interfaz entre usuario y medio técnico. Sus componentes, Sistemas de archivo, Administración de la memoria, Manipulación del procesador, Administración de Entrada/Salida. Proceso, Sincronización y comunicación entre procesos concurrentes.
+
+Fundamentos acerca de la transmisión de datos. Medios que se emplean en la interconexión de computadoras en redes. Arquitecturas de las redes de computadoras. Topologías. Modelos de referencia estándar. Redes de Área Local. Redes de Área Extendida. Internet. Pila de protocolos TCP/IP. Algoritmos para la comunicación de datos en redes de computadoras. Contenerización y virtualización. Algoritmos distribuidos. Comunicación. Tolerancia a fallas. Sincronización. Algoritmos de consenso. Almacenamiento distribuido.
+
+**Habilidades principales a dominar**

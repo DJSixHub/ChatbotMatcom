@@ -1,0 +1,114 @@
+Fundamentos teóricos de las redes neuronales. Funcionamiento de una red neuronal. Back propagation. Funciones de activación. Tipos de arquitectura de redes: Feed Forward, Convolucionales, Recurrentes, LSTM, GAN. Embedding y Autoencoders. Modelos Transformer Regularización y Dropout. Destilación Transfer learning
+
+**Habilidades principales a dominar**
+
+1.  Resolver problemas que no siempre caben en memoria y realizar los cambios apropiados a los algoritmos basados en redes neuronales para que este nuevo tipo de problemas se pueda resolver
+2.  Modificar el proceso de aprendizaje de máquina para que pueda adaptarse a diferentes problemas.
+3.  Evaluar diferentes partes de este proceso
+4.  Identificar y solucionar errores en la ejecución de algoritmos basados en redes neuronales
+5.  Manejar los datos con grandes dimensiones desde los algoritmos estudiados
+6.  Valorar las implicaciones éticas y morales del uso de datos en las soluciones basadas en redes neuronales tanto a nivel individual como social y las herramientas existentes para lidiar con las consecuencias.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Como complemento de esta asignatura se propone ofertar cursos optativos de aplicaciones concretas del aprendizaje profundo a dominios específicos. Por ejemplo, redes neuronales para la biomodelación.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Inteligencia Artificial que traten los temas relacionados con el procesamiento de lenguaje natural, uno de los dominios donde mejores resultados obtienen los métodos basados en aprendizaje profundo.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  “Deep Learning (Adaptive Computation and Machine Learning series)”, The MIT Press, 2016.
+
+**COMPLEMENTARIA**
+
+1.  François Chollet. “Deep Learning with Python” Manning Publications Co. 2021
+2.  Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong “Mathematics for Machine Learning” Cambridge University Press, 2020
+3.  Andriy Burkov. The Hundred-Page Machine Learning Book
+
+#### Asignatura: Elementos de Inteligencia Artificial
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Teoría de IA | 14 | 6 | 6 |  |  | 2 |
+| Proceso de desarrollo | 20 | 8 | 8 | 2 | 2 |  |
+| Problemas más comunes | 14 | 6 | 4 |  | 4 |  |
+| Totales | 48 | 20 | 18 | 2 | 6 | 2 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura da un contexto general tanto a los temas de aprendizaje de máquina como a los de redes neuronales. Además, se presentan los fundamentos teóricos del campo de la inteligencia artificial que requieren una mayor cantidad de conocimientos de diferentes disciplinas para poder ser comprendidos en profundidad por los estudiantes.
+
+En esta asignatura se abordan distintas cuestiones como conocer que no suele haber una solución mejor a los problemas de Inteligencia Artificial, sino que se determina la mejor solución a partir de la experimentación y la teoría conocida, apoyándose en los resultados de otros trabajos. Ello es esencial en la Ciencia de Datos, donde la mayor parte del tiempo, dado el volumen y complejidad de los datos, no existe una solución óptima sino una mejor solución y hay que tener las herramientas y el conocimiento para poder determinarla dentro de un espacio de solución amplio.
+
+Esta asignatura brinda un cierre a la disciplina de Inteligencia Artificial y enmarca en un contexto los diferentes tipos de problemas y las diferentes aproximaciones a los mismos. Los contenidos y habilidades desarrollados en esta asignatura son esenciales para el científico de datos, pues le dan las herramientas conceptuales para tomar las mejores decisiones a la hora de aplicar la inteligencia artificial a un problema de la vida real, y entender las implicaciones teóricas y prácticas de la aplicación de las técnicas de inteligencia artificial en diferentes contextos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Identificar los límites de las técnicas de Inteligencia Artificial y hasta dónde pueden llegar aplicándolas.
+2.  Utilizar las herramientas de la Inteligencia Artificial para lidiar con problemas de alto nivel producto de que los datos no siempre se encuentran en las condiciones deseadas para resolver el problema.
+3.  Situar los problemas relacionados con inteligencia artificial en un marco teórico común que permite analizar estos problemas en el ámbito de la Ciencia de Datos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Datos faltantes. Data augmentation. Problemas de grandes dimensiones
+
+Reducción de ruido. Preprocesamiento. Teorema del patico feo y no free lunch. Degradación de los modelos. Aprendizaje online. Proceso de modelación y evaluación de algoritmos de Inteligencia Artificial. Ajuste de hiperparámetros y selección de modelos.
+
+**Habilidades principales a dominar**
+
+1.  Utilizar el método científico para resolver problemas de aprendizaje de máquina.
+2.  Resolver problemas relacionados donde los datos no son idóneos
+3.  Identificar restricciones teóricas de los algoritmos.
+4.  Establecer similitudes entre problemas de aprendizaje de máquina.
+5.  Comunicar los límites de solución o su inexistencia a problemas particulares y la fundamentación de ello.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:

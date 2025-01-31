@@ -1,0 +1,86 @@
+1.  Caracterizar las estructuras algebraicas de modo que comprendan su carácter unificador de situaciones particulares de índole diversa y desarrollen habilidades para el cálculo de las mismas y su aplicación a la resolución de tareas concretas.
+2.  Caracterizar los morfismos entre objetos que respondan a una misma estructura algebraica, concibiéndolos como las formas naturales de establecer conexiones entre los mismos que sean compatibles con la estructura en cuestión y desarrollen habilidades para su aplicación a la resolución de tareas concretas.
+3.  Construir nuevos objetos que respondan a una determinada estructura algebraica a partir de objetos dados previamente, así como derivar propiedades de los nuevos objetos.
+4.  Utilizar el trabajo con matrices, de tal forma que se realicen representaciones matriciales del modo que más convenga al problema tratado.
+5.  Utilizar la noción de isomorfismo entre objetos que posean una determinada estructura algebraica, de modo que comprendan la identidad algebraica existente entre dos objetos isomorfos, así como la identificación de la condición de isomorfos entre dos objetos dados y que puedan utilizarla para simplificar el trabajo algebraico de uno a otro objeto.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Números Complejos y polinomios. Matrices. Definición y operaciones con matrices. Determinante de una matriz. Inversa de una matriz. Rango de una matriz. Matrices especiales. Transformaciones elementales. Sistemas de ecuaciones lineales en la modelización de datos.
+
+Espacios vectoriales Definición de espacio vectorial (e.v.). Vectores, combinaciones lineales, dependencia, generadores, dimensión de un e.v., bases, coordenadas de un vector en una base. Subespacios vectoriales (sev), operaciones entre sev, sev invariante, sistema generador. Ecuaciones de cambio de base.
+
+Aplicaciones lineales. Aplicaciones lineales e independencia lineal. Isomorfismos y coordenadas. Representación coordenada de una aplicación lineal: aplicaciones lineales y matrices. Núcleo e imagen. Teorema fundamental de las dimensiones. Matriz de una aplicación en una base; cambio de base.
+
+Teoría del endomorfismo. Matrices semejantes. Propiedades de las matrices semejantes. Valores y vectores propios; polinomio característico y espectro de una matriz; multiplicidad geométrica y algebraica. Diagonalización. Aplicaciones.
+
+Espacios vectoriales euclidianos. Ortogonalidad Producto escalar, norma, distancia, ángulo. Complemento ortogonal y proyección ortogonal. Bases ortonormales. Procedimiento de Gramm-Schmidt.
+
+**Habilidades principales a dominar**
+
+1.  Representar matricialmente sistemas lineales y utilizar tal representación para clasificar y resolver el sistema.
+2.  Realizar cálculo con matrices y cálculo de determinantes. Cálculo del rango de una matriz y su empleo para el análisis de sistemas lineales. Determinar la inversibilidad de una matriz, el cálculo de su inversa y el empleo de ésta para la resolución de sistemas lineales.
+3.  Hallar ejemplos en que se verifiquen o no las condiciones que caracterizan a los diferentes conceptos y propiedades abordados en el programa de la asignatura.
+4.  Reproducir la formulación de los conceptos y propiedades abordados en el programa así como la demostración de estas últimas.
+5.  Aplicar los conceptos y propiedades que aparecen en el programa a la resolución de tareas concretas.
+6.  Reconocer la estructura de un espacio vectorial. Definir una estructura de espacio vectorial sobre un conjunto dado.
+7.  Identificar si un subconjunto define un subespacio de un espacio vectorial.
+8.  Determinar la suma e intersección de subespacios de un espacio vectorial. y reconocer la condición de suma directa de subespacios.
+9.  Determinar la dependencia o independencia lineal de sistemas de vectores. e identificar bases y dimensión de un espacio vectorial.
+10.  Representar vectores de un espacio vectorial mediante vectores coordenados y su uso para trasladar el trabajo en el espacio inicial al trabajo en un K^n (n=2,3) espacio. Transformación de expresiones mediante cambios de coordenadas.
+11.  Construir aplicaciones lineales, en particular, isomorfismos de espacios vectoriales. Obtener información sobre una aplicación lineal a partir de su representación matricial
+12.  Calcular el núcleo, la imagen, el rango y la nulidad de una aplicación lineal y uso de los mismos para derivar propiedades de la aplicación.
+13.  Representar un endomorfismo de un espacio vectorial mediante una matriz diagonal: determinar vectores y valores propios de un endomorfismo. Interpretar matricialmente la diagonalización de endomorfismos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se debe hacer énfasis en los espacios vectoriales de dimensión finita, que podrían destacarse, mediante ejemplos y ejercicios apropiados,. El caso de la inclusión de los temas relacionados con espacios euclidianos puede desagregarse en el tema de espacios vectoriales y luego en el tema de teoría de endomorfismos. También se debe destacar la importancia del uso de estructuras como matrices para el tratamiento de datos, mediante ejemplos vinculantes. Por otra parte, se considera importante que se exploten las ideas geométricas que subyacen en los conceptos y propiedades del Álgebra Lineal.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Programación y Sistemas de Información que permitan poner en práctica los conocimientos de esta asignatura en aplicaciones computacionales concretas.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Arazoza, H., Noriega, T. “_Álgebra._(Tomo I)”, Pueblo y Educación 1987, 315
+2.  Noriega, T., Piñeiro, L. “_Álgebra._ (Tomo II)”,Pueblo y Educación 1985
+
+**COMPLEMENTARIA**
+
+1.  Kurosch, R. “Curso de Algebra Superior”. Pueblo y Educación 1987, 442 págs.
+2.  Lipschutz, S. “Algebra lineal. Teoría y 600 problemas resueltos”, Edición Revolucionaria 1973, 334 págs.
+3.  Faddieev, D. “Problemas de Algebra Superior”, Pueblo y Educación 1971, 275 págs.
+4.  Aranda, E., “Problemas de Algebra Lineal con aplicaciones y Phyton”, 2019, URL: matematicas.uclm.es/earanda/?page\_id=152, 430 págs.
+5.  Bronson, R., Costa, G. C., Saccoman, J. T., “Linear Algebra.Algorithms, Applications and Techniques”, Elsevier 2014, 519 págs.
+6.  Deisenroth, M. P., Faisal, A. A., Ong, C. S., “Mathematics for Machine Learning”, Cambridge University Press. [URL://mml-book.com](about:blank).
+
+#### Asignatura: Matemática y Aplicaciones
+
+**DATOS PRELIMINARES**

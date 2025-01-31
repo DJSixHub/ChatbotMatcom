@@ -1,0 +1,95 @@
+1.  Utilizar procesos estocásticos para modelar y analizar situaciones prácticas.
+2.  Reconocer problemas que puedan modelarse como series de tiempo.
+3.  Utilizar series de tiempo para modelar problemas reales.
+4.  Realizar predicciones basadas en datos estructurados como series de tiempo.
+5.  Caracterizar una serie de tiempo.
+6.  Utilizar correctamente modelos como ARIMA y ARFIMA.
+7.  Validar los modelos utilizados.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Inteligencia Artificial que traten los temas relacionados con la simulación de procesos estocásticos y la generación de variables aleatorias.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+1.  Probability Models for Computer Science, S. Ross, 2002.
+2.  Time Series Analysis: With Applications in R (Springer Texts in Statistics) 2da Edición de Jonathan D. Cryer y Kung-Sik Chan.
+
+###
+
+### PROGRAMACIÓN Y SISTEMAS DE INFORMACIÓN
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Introducción a la Programación | BASE | 64 | 1 | 1 |  |
+| Programación | BASE | 64 | 1 | 2 |  |
+| Estructuras de Datos | BASE | 64 | 2 | 3 |  |
+| Complejidad Computacional | PROPIO | 64 | 2 | 4 | EF |
+| Bases de Datos | BASE | 64 | 2 | 3 |  |
+| Inteligencia de Negocios | BASE | 64 | 4 | 7 |  |
+| Sistemas de Recuperación de Información | PROPIO | 64 | 3 | 6 |  |
+| Sistemas computacionales y redes | BASE | 64 | 2 | 4 | EF |
+| Total de Horas | 512 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+Teniendo en cuenta que entre las actividades del profesional en Ciencia de Datos están la asimilación, la evaluación, la aplicación y, en menor medida, el desarrollo de pequeñas aplicaciones de _software_ orientado a procesamiento de datos y análisis de información, la disciplina de _Programación y Sistemas de Información_ tiene un carácter determinante en el plan de estudio.
+
+Los graduados de Ciencia de Datos, en general, desarrollarán un perfil aplicado, sin que esto signifique, obviamente, una carencia de los fundamentos teóricos generales que sirven de soporte a la Ciencia de Datos. Todos los contenidos de esta disciplina van orientados a formar habilidades específicas para la modelación y la toma de decisión basada en datos, y tienen una marcada inclinación hacia las cuestiones más prácticas.
+
+Esta disciplina provee al estudiante de una formación computacional que le permite implementar modelos y componentes de sistemas mayores de forma independiente. Para ello debe dominar recursos y lenguajes de programación, aunque esto no implica que necesite conocer a fondo todos los paradigmas de programación ni todos los patrones y conceptos de ingeniería de software. Por otro lado, requiere interactuar con sistemas de almacenamiento, procesamiento y análisis de datos, por lo que debe dominar las tecnologías correspondientes; sin implicar esto que es un mero ejecutor de consultas, por lo que cierto conocimiento teórico de los paradigmas que soportan el Big Data también es necesario, sin llegar hasta la profundidad necesaria para implementar estos sistemas desde cero. Las habilidades adquiridas en el transcurso de esta disciplina sirven de base para la puesta en práctica de los conocimientos adquiridos en el resto de la carrera.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+1.  Utilizar y aplicar las tecnologías computacionales como herramientas para la solución de problemas y la oferta de servicios basados en analítica de datos.
+2.  Integrar los conceptos teóricos y prácticos, de la teoría de la computación, en el desarrollo de _software_.
+3.  Determinar la importancia de que las abstracciones computacionales tengan una manifestación real y concreta en herramientas, lenguajes de programación, productos de _software_ y tecnologías.
+4.  Desarrollar aplicaciones de software con la disciplina, la organización, la dedicación y búsqueda de la calidad que estas requieren.
+5.  Desarrollar hábitos de cooperación y trabajo en equipos abiertos a la diversidad de ideas y enfoques.
+6.  Desarrollar capacidades de comunicación a través de la difusión y publicación de los desarrollos priorizando la búsqueda de la claridad, legibilidad y sencillez de los mismos.
+7.  Integrar diferentes paradigmas y concepciones de programación en la solución de problemas.
+8.  Desarrollar habilidades prácticas en lenguajes de programación que expresen diferentes paradigmas y enfoques, que sean utilizados en el mundo empresarial e institucional y respaldados por empresas y/u organizaciones. Dominar y hacer un uso eficiente de herramientas de desarrollo integradas a lo(s) lenguaje(s) estudiados.
+9.  Aplicar diferentes métodos de diseño e implementación de algoritmos y realizar la instrumentación de los mismos.
+10.  Utilizar las principales estructuras de datos y sus algoritmos asociados y aplicarlos en la expresión e instrumentación computacional de soluciones a los problemas en diferentes escenarios
+11.  Valorar el costo y factibilidad de implementación de conceptos y recursos estudiados y tratados por otras disciplinas de la carrera.
+12.  Valorar y reutilizar el _software_ existente en forma de código fuente, bibliotecas de tipos y paquetes.
+13.  Modelar y diseñar soluciones adaptables, flexibles y mantenibles, aplicando los principios de abstracción, encapsulamiento y tipado.
+14.  Aplicar los principales conceptos en que se basan los sistemas computacionales y las redes de computadoras.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Nociones básicas sobre computadoras, algoritmos, programas, len­guajes y ambientes de programación. El concepto de tipo. Tipos básicos y sus operaciones. Variables, constantes y expresiones. Tipos más abstractos. El concepto de objeto e instancia de un tipo. Métodos y Propiedades. Estructuras de control condicionales. Estructuras de control iterativas (ciclos). Estructuras de datos básicas como arrays, listas, conjuntos y diccionarios. Recursividad. Utilidad de la recursión para facilitar la expresión de la solución a un problema. Estrategias de solución de problemas.
+
+Jerarquías de Tipos. Herencia. Polimorfismo. Elementos de programación funcional. Delegados o funciones como ciudadanos de primera clase. Clausura. Elementos de programación concurrente. Hebras y sincronización. Introducción a otros lenguajes aplicados.
+
+Estructuras de datos básicas: pilas, colas, listas, diccionarios, y conjuntos. Definición general de conjunto. Definición de conjunto ordenado. Árboles. Árboles ordenados. Árbol Binario de Búsqueda. Operaciones de inserción, eliminación y búsqueda en árboles ordenados. Recorridos. Grafos. Representaciones computacionales de grafos. Grafo dirigido y no dirigido, aplicaciones. Algoritmos de búsqueda en grafos (BFS, DFS, A\*). Componentes conexas y fuertemente conexas. Construcción de árboles abarcadores minimales. Orden topológico.

@@ -1,0 +1,72 @@
+El profesor principal de la disciplina debe propiciar el enfoque interdisciplinario en coordinación con los colectivos de profesores de años. Se tendrá en cuenta que los contenidos y actividades docentes de la disciplina Preparación para la Defensa y de las disciplinas específicas de la carrera, que se articulan con ésta, queden adecuadamente diseñados.
+
+Las disciplinas comprendidas en el programa de la carrera se vinculan a través de una estrategia curricular con objetivos e indicaciones metodológicas donde se establece la interdisciplinariedad entre estas y la disciplina de Preparación para la Defensa en función de garantizar la formación integral de los estudiantes.
+
+Es necesario utilizar métodos activos de enseñanza para crear la capacidad de reflexión y análisis de los estudiantes en el estudio de los contenidos de la Seguridad y Defensa Nacional que permita la identificación de los conceptos y el uso de herramientas básicas que promuevan la participación a través de dinámicas grupales tales como: exposición - discusión, juegos de roles, análisis de casos, o cualquier otro método que active el proceso de enseñanza aprendizaje; además de permitirle la independencia cognoscitiva y el autoaprendizaje.
+
+Se fomentará el uso de plataformas interactivas, internet e intranet y otras tecnologías educativas en aras de lograr la independencia y autoaprendizaje de los estudiantes.
+
+Se pondrá a disposición de los estudiantes, materiales didácticos, videos, artículos científicos, metodológicos y normativas tanto impresas como en formato digital para que los estudiantes realicen actividades independientes con el fin de consolidar los objetivos y actualizar los conocimientos y habilidades adquiridos en clases.
+
+Coordinar con la disciplina principal integradora de la carrera “Práctica Profesional” del “Licenciado en Ciencia de Datos”, el cumplimiento de trabajos relacionados con la Seguridad y Defensa Nacionales como la evaluación de riesgos, análisis de Planes de Tiempo de Guerra de la entidad, entre otras.
+
+**Sistema de evaluación**
+
+La disciplina posee evaluación final basada en el desempeño individual del estudiante, teniendo en cuenta las preguntas de comprobación, los resultados de trabajos en los seminarios y clases prácticas, la realización de un trabajo extra clase al finalizar lo referido a la Seguridad Nacional, y al terminar el contenido de la Defensa Nacional una prueba parcial. Además de la actitud ante las actividades extracurriculares relacionadas con la Defensa.
+
+**BIBLIOGRAFÍA**
+
+1.  Texto Básico de la Disciplina, “Preparación para la Defensa para los estudiantes de la Universalización de la Educación Superior”, Editorial Félix Varela, La Habana, 2008.
+2.  “Colectivo de autores”, Seguridad Nacional y Defensa Nacional para estudiantes de la Educación Superior. Editorial Félix Varela, 2013.
+3.  Colectivo de autores, “Glosario de los Principales conceptos de la Disciplina Preparación para la Defensa”, Editorial Félix Varela, La Habana, 2004.
+4.  “Glosario de Seguridad y Defensa Nacional”, CODEN, 2008.
+5.  Colectivo de autores, “Sistema de Medidas de la Defensa Civil para los Estudiantes de los Centros de Educación Superior DIEM-MES”,. Editorial Félix Varela 2008.
+6.  VII Congreso del PCC. “Conceptualización del modelo económico y social cubano de desarrollo socialista·. La Habana. 2017.
+7.  VII Congreso PCC. ”Lineamientos de la política económica y social del Partido y la Revolución para el período 2016 – 2011”. La Habana. 2017.
+8.  VII Congreso del PCC. “Acepción de algunos términos utilizados en la conceptualización del modelo económico y social cubano de desarrollo socialista y en las bases del Plan nacional de desarrollo económico y social hasta el 2030”. La Habana. 2017.
+
+#### Asignatura: Seguridad y Defensa Nacional
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| I. La seguridad internacional | 10 | 2 | 4 |  | 4 |  |
+| II. Fundamentos de la seguridad nacional cubana | 14 | 2 | 8 |  | 4 |  |
+| III. La defensa civil y la reducción de desastres | 12 | 2 | 6 |  | 4 |  |
+| IV. La Doctrina militar cubana y el sistema defensivo territorial | 16 | 2 | 4 | 4 | 4 | 2 |
+| V. Preparación del país para la defensa | 14 | 4 | 6 |  | 4 | 2 |
+| Totales | 68 | 12 | 28 | 4 | 20 | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La asignatura Seguridad y Defensa Nacional forma parte de la Disciplina Preparación para la Defensa. Además, se relaciona con tareas vinculadas a la disciplina integradora “Práctica Profesional del Licenciado en Ciencia de Datos”, ajustada en cada Universidad donde se cursa la carrera, en dependencia de las necesidades del territorio.
+
+La asignatura posibilita resolver el problema planteado dada la necesidad de dotar al estudiante de los conocimientos teóricos básicos en Seguridad y Defensa Nacional, que los capacite para interpretar adecuadamente los riesgos, amenazas y agresiones de carácter interno y externo a que ha sido sometido el país en el pasado, en la actualidad y en el futuro, y con ello estar en condiciones de aplicar, analizar, y crear métodos, modelos matemáticos y programas automatizados en los campos de acción de la Seguridad y Defensa Nacional.
+
+Además, se hace necesario profundizar en cada una de las dimensiones que conforman la seguridad nacional y en especial la política moral, la científica, la tecnológica, la económica, la social y la seguridad de la información dado el vínculo con la carrera.
+
+El objeto de estudio lo constituyen las acciones que se realizan en el ámbito del desarrollo sostenible y de defensa ante cada tipo de riesgo, amenaza y agresión, como base de la condición que alcanza el país como resultado de su poderío nacional que permita prever y adoptar las medidas para el logro de los intereses y objetivos nacionales.
+
+Al profundizar en el poderío y las dimensiones de la seguridad nacional, sobre todo la científico – tecnológica y la seguridad informática, permite al licenciado en computación estar en condiciones de aplicar, analizar, y crear métodos, modelos matemáticos y programas automatizados que permitan las acciones en los campos de la Seguridad y Defensa Nacional.
+
+El propósito de la asignatura consiste en contribuir en el cumplimiento del objetivo fundamental de la carrera de Computación de formar un profesional de perfil amplio, con un alto nivel de compromiso social y espíritu solidario, técnica y científicamente capacitado para actuar de manera independiente y creadora en la resolución de una serie de problemas comunes que surgen en las más variadas esferas de la práctica social, mediante la aplicación de los métodos, modelos matemáticos y programas automatizados. Así como, lograr que se identifique con los intereses de la nación cubana y ser un fiel continuador de las tradiciones patrióticas y revolucionarias de nuestro pueblo. Defender la Patria con la convicción de que ello constituye el más grande honor y el deber supremo de cada cubano, apoyándose en sus motivaciones y convicciones patrióticas e internacionalistas.
+
+La estrategia curricular diseñada tiene un componente importante en las actividades como el juramento de las milicias de tropas territoriales, las reservas listas, la realización de los Bastiones estudiantiles universitarios y la participación en actividades vinculadas con la educación militar, patriótica e internacionalista (EMPI).
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+Al finalizar la asignatura, los estudiantes deben ser capaces de:
+
+*   Valorar los riesgos, amenazas, retos y desafíos que enfrenta la sociedad cubana en todas las esferas (política, ideológica, institucional, social, económica, demográfica, cultural, tecnológica, ambiental y otras) en correspondencia con las concepciones de seguridad y defensa nacional del país.
+*   Demostrar mediante su actuación una cultura integral de seguridad y defensa nacional basado en los principios de defensa de la Patria y la sostenibilidad del desarrollo de los potenciales del poderío nacional.
+*   Demostrar conocimientos, habilidades y valores que les permita desde su profesión de Matemático, enfrentar los diferentes tipos de riesgos, amenazas y agresiones a la sociedad cubana y así tributar a la preservación de los intereses y objetivos nacionales.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Seguridad: evolución histórica del concepto, su polisemia; debate actual, principales paradigmas, institucionalización y perspectivas. La seguridad internacional, definición de la ONU. La seguridad regional. Interrelaciones entre ambas. Los riesgos, desafíos y amenazas a la Seguridad Internacional y Seguridad Regional. Su influencia en Cuba. Los problemas globales y la seguridad nacional. Ejemplificar el tratamiento de estos temas en el ámbito de la ciencia, tecnología e innovación tecnológica, así como en el medio social donde se desarrolla el profesional.
+
+La Seguridad Nacional de Cuba. Términos y definiciones principales. Sus dimensiones. Las acciones que se realizan en el ámbito del desarrollo sostenible y de defensa del País (la Revolución y el socialismo) ante cualquier tipo de riesgo, amenaza y agresión. Los intereses y objetivos nacionales. El poderío nacional y sus potenciales. Papel del profesional en la seguridad nacional. Los riesgos, amenazas y agresiones. La relación riesgo, amenaza y vulnerabilidad en la seguridad nacional cubana. Hacer énfasis en la seguridad científico tecnológica, de la información y de defensa civil.

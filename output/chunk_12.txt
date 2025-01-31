@@ -1,0 +1,76 @@
+Teorías de los procesos políticos contemporáneos. Ética y política. Interacciones entre las categorías sistema político, poder político, Estado, sociedad civil, partidos políticos, sistemas de partidos, legitimidad, consenso y sistema electoral. Cultura política y participación. El papel de las TICs en los procesos políticos. Relación entre ciudadano, soberanía y ciudadanía. Influencia de las decisiones políticas en la esfera de las ciencias de la computación y su impacto para los ciudadanos. Tendencias actuales de las relaciones políticas internacionales. Cuba: su inserción en el sistema internacional. El sistema político cubano: particularidades en su formación y desarrollo. Relación entre la política y la economía en la reconfiguración del Sistema Político Cubano a partir de la década del 90. La Constitución de la República de Cuba.
+
+**Habilidades principales a dominar**
+
+1.  Interpretar las fuentes bibliográficas, y extraer de ellas los contenidos deseados de acuerdo a un sistema organizado de procesamiento y almacenamiento de información.
+2.  Fundamentar adecuadamente sus ideas, tanto en forma oral como escrita, conservando una lógica correcta en la exposición.
+3.  Analizar, desde la perspectiva que ofrece el conocimiento de los fundamentos teóricos y metodológicos del Marxismo Leninismo, los procesos políticos internacionales y de la transición socialista en Cuba.
+4.  Evaluar los problemas sometidos a debate, adoptando como punto de referencia las formulaciones contenidas en los documentos programáticos del Partido y en el pensamiento político de Fidel Castro.
+5.  Explicar partiendo de la ideología de la Revolución Cubana, el reto de nuestro proyecto socialista en las condiciones de un mundo unipolar, mostrando capacidades para comprender y transformar la realidad del proceso de transición socialista.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+A partir de los métodos que se emplean en clase, la asignatura contribuirá a la educación en valores tales como el espíritu crítico y autocrítico, el respeto, la solidaridad, el humanismo, la honestidad y la responsabilidad; a fomentar la identidad nacional y convicciones políticas e ideológicas en correspondencia con el proyecto sociopolítico cubano, su legitimidad histórica, y sus imbricaciones económicas y políticas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Esta asignatura consta de 48 horas de las actividades presenciales, en las que se debe asignar un mínimo de tiempo a las conferencias a favor de las actividades de seminario, de este modo la conferencia tendrá un carácter de orientación de los contenidos y del trabajo independiente del estudiante. En los seminarios se debatirán los temas cruciales, polémicos y de actualidad.
+
+Como no tiene examen final escrito, debe propiciarse la participación activa de todos los estudiantes en los seminarios que tendrán carácter evaluativo. Podrá indicarse la realización de trabajos extra-clase.
+
+El profesor debe tener en cuenta que el estudiante ya ha cursado Filosofía y Sociedad y Economía Política, asignaturas de la disciplina que la preceden y por tanto constituyen puntos de partida para el nuevo conocimiento, de ahí que sea importante revisar los sistemas de conocimientos de dichas asignaturas para identificar los puntos de contactos y de esta manera evitar que se repitan los contenidos y aprovecharlos en el debate. De esta manera se le tramite al estudiante la visión integradora del marxismo, la cual tiene que complementarse con el análisis de los planes y programas de estudio de las diferentes carreras, sus objetivos, perfil del egresado, contenidos de las disciplinas y asignaturas afines y los métodos de estudio, para garantizar un mayor nivel de precisión y calidad en la materialización de las presentes indicaciones.
+
+Por lo que debe mantenerse el intercambio sistemático entre los profesores que imparten las asignaturas que componen la disciplina y entre éstos y los profesores de Teoría Económica, de manera tal que nos permita el continuo perfeccionamiento de nuestros programas de estudio y logremos dar al estudiante la visión integradora del marxismo.
+
+Ha de ser una prioridad del profesor lograr que el estudiante se reconozca como ciudadano de la sociedad cubana de manera que le permita comprender su lugar como futuros profesionales en el entramado de relaciones políticas, por lo cual constituye un elemento que transversaliza todo el programa.
+
+Por último, debe diseñarse el examen de la problemática del sistema político cubano de manera tal que incluya estudios concretos sobre nuestra realidad que permitan no simplemente explicar la política por la política, sino la política y sus implicaciones prácticas para los ciudadanos. Este tema constituye el más importante por lo que se le deberá dar más tiempo para su tratamiento.
+
+**Sistema de evaluación**
+
+Será a través de la evaluación por desempeño en la participación en los debates propiciados por el profesor en las conferencias, seminarios y clase práctica.
+
+**BIBLIOGRAFÍA**
+
+1.  Colectivo de Autores “Una Ciencia Política desde el Sur”, La Habana, Editorial Félix Varela, 2009.
+2.  Colectivo de Autores “Política y Sociedad Contemporáneas: Un acercamiento a los dilemas políticos de la Educación Superior”, La Habana, Editorial Félix Varela, 2010.
+3.  Colectivo de Autores “Intromisión en la participación política”, La Habana, Editorial Félix Varela, 2015.
+4.  Colectivo de autores “El ideal Socialista en la sociedad cubana: ayer y hoy”, La Habana, Sello Editorial filosofi@cu, Instituto de Filosofía, 2016.
+5.  “Constitución de la República de Cuba La Habana”
+
+####
+
+#### Asignatura: Estudios de Ciencia, Tecnología y Sociedad
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Taller | eval. |
+| Estudios en Ciencia, Tecnología y Sociedad. Cultura científica: desafíos en la formación y desarrollo de los profesionales en el campo de la Ciencia de Datos | 10 | 4 |  | 2 | 4 |  |
+| Los procesos de elaboración de las políticas públicas en Ciencia, tecnología e innovación. Implicaciones del profesional de la Ciencia de Datos | 8 | 2 |  | 2 | 4 |  |
+| La relación ciencia-valor en la contemporaneidad: el aporte de la bioética y el holismo ambiental. Pertenencia de su estudio en la formación de los profesionales de la Ciencia de Datos | 14 | 4 |  | 4 | 6 |  |
+| Totales | 32 | 10 |  | 8 | 14 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La asignatura de Estudios de Ciencia, Tecnología y Sociedad posee como fin ofrecer una visión integral de los elementos que caracterizan a la ciencia y la tecnología, dejando esclarecido condiciones históricas de su surgimiento y desarrollo, así como los factores sociales que inciden en el mismo y la repercusión en la transformación social misma, develando de esta manera componentes esenciales de corte epistemológicos, políticos, económicos, ideológicos, y éticos entre los más significativos que accionan en ella y la particularizan para comprender el impacto social y las regularidades de su desarrollo.
+
+De esta forma con la asignatura, se ponen en evidencia los vínculos indivisibles de carácter orgánico, que hacen inseparables la triada presente en su análisis, a saber: ciencia, tecnología y sociedad, para aproximarnos así a las maneras de actuar y retro-actuar los unos en los otros, contextual y universalmente. Desde esta perspectiva de análisis se rompe con las fragmentaciones históricas a que han sido sometidas, las cuales han conllevado a que se hiciera más énfasis en las consecuencias sociales y no en sus causas.
+
+Por otra parte, en las condiciones actuales del mundo y, concretamente de Cuba, se considera que la asignatura tiene un valor teórico y práctico integrador no sólo porque satisface demandas de los perfiles profesionales, sino también porque contribuye, en estrecho vínculo con las asignaturas de la disciplina y con otras disciplinas de los planes de estudio a la materialización del proyecto integral de trabajo educativo de los diferentes años y carreras y a la formación cultural integral revolucionaria de los futuros egresados. Pero además, en el plano de la Disciplina de Marxismo - Leninismo, la asignatura cumple un papel significativo en la medida en que al constituir la última en el ciclo permite culminar todo un periodo de formación socio humanista, que tiene gran alcance para la formación científica, político-ideológica y cultural de los futuros egresados de la Educación Superior y su potenciación para comprender y transformar la realidad.
+
+A todo lo anterior se añade que la asignatura se encuentra avalada por largos años de experiencia del departamento como centro rector de esos estudios y sus perfeccionamientos, todo lo cual encuentra su expresión en la cantidad y calidad de Doctores y Máster que la imparten, y la responsabilidad en la atención a los procesos de obtención de Grados Científicos y categorías docentes e investigativas vinculados a sus contenidos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+Que los estudiantes sean capaces de:
+
+1.  Valorar los problemas y dinámicas ciencias-tecnologías-sociedades para la comprensión de las multicrisis sociales y ambientales hoy, en su vínculo con los perfiles y desempeños profesionales en el área de las Ciencias de la Computación.
+2.  Analizar lo nuevo que aportan los estudios en ciencia, tecnología y sociedad y cómo conectan con la formación y desempeño de los profesionales de esta carrera.
+3.  Evaluar los principales dilemas en los procesos de elaboración de las políticas públicas de ciencia, tecnología e innovación.
+4.  Valorar la pertinencia que tiene la emergencia y despliegue de la bioética global y el holismo ambientalista para el replanteamiento de la relación ciencia-valor, en el ámbito específico de la Ciencia de Datos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**

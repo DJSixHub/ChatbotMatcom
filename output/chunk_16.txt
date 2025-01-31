@@ -1,0 +1,53 @@
+La asignatura se imparte en conferencias y seminarios, en los cuales se evalúan sistemáticamente los contenidos más importantes.
+
+**Sistema de evaluación**
+
+Se desarrollan evaluaciones sistemáticas.
+
+**BIBLIOGRAFÍA**
+
+1.  Torres Cuevas, Eduardo y Loyola, Oscar. Historia de Cuba (1492-1898). Formación y liberación de la Nación
+2.  López Civeira, Francisca. Cuba. Seis Décadas de Historia entre 1899 y 1959
+3.  López Civeira, Francisca; Loyola Vega, Oscar; Silva León, Arnaldo. Cuba y su Historia
+
+###
+
+### PREPARACIÓN PARA LA DEFENSA
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Seguridad y Defensa Nacional | BASE | 68 | 4 | 7 |  |
+| Total de Horas | 68 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+La disciplina Preparación para la Defensa forma parte del currículo base en el Plan de Estudio y forma parte de las disciplinas de formación general. Además, se relaciona con tareas vinculadas con la Seguridad y Defensa en la disciplina principal integradora “Práctica Profesional del Licenciado en Ciencia de Datos”, que conforma el currículo y se ajusta en cada universidad donde se cursa la carrera, en dependencia de las necesidades del territorio.
+
+Permite resolver el problema planteado dada la necesidad de dotar al estudiante de los conocimientos teóricos básicos en Seguridad y Defensa Nacional, que los capacite para interpretar adecuadamente los riesgos, amenazas y agresiones de carácter interno y externo a que ha sido sometido el país en el pasado, en la actualidad y en el futuro, y con ello estar en condiciones de aplicar, analizar, y crear métodos, modelos matemáticos y programas automatizados en los campos de acción de la Seguridad y Defensa Nacional.
+
+Además, se hace necesario profundizar en cada una de las dimensiones que conforman la Seguridad Nacional y en especial la político – moral, científico – tecnológica, el económico - social y la seguridad de la información dado el vínculo con la carrera.
+
+El objeto de estudio lo constituyen las acciones que se realizan en el ámbito del desarrollo sostenible y de defensa ante cada tipo de riesgo, amenaza y agresión, como base de la condición que alcanza el país como resultado de su Poderío Nacional que permita prever y adoptar las medidas para el logro de los intereses y objetivos nacionales.
+
+El propósito de la disciplina consiste en contribuir en el cumplimiento del objetivo fundamental de la carrera de Ciencia de Datos de formar un profesional de perfil amplio, con un alto nivel de compromiso social y espíritu solidario, técnica y científicamente capacitado para actuar de manera independiente y creadora en la resolución de una serie de problemas comunes que surgen en las más variadas esferas de la práctica social, mediante la aplicación de los métodos, modelos matemáticos y programas automatizados. Así como, lograr que se identifique con los intereses de la nación cubana y ser un fiel continuador de las tradiciones patrióticas y revolucionarias de nuestro pueblo. Defender la Patria con la convicción de que ello constituye el más grande honor y el deber supremo de cada cubano, apoyándose en sus motivaciones y convicciones patrióticas e internacionalistas.
+
+La estrategia curricular diseñada tiene un componente importante en las actividades como el juramento de las Milicias de Tropas Territoriales, las reservas listas, la realización de los Bastiones Estudiantiles Universitarios y la participación en actividades vinculadas con la Educación Militar, Patriótica e Internacionalista (EMPI).
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+Al finalizar la disciplina los estudiantes deben ser capaces de:
+
+1.  Valorar los riesgos, amenazas, retos y desafíos que enfrenta la sociedad cubana en todas las esferas (política, ideológica, institucional, social, económica, demográfica, cultural, tecnológica, ambiental y otras) en correspondencia con las concepciones de Seguridad y Defensa Nacional del país.
+2.  Demostrar mediante su actuación una cultura integral de Seguridad y Defensa Nacional basado en los principios de la Defensa de la Patria y la sostenibilidad del desarrollo de los potenciales del Poderío Nacional.
+3.  Demostrar conocimientos, habilidades y valores que les permita desde su profesión de Licenciado en Ciencia de Datos, enfrentar los diferentes tipos de riesgos, amenazas y agresiones a la sociedad cubana y así tributar a la preservación de los intereses y objetivos nacionales.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Seguridad: Conceptos. La Seguridad Internacional y Regional y su influencia en la Seguridad Nacional de Cuba. La Seguridad Nacional de EE.UU y su influencia para el mundo. El «poder inteligente» como concepción estratégica que combina los instrumentos tradicionales o poder duro (poder militar y coerción económica), con el «poder blando» (apoyo a la subversión, guerras mediáticas, promoción de su cultura y valores, etc.) Peligros para la Seguridad Nacional de Cuba provenientes de la política aplicada por los Estados Unidos de América, con énfasis en su declarado reconocimiento a las llamadas “sociedades civiles”, para justificar el apoyo a la subversión interna. Formas de agresión empleadas y los retos que implican, en especial para la ciencia, la tecnología y sus profesionales. Otras amenazas externas como el injusto e irracional orden económico y social internacional, las violaciones masivas de los derechos humanos, el deterioro del medio ambiente y los efectos del cambio climático, la migración y el éxodo del capital humano, el terrorismo y la amenaza de guerra (especialmente la ciberguerra y la guerra nuclear) así como los fenómenos naturales extremos, la aparición de enfermedades, epizootias y epifítias emergentes y reemergentes, entre otros. Peligros del “robo de cerebro” en la ciencia y la tecnología con el objetivo de subvertir la Revolución. Ejemplificar el tratamiento de estos temas en el ámbito de la ciencia, tecnología e innovación tecnológica, así como en el medio social del Licenciado en Ciencia de Datos, mediante la aplicación de métodos, modelos matemáticos y programas automatizados.
+
+El Concepto de Seguridad Nacional de Cuba y sus direcciones estratégicas como un sistema integrado por las estructuras que forman el sistema político y social, las acciones e interrelaciones que entre ellas se establecen, así como la política del Partido Comunista de Cuba, el Estado y el Gobierno, con el propósito de alcanzar y preservar los intereses y objetivos nacionales. El Poderío Nacional como garantía de la Seguridad Nacional y los potenciales que lo integran, con énfasis en el capital humano. Dimensiones de la Seguridad Nacional y su relación con el modo de actuación del Licenciado en Ciencia de Datos en el contexto político y económico social del territorio, en especial en las dimensiones la político – moral, la científico – tecnológica, la económico - social y la seguridad de la información dado el vínculo con la carrera. La Seguridad Cultural como dimensión integradora de la Seguridad Nacional. Desafíos, riesgos, amenazas y vulnerabilidades internas relacionadas con las limitaciones de nuestro modelo económico social, tales como manifestaciones de corrupción, marginalidad, delincuencia e indisciplina social, su prevención y enfrentamiento. El concepto de Revolución de Fidel y su valor metodológico para la SNC. Participación del Licenciado en Ciencia de Datos en la elaboración de métodos, modelos matemáticos y programas automatizados que den una respuesta adecuada ante los riesgos de carácter interno y externos. Valor metodológico del concepto Revolución en el Licenciado en Ciencia de Datos y su impacto en la vida estudiantil y laboral futura.
+
+La Protección Civil en el mundo. Particularidades de la Protección Civil en Cuba antes de 1959. Surgimiento y desarrollo de la Defensa Civil en Cuba. Principios, objetivos, misiones y medidas de la Defensa Civil. Desastres, su tipología, situaciones de desastre que pueden afectar la Seguridad Nacional cubana. Particularidades de la evacuación de la población para casos de desastres. Situación epidemiológica internacional y de Cuba. El ciclo de reducción de desastres y sus particularidades. Plan de reducción de desastres y su actualización. Apreciación del riesgo de desastres. Centros de Gestión para la Reducción del Riesgo (CGRR). Papel del Licenciado en Ciencia de Datos en la reducción de vulnerabilidades contra los desastres de origen natural, tecnológicos y sanitarios, mediante el análisis y elaboración de métodos, modelos matemáticos y programas automatizados.

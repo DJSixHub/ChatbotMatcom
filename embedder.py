@@ -3,8 +3,15 @@ import json
 import os
 import numpy as np
 
+
 class Embedder:
-    def __init__(self, md_file_path, chunk_size=10000, output_dir="/kaggle/working/chunks", output_prefix="chunk"):
+    def __init__(
+        self,
+        md_file_path,
+        chunk_size=10000,
+        output_dir="/kaggle/working/chunks",
+        output_prefix="chunk",
+    ):
         """
         Inicializa la clase:
           - Lee y fragmenta el archivo Markdown.
@@ -19,8 +26,10 @@ class Embedder:
           output_prefix (str): Prefijo para los nombres de archivo de los chunks.
         """
         if not os.path.exists(md_file_path):
-            raise FileNotFoundError(f"Markdown file '{md_file_path}' does not exist. Please check the path.")
-        
+            raise FileNotFoundError(
+                f"Markdown file '{md_file_path}' does not exist. Please check the path."
+            )
+
         self.md_file_path = md_file_path
         self.chunk_size = chunk_size
         self.output_dir = output_dir
@@ -29,13 +38,15 @@ class Embedder:
         # Procesar el archivo Markdown
         self.chunks = self._chunk_markdown_file()
         print(f"Total chunks created: {len(self.chunks)}")
-        
+
         # Procesar los chunks: guardarlos en archivos y calcular sus embeddings.
         self.embeddings_dict = self._process_chunks()
-        
+
         # Convertir el diccionario de embeddings en dos arrays: file_names y embeddings_array.
         self.file_names, self.embeddings_array = self._convert_embeddings_dict()
-        print(f"Embeddings computed for {len(self.file_names)} chunks. Embeddings array shape: {self.embeddings_array.shape}")
+        print(
+            f"Embeddings computed for {len(self.file_names)} chunks. Embeddings array shape: {self.embeddings_array.shape}"
+        )
 
     # ---------------------------
     # Función para obtener embedding
@@ -49,17 +60,17 @@ class Embedder:
         payload = {
             "input": text,
             "model": "nomic-ai/nomic-embed-text-v1.5",
-            "dimensions": 768
+            "dimensions": 768,
         }
         headers = {
             "Authorization": "Bearer fw_3ZR81bUKaAkvohmKYAmgycJg",
-            "Content-Type": "application/json"
+            "Content-Type": "application/json",
         }
 
         response = requests.post(url, json=payload, headers=headers)
         response.raise_for_status()
         response_json = response.json()
-        embedding = response_json['data'][0]['embedding']
+        embedding = response_json["data"][0]["embedding"]
         return embedding
 
     # ---------------------------
@@ -69,7 +80,7 @@ class Embedder:
         """
         Lee el archivo Markdown y lo fragmenta en chunks sin cortar párrafos.
         """
-        with open(self.md_file_path, 'r', encoding='utf-8') as f:
+        with open(self.md_file_path, "r", encoding="utf-8") as f:
             content = f.read()
 
         # Se asume que los párrafos están separados por una o más líneas en blanco.
@@ -111,7 +122,7 @@ class Embedder:
 
         for i, chunk in enumerate(self.chunks):
             filename = os.path.join(self.output_dir, f"{self.output_prefix}_{i+1}.txt")
-            with open(filename, 'w', encoding='utf-8') as f:
+            with open(filename, "w", encoding="utf-8") as f:
                 f.write(chunk)
             print(f"Wrote chunk {i+1} to {filename}")
 
@@ -155,7 +166,7 @@ class Embedder:
         Parámetros:
           input_text (str): Texto de consulta.
           k (int): Número de resultados a retornar.
-        
+
         Retorna:
           tuple: (top_indices, top_scores, top_file_names)
         """
@@ -184,26 +195,32 @@ class Embedder:
     # Método auxiliar para imprimir el contenido de un chunk dado su archivo
     # ---------------------------
     @staticmethod
-    def print_file_contents(file_path):
+    def file_contents(file_path):
         """
         Lee y muestra el contenido de un archivo de texto.
         """
         try:
-            with open(file_path, 'r', encoding='utf-8') as file:
+            with open(file_path, "r", encoding="utf-8") as file:
                 content = file.read()
-                print(content)
+                return content
         except FileNotFoundError:
             print(f"El archivo '{file_path}' no se encontró.")
         except Exception as e:
             print(f"Ocurrió un error al leer el archivo: {e}")
 
+
 # ========================
 # Ejemplo de uso
 # ========================
 if __name__ == "__main__":
-    md_file_path = "/kaggle/input/datasedcd/MarkdownFile.md"  # Reemplaza con la ruta de tu archivo Markdown
+    md_file_path = "MarkdownFile.md"  # Reemplaza con la ruta de tu archivo Markdown
     try:
-        embedder = Embedder(md_file_path, chunk_size=10000, output_dir="/kaggle/working/chunks", output_prefix="chunk")
+        embedder = Embedder(
+            md_file_path,
+            chunk_size=10000,
+            output_dir="output",
+            output_prefix="chunk",
+        )
     except Exception as e:
         print(e)
         exit(1)
@@ -217,6 +234,6 @@ if __name__ == "__main__":
         print(f"\nTop {k} similar chunks for the input text:")
         for idx, score, fname in zip(top_indices, top_scores, top_file_names):
             print(f"\nIndex: {idx}, Score: {score:.4f}, File: {fname}")
-            Embedder.print_file_contents(fname)
+            Embedder.file_contents(fname)
     except Exception as e:
         print("Error during similarity search:", e)

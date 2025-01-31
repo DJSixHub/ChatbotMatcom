@@ -1,0 +1,72 @@
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. Desarrollar un proyecto de aplicación desde la perspectiva de los datos, como trabajo extra clase, que el colectivo de la asignatura determine y, de ser posible, en colaboración con otras asignaturas del semestre como Visualización de Datos y/o Análisis Estadístico I. Es muy importante que el proyecto termine con una implementación computacional cuyos desarrolladores puedan presentar y defender ante los profesores.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Elmasri, R., & Navathe, S. B. “Fundamentals of database systems” Pearson Education, Inc., 2015.
+2.  García Hernández L., Montes de Oca Richardson M. “Sistemas de Bases de Datos: Modelación y Diseño”. Reimpresión Editorial “Félix Varela”. Cuba, 2009. ISBN: 978-959-07-1229-6.
+3.  Harrison G. “Next Generation Databases: NoSQL, NewSQL, and Big Data”. Apress, EUA, 2015. ISBN: 978-1-4842-1329-2.
+4.  Kimball, R.; Ross, M. “The data warehouse toolkit: the complete guide to dimensional modeling”. John Wiley and Sons, Inc. 2002.
+5.  Manning, A. “Databases for Small Business”. APress – Springer Science+Business Media, New York, 2015. ISBN: 978-1-4842-0278-4.
+6.  Oppel A., Sheldon R. “SQL. A Beginner's Guide”, 3rd. Edition. McGraw Hill Companies, 2009. ISBN- 0-07-154865-3.
+
+**COMPLEMENTARIA**
+
+1.  Date C. J., “An Introduction to Database Systems”. 8th. Edition, Pearson Education, Inc., 2004.
+2.  García-Molina H., Ullman J. D., Widom J. “Database Systems. The Complete Book”. Prentice Hall, 2013.
+3.  Inmon, W. H. “Building the Data Warehouse”. Fourth Edition. Wiley Publishing, Inc. 2005.
+4.  Powell G. “Beginning Database Design”. Wiley Publishing, Inc., 2006. ISBN-10: 0-7645-7490-6.
+5.  Sumathi S., Esakkirajan S. “Fundamentals of relational Database Management Systems”. Studies in Computational Intelligence, Vol. 47. Springer Science + Business Media, 2007. ISBN-10 3-540-48397-7.
+6.  Ullman, J. D. “Principles of Database and Knowledge-Base Systems, Computer”. Science Press. EUA, 1990.
+
+#### Asignatura: Inteligencia de Negocios
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Contextualización de la inteligencia y la analítica de negocios | 8 | 4 |  |  |  | 4 |
+| Fundamentos para el desarrollo de soluciones de inteligencia y analítica de negocios | 32 | 12 |  | 12 |  | 8 |
+| Impacto de los conjuntos de datos masivos en el procesamiento analítico de los datos | 24 | 8 |  | 8 |  | 8 |
+| Totales | 64 | 24 |  | 20 |  | 20 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+El desarrollo de modelos, métodos y herramientas eficientes para el manejo de la información no solo está ocasionando un enorme impacto en la ciencia y la tecnología sino también en el ámbito empresarial y el desarrollo social. Para estos propósitos, se parte de la premisa que la información no es un concepto pasivo, sino que es un recurso vital que se utiliza para aumentar la eficacia en el funcionamiento de las organizaciones, sean o no lucrativas.
+
+La Inteligencia de Negocios constituye una estrategia de trabajo para el despliegue de soluciones computacionales que transforman los datos en conocimiento en función de la satisfacción de los objetivos de la institución. Resulta imprescindible sentar las bases del paradigma de la inteligencia y la analítica de negocios con el fin de poner a disposición de los interlocutores la información esencial para la elaboración de nuevas concepciones que engendren desarrollo organizacional y/o ventajas competitivas.
+
+La necesidad imperiosa de crecimiento incesante junto al procesamiento de los conjuntos masivos de datos en las organizaciones, así como el despliegue tecnológico y comunicacional en la sociedad contemporánea, conllevan a innovaciones en la Inteligencia de Negocios tradicional y, en particular, hacia la Ciencia de Datos. El analista de negocios no deja de tener importancia dado que se ocupa de caracterizar el escenario actual de la organización y de encontrar patrones y tendencias en los datos con vista a la toma de decisiones acertadas en el momento y el lugar apropiados.
+
+Esta es una asignatura transversal a toda la carrera que subsuma todos los fundamentos teóricos y las tecnologías tanto de programación y bases de datos, como de sistemas computacionales e inteligencia artificial, para darle significado en función de un dominio y favorecer la toma de decisiones informada. Se trata de contribuir informacionalmente a crear y enriquecer una mentalidad de vanguardia en los desarrolladores, los expertos y los ejecutivos en su quehacer cotidiano, de modo que se asegure la operatividad del presente y la evolución inteligente del negocio.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los desarrollos de la Inteligencia y la Analítica de Negocios para diseñar y manejar los datos con vistas a obtener información y conocimiento relevantes para la toma de decisiones en escenarios disímiles, potenciando el vínculo con la Ciencia de Datos desde la perspectiva científica y la contribución al progreso social y económico del país.
+2.  Identificar los modelos analíticos como núcleos de transformación de los datos y examinar las particularidades fundamentales de la instrumentación de los procesos de integración de datos asociados con vista a la toma de decisiones.
+3.  Caracterizar los enfoques matemático-computacionales y las arquitecturas de datos principales para el diseño, la creación y la explotación de soluciones de inteligencia y analítica de negocios en términos evolutivos.
+4.  Concebir, evaluar y comparar soluciones prácticas relacionadas con la inteligencia y la analítica de negocios sobre la base de plataformas, herramientas y tecnologías actuales en la búsqueda de la productividad de los desarrolladores y el aprovechamiento del entorno analítico resultante por los interlocutores.
+5.  Distinguir las principales peculiaridades y perspectivas de los procesos de extracción de conocimiento y enriquecimiento semántico en el marco de la inteligencia y la analítica de negocios en su vínculo con la ciencia de los datos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Evolución de la Inteligencia de Negocios y su vinculación con la Ciencia de Datos. Los datos como recursos estratégicos: gobernabilidad, calidad y ética de los datos. Estrategias de desarrollo de las soluciones de inteligencia de negocios. Arquitecturas conceptuales de datos en las soluciones de inteligencia de negocios. Alternativas de integración y virtualización de datos. Modelos y entornos analíticos en las soluciones de inteligencia de negocios. Extracción de conocimiento en las soluciones de inteligencia de negocios. Redimensionamiento de las soluciones de inteligencia de negocios desde la perspectiva de los conjuntos masivos de datos. Acceso, transformación e integración de datos masivos. Enriquecimiento de las plataformas de desarrollo y herramientas analíticas para datos heterogéneos. Inteligencia de negocios colaborativa y creación de valor por los líderes y los expertos del negocio. Fomento del autoservicio y las introspecciones accionables. Computación en la Nube e Inteligencia de Negocios. Automatización y tecnologías híbridas en las soluciones de inteligencia y analítica de negocios. Modelos de negocios y Ciencia de Datos.
+
+**Habilidades principales a dominar**
+
+1.  Analizar un fenómeno informacional de cualquier área del conocimiento, desde el punto de vista de la Ciencia de Datos, a partir de la abstracción y la conceptualización de la realidad para obtener el universo de trabajo, las relaciones que se establecen y el contenido informativo de una solución de inteligencia y analítica de negocios en función de la toma de decisiones debidamente fundamentada.
+2.  Interpretar la evolución de los escenarios analíticos para la toma de decisiones en los dominios de aplicación con vista a la reformulación y el enriquecimiento de las aproximaciones de solución de inteligencia de negocios.
+3.  Caracterizar la naturaleza de los conjuntos de datos para determinar los requerimientos computacionales e informacionales necesarios para su almacenamiento, integración, recuperación y análisis en correspondencia con el dominio de aplicación.
+4.  Valorar, contextualizar y utilizar los modelos analíticos y las soluciones arquitectónicas que resulten más adecuados en el diseño e implementación de una solución de inteligencia de negocios.
+5.  Identificar las características, las ventajas y las desventajas de las diferentes plataformas programáticas y seleccionar adecuadamente y de manera fundamentada el entorno apropiado para el desarrollo y/o la explotación de las aproximaciones de una solución de inteligencia y analítica de negocios, según la potencialidad, la disponibilidad y la efectividad de los recursos computacionales.
+6.  Examinar, ilustrar y debatir de forma oral y escrita los resultados analíticos obtenidos en función de generar información relevante para la toma de decisiones.
+7.  Documentar y exponer de forma clara y precisa el modelo, los programas y/o el sistema de inteligencia y analítica de negocios desarrollados.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, en correspondencia con la formación humanista, patriótica y antiimperialista.

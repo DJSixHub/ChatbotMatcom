@@ -1,0 +1,88 @@
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción al Análisis de Fourier | 16 | 8 | 2 | 2 | 4 |  |
+| Introducción a la teoría de Ecuaciones Diferenciales Ordinarias | 48 | 24 | 10 | 6 | 6 | 2 |
+| Introducción a la Teoría de Ecuaciones Diferenciales Parciales. Clasificación de las Ecuaciones Diferenciales de segundo orden. Problemas que conducen a ecuaciones de tipo hiperbólico | 6 | 4 |  | 2 |  |  |
+| Problemas que conducen a ecuaciones de tipo parabólico. Ecuación de difusión | 4 | 2 |  |  | 2 |  |
+| Planteamiento del problema de contorno. Principio del valor máximo. Teorema de unicidad. | 2 | 2 |  |  |  |  |
+| Problemas que conducen a la ecuación de Laplace. Resolución de problemas de contorno por el método de Fourier | 4 | 2 | 2 |  |  |  |
+| Totales | 80 | 42 | 14 | 10 | 12 | 2 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Los elementos y temas de la Matemática que se utilizan en la Ciencia de Datos recorren un espectro muy amplio, difícil de abarcar en un currículo limitado a cuatro años de estudio. En esta asignatura se introducen aspectos básicos de los temas: Análisis de Fourier; ecuaciones diferenciales ordinarias; ecuaciones diferenciales parciales, con una mirada dirigida a posibles aplicaciones en el contexto de Ciencia de Datos. La transformada de Fourier constituye una herramienta básica en el procesamiento de imágenes y señales, en la transmisión y compresión de datos, por solo mencionar algunas aplicaciones. Métodos clásicos de solución de ecuaciones diferenciales están basados en desarrollos en serie de Fourier. Las ecuaciones diferenciales constituyen una herramienta importante en la modelación de fenómenos de diferentes naturalezas donde ocurren cambios espaciales y/o temporales; a su vez son relevantes para muchos métodos aprendizaje de máquina inspirados en analogías con algún modelo matemático en la física. Las ecuaciones diferenciales parciales encuentran aplicación en network analytics, por ejemplo, Laplacianos y modelos epidemiológicos se usan con frecuencia para entender la conectividad de una red así como propiedades organizacionales de vértices y bordes. El agrupamiento espectral por ejemplo está basado en resultados del Laplaciano. El análisis de imágenes es otra área donde encuentran aplicación las ecuaciones diferenciales parciales.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Representar una función (conjunto de datos) mediante su desarrollo en serie de Fourier
+2.  Obtener e interpretar la información en frecuencias de un conjunto de datos a partir de los coeficientes de Fourier
+3.  Conocer y aplicar propiedades de la Transformada Continua de Fourier en el procesamiento de datos
+4.  Identificar modelos de aplicación práctica que conducen a sistemas de ecuaciones diferenciales ordinarias (EDOs)
+5.  Verificar las hipótesis de existencia y unicidad para sistemas (ecuaciones) de EDOs.
+6.  Resolver numéricamente modelos simples de EDOs.
+7.  Clasificar la estabilidad de los sistemas dinámicos.
+8.  Reconocer diferentes modelos de Ecuaciones Diferenciales Parciales (EDP) de segundo orden
+9.  Aplicar el método de Fourier a modelos sencillos de EDP
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Introducción al Análisis de Fourier. Definición de serie de Fourier. Diferentes versiones para la serie de Fourier (serie trigonométrica de Fourier, serie física de Fourier). Expresión y cálculo de los coeficientes de Fourier. Convergencia puntual, absoluta y uniforme de la serie de Fourier. Transformada continua de Fourier. Propiedades.
+
+Conceptos básicos de la teoría de Ecuaciones Diferenciales Ordinarias. Teoremas básicos. Sistemas diferenciales lineales. Propiedades. Análisis de estabilidad. Métodos selectos de solución de las ecuaciones diferenciales de primer orden. Métodos numéricos de Euler y de Runge-Kutta. Sistemas de ecuaciones diferenciales ordinarias de segundo orden, propiedades y métodos básicos de solución numérica. Sistemas dinámicos, espacio de fases. Puntos críticos de sistemas dinámicos lineales y no lineales. Clasificación de los puntos críticos.
+
+Introducción a las Ecuaciones Diferenciales Parciales. Clasificación de las Ecuaciones Diferenciales de segundo orden. Problemas que conducen a ecuaciones de tipo hiperbólico. Problemas que conducen a ecuaciones de tipo parabólico. Ecuación de difusión. Planteamiento del problema de contorno. Principio del valor máximo para ecuaciones parabólicas. Teorema de unicidad. Problemas que conducen a la ecuación de Laplace. Resolución de problemas de contorno por el método de Fourier
+
+**Habilidades principales a dominar**
+
+1.  Encontrar el desarrollo de Fourier de una función
+2.  Resolver el problema de valores iniciales para sistemas (ecuaciones) diferenciales utilizando los métodos numéricos de Euler y Runge-Kutta.
+3.  Obtener el campo de direcciones para una ecuación diferencial y analizar las posiciones de equilibrios utilizando algún programa de computadora como MATLAB, MATEMATICA, Python etc.
+4.  Representar el diagrama de fases de un sistema de ecuaciones lineales utilizando algún programa de computadora como MATLAB, MATEMATICA, Python, etc.
+5.  Reconocer y resolver diferentes modelos de Ecuaciones Diferenciales Parciales (EDP) de segundo orden
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Como complemento de esta asignatura se propone ofertar cursos optativos que profundicen en aplicaciones concretas de los métodos estudiados en esta asignatura en problemas de la ciencia de datos, tales como procesamiento de señales, modelación bio-matemática, entre otros.
+
+Destacar en todo momento el vínculo con las aplicaciones, desarrollando ejemplos en las conferencias y clases prácticas, de modelos típicos que pongan en evidencia dicho vínculo y demuestren la importancia del aparato conceptual y teórico que se desarrolle.
+
+Utilizar las ventajas de los programas de computadoras ya elaborados (MATLAB, MATHEMATICA, Python, entre otros) que permiten la resolución numérica y la representación gráfica de las soluciones de los problemas clásicos que se plantean para las ecuaciones diferenciales.
+
+Para algunos ejemplos será conveniente investigar la verificación de condiciones para la existencia y unicidad de soluciones, las soluciones de equilibrio y la estabilidad de los problemas.
+
+Orientar la implementación computacional de algoritmos de solución de ecuaciones diferenciales.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+*   **Seminarios evaluativos** donde el estudiante presente un tema determinado, para evaluar tanto el conocimiento adquirido por el estudiante como las habilidades para la presentación y exposición en público.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  C. Henry Edwards, Penney D.E., Calvis D. T.“Differential equations and boundary value problems. Computing and Modeling”. Pearson Education, 2015. (Texto Digital)
+2.  Perko L.“Differential Equations and Dynamical Systems.” Third Edition. Editorial Springer, 2001 (formato digital).
+
+**COMPLEMENTARIA**

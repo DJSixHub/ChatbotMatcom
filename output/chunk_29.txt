@@ -1,0 +1,70 @@
+1.  Formular modelos matemáticos para la representación de problemas reales, que dependen de datos, en diversos dominios y analizar los aspectos relacionados con su solución computacional.
+2.  Formalizar las abstracciones que fundamentan los modelos matemáticos que se emplean en la solución de problemas, y cómo se vinculan a la práctica.
+3.  Evaluar con rigor estadístico los diversos algoritmos, procedimientos y estrategias de solución de problemas.
+4.  Utilizar e integrar los conocimientos y habilidades adquiridos en las disciplinas Fundamentos Matemáticos, Programación y Sistemas de Información, Inteligencia Artificial y Ciencia de Datos; para aplicarlos en la solución de problemas prácticos que puedan ser representados mediante modelos matemáticos.
+5.  Exponer con claridad los resultados y conclusiones obtenidas, y formular el problema que se pretende resolver.
+6.  Utilizar las facilidades de las técnicas de computación en el planteamiento y solución de los problemas derivados de los aspectos contentivos de esta disciplina.
+7.  Valorar los aspectos computacionales pueden incidir tanto en la concepción del modelo matemático de un problema como en el desarrollo de métodos de solución.
+8.  Aplicar los conceptos y resultados fundamentales de la teoría de probabilidades en el cálculo de probabilidades y características numéricas de las variables aleatorias.
+9.  Utilizar las leyes de distribución y sus propiedades, y los teoremas límites más importantes en la identificación, caracterización cuantitativa y/o cualitativa y la modelación de fenómenos aleatorios.
+10.  Aplicar los conceptos fundamentales de la inferencia estadística y los principios generales asociados a ésta.
+11.  Utilizar los métodos derivados de los conceptos y principios generales para la identificación, formulación y solución de problemas de inferencia estadística relacionados con la teoría de estimación, las dócimas de hipótesis y los modelos predictivos.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Probabilidades. Esquemas y Modelos Probabilísticos. Probabilidad Condicional. Independencia. Teorema de Bayes. Variables y vectores aleatorios continuos y discretos. Distribuciones de Probabilidad, características numéricas. Funciones de Distribución y de Densidad. Aplicaciones a la generación de variables aleatorias. Teoremas límites. Modelos Bayesianos.
+
+Población y muestra. Tipos de datos. Estadística descriptiva univariada y bivariada. Medidas de posición y variabilidad. Medidas de asociación. Gráficos estadísticos para diferentes tipos de datos y análisis estadísticos. Elementos de Analítica Predictiva. Análisis de correlación. Análisis de regresión con dos variables.
+
+Estimación puntual y por intervalos enfoque tradicional. Estimación puntual y por intervalos, enfoque Bayesiano. Pruebas de hipótesis paramétricas. Análisis de varianza. Estimación y pruebas de hipótesis en el Análisis de la regresión. Pruebas de hipótesis no-paramétricas. Pruebas Chi cuadrado. Aprendizaje estadístico.
+
+Análisis de Regresión Multivariado. Ajustes de modelos de regresión multivariado. Análisis Factorial. Estructura interna de números grandes de variables a través del análisis factorial exploratorio. Análisis factorial confirmatorio. Análisis de Componentes Principales. Análisis de Componentes Independientes. Reducción de dimensiones y estructura de los datos. Análisis de clusters. Métricas para la evaluación de los algoritmos de agrupamiento.
+
+**Habilidades principales a dominar**
+
+*   Modelar problemas sencillos en fenómenos aleatorios. Calcular probabilidades, probabilidades condicionales, esperanzas y varianzas de variables aleatorias discretas y continuas. Utilizar el concepto de independencia de eventos y de variables aleatorias.
+*   Identificar modelos probabilísticos asociados a problemas reales no complejos correspondientes a distribuciones estudiadas.
+*   Obtener funciones de distribución de variables aleatorias, distribuciones marginales y condicionales. Realizar cálculos de probabilidad sencillos utilizando distribuciones conjuntas de variables aleatorias. Formular las propiedades elementales de la distribución normal multivariada. Calcular esperanzas condicionales.
+*   Interpretar las Leyes de los Grandes Números y utilizar el Teorema Central del Límite.
+*   Aplicar los conceptos de población y muestra, y valorar las implicaciones y problemáticas relativas a la selección de la muestra.
+*   Describir, visualizar y explorar fuentes de datos.
+*   Utilizar fuentes de datos incompletas, con errores o con datos sensibles.
+*   Realizar estimaciones puntuales y a través de intervalos de confianza y valorar la calidad de las mismas.
+*   Valorar los resultados de una prueba de hipótesis paramétricas y no paramétricas.
+*   Seleccionar estadígrafos para una prueba de hipótesis.
+*   Utilizar e interpretar modelos predictivos y de regresión paramétricos y no paramétricos.
+*   Utilizar e interpretar modelos de reducción de dimensiones, agrupamiento. Dominar técnicas exploratorias para datos tabulares.
+*   Estimar funciones de distribución a partir de datos empíricos.
+*   Realizar análisis de convergencia y de complejidad computacional de los algoritmos estudiados.
+*   Modificar algoritmos existentes para adaptarlos a nuevos problemas.
+*   Utilizar el lenguaje R para la implementación de las técnicas estadísticas estudiadas.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en la disciplina.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN**
+
+Esta es una disciplina fundamental en el Plan de Estudio que desarrolla las habilidades necesarias para enfrentarse a problemas de ciencia de datos y que además sirve de soporte a otras disciplinas.
+
+La actividad docente se realizará fundamentalmente en forma de conferencias, clases prácticas y seminarios.
+
+Las notaciones y el enfoque general de la disciplina deben estar acordes, en lo posible, con los utilizados en la literatura científica moderna de estas áreas del conocimiento de preferencia la literatura enfocada en la ciencia de datos. En la disciplina debe combinarse un elevado nivel teórico y el uso de la intuición y la solución de problemas prácticos, siempre insistiendo en las aplicaciones que trascienden la disciplina.
+
+Las conferencias deben introducir los fundamentos teóricos de la disciplina, haciendo especial énfasis en aquellos conceptos que permiten extrapolar las habilidades a adquirir luego en las clases prácticas. Los contenidos se deben introducir como soluciones a problemas de la práctica profesional y/o a limitaciones de técnicas ya estudiadas, motivando la participación de los estudiantes y el autodescubrimiento. Se debe proporcionar así mismo a los estudiantes habilidades para la exposición, comunicación y representación de sus ideas, intuiciones y resultados.
+
+Se recomienda considerar en las clases prácticas problemas y ejercicios teóricos y de demostración de proposiciones simples que complementen lo estudiado en conferencias. Deben trabajarse además problemas de carácter aplicado con mediano nivel de complejidad asociados a escenarios de aplicación real. Es recomendable ilustrar las nociones básicas de la simulación estocástica y, cuando sea posible, hacer uso de ésta.
+
+El desarrollo de esta disciplina se concibe mediante la aplicación de la enseñanza problémica e interactiva, para que se garantice la adquisición y formación de las habilidades específicas que se deben desarrollar en los estudiantes. Para contribuir en la creación de hábitos de trabajo independiente, el desarrollo del hábito de proceder reflexivamente, la evaluación crítica de los resultados del trabajo, y en el hábito de superación permanente, las actividades prácticas deben contar con una activa participación de los estudiantes.
+
+La bibliografía básica o fundamental se complementará con materiales auxiliares seleccionados en cada curso. Se desaconseja el uso de bibliografía impresa pues es ecológicamente insostenible.
+
+Asociados a esta disciplina deben desarrollarse cursos optativos que permitan la actualización según el desarrollo a nivel internacional y los requerimientos del contexto local. En el momento de elaborarlos estos pueden ser cursos sobre modelos matemáticos que no aparecen en el currículum básico o sobre los que se puede profundizar, metodologías de trabajo o herramientas novedosas que faciliten la aplicación a problemas prácticos., nuevos escenarios en dominios no tratados o problemáticas interesantes.

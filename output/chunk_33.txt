@@ -1,0 +1,123 @@
+1.  Vivian Sistachs y Carlos Bouza. Métodos del Análisis Estadístico Multivariado para la Ciencias de los Datos.
+2.  Johnson R.A. & Wichern D.W.¨Applied multivariate statistical analysis¨ (sixth edition), Prentice Hall 2014
+
+#### Asignatura: Muestreo y Diseño de Experimentos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Técnicas de muestreo | 25 | 12 | 12 |  |  | 1 |
+| Diseño de experimentos | 26 | 12 | 12 | 1 |  | 1 |
+| Diseños cualitativos | 13 | 6 | 6 |  |  | 1 |
+| Totales | 64 | 30 | 30 | 1 |  | 3 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+En muchos problemas de tipo práctico es imposible probar u observar la totalidad de los elementos que intervienen y por consiguiente es necesario recurrir al muestreo, así se miden o consideran las propiedades de una muestra con el objeto de estimar las características de la población de donde se extrajo la muestra. En tanto el diseño de experimentos es el conjunto de técnicas activas que manipulan un proceso para inducirlo a proporcionar la información que se requiere mediante cambios en sus variables y su interacción o secuencia de ejecución.
+
+Esta asignatura permitirá al estudiante enfrentarse a problemáticas complejas en las que se requiera mejorar procesos, inferir dependencias causales o determinar variables que perturben un análisis estadístico de manera robusta.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Utilizar modelos estadísticos clásicos para averiguar si determinados factores influyen en una variable de interés y cuantificar dicha influencia.
+2.  Caracterizar un proceso experimental de análisis de datos.
+3.  Determinar la relación entre las variables de entrada de un proceso experimental de análisis de datos y sus variables de salida.
+4.  Caracterizar el efecto de varios factores sobre el comportamiento de un producto o proceso experimental de análisis de datos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Métodos de remuestreo: Muestras interpenetrantes. Estimación puntual y por intervalos basados en métodos de remuestreo. Estrategias de diseño. Experimentos con uno o dos factores. Diseños factoriales. Bloqueo y confusión en diseños factoriales. Superficie de respuesta. Diseños de Taguchi.
+
+**Habilidades principales a dominar**
+
+1.  Analizar los efectos de la selección de la muestra en el análisis de los datos.
+2.  Determinar el rol de las variables presentes en un proceso, así como su relación e influencia sobre otras variables.
+3.  Seleccionar estrategias experimentales ante diferentes situaciones.
+4.  Valorar la robustez de una estrategia experimental.
+5.  Interpretar los resultados del experimento según su diseño.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Fundamentos Matemáticos que traten los temas relacionados con optimización heurística, y en las disciplinas Inteligencia Artificial que traten los temas de aprendizaje profundo, en ambos casos para evaluar los resultados experimentales.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Análisis y diseño de experimentos, Humberto Gutiérrez, Ramón Salazar, Tercera Edición, 2012.
+2.  Estadística y Muestreo, Ciro Martínez Bencardino, 2012
+
+**COMPLEMENTARIA**
+
+1.  Principios Estadísticos para el diseño y análisis de investigaciones, Robert. O Kuehl, 2001
+
+####
+
+#### Asignatura: Procesos Estocásticos y Series de tiempo
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Procesos Estocásticos. Cádenas de Markov | 12 | 4 | 6 |  |  | 2 |
+| Manejo y Análisis exploratorio de series de tiempo | 8 | 2 | 4 | 2 |  |  |
+| Métodos de suavizado | 8 | 4 | 4 |  |  |  |
+| Análisis predictivo en series de tiempo | 20 | 8 | 10 |  |  | 2 |
+| Métodos avanzados | 16 | 6 | 8 |  |  | 2 |
+| Totales | 64 | 24 | 32 | 2 |  | 6 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Las series de tiempo y los procesos estocásticos son imprescindibles para la modelación de sistemas biológicos, sociales, simulaciones, entre otros. Esto los convierte en contenidos que requiere científico de datos al modelar y resolver problemas de la vida real donde la aleatoriedad tiene un componente esencial. Los procesos estocásticos permiten captar la naturaleza incierta de los procesos y por tanto nos permiten evaluar de forma más correcta los proyectos.
+
+Una cadena de Markov es una serie de eventos, en la cual la probabilidad de que ocurra un evento depende del evento inmediato anterior. Las cadenas de este tipo tienen memoria, recuerdan el último evento y esto condiciona las posibilidades de los eventos futuros. Su principal utilidad es en el análisis de los procesos estocásticos. Las cadenas de Markov sirven para el pronóstico de las series de tiempo.
+
+Las series de tiempo son un tipo de datos muy relevante en el análisis de problemas en la industria, ya que son datos con una cierta estructura. Son utilizadas en distintos campos como la economía, la meteorología, los deportes, entre muchos otros. Las series temporales permiten un análisis bastante amplio de datos cuantitativos acumulados a lo largo de un determinado periodo de tiempo, además de hacer pronósticos muy útiles que permiten una mejor planificación. Esta asignatura brindará las herramientas necesarias y creará las habilidades para trabajar con series de tiempo y modelar problemas reales utilizando estos conocimientos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Analizar procesos estocásticos y cadenas de Markov.
+2.  Modelar series de tiempo así como efectuar la predicción de valores futuros.
+3.  Desarrollar modelos estadísticos que expliquen el comportamiento de una variable aleatoria que varía con el tiempo, o con la distancia, o según un índice; y que permiten estimar pronósticos futuros de dicha variable aleatoria.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Procesos estocásticos. Cadenas de Markov. Conceptos fundamentales. Análisis descriptivo, componentes de tendencia, estacionalidad y componente irregular o aleatoria. Procesos estocásticos estacionarios y no estacionarios, función de auto-correlación. Modelos autorregresivos (AR), modelos de medias móviles (MA), mixtos (ARMA). Ajuste del modelo (estimación de parámetros). Selección y validación de los modelos. Predicción puntual y por intervalos de valores futuros. Series de memoria corta y de memoria larga. Modelos ARIMA y ARFIMA. Aplicaciones.
+
+**Habilidades principales a dominar**

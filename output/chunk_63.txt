@@ -1,0 +1,113 @@
+1.  Desarrollar la modelación, diseño, implementación y evaluación de la solución al problema proveniente del centro laboral donde se ha insertado.
+2.  Obtener información sobre el estado del arte de temas científicos a través de motores de búsqueda y otras fuentes de reconocido prestigio, priorizando el uso del idioma inglés.
+3.  Elaborar informe de la Práctica Laboral e Investigativa donde se incluye el tema a desarrollar como trabajo de diploma.
+4.  Exponer los resultados obtenidos en la Práctica.
+5.  Trabajar colaborativamente con estudiantes y/o profesionales de Ciencia de Datos o de otras áreas afines del conocimiento.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Sobre la base de los conocimientos adquiridos hasta el tercer año académico y teniendo en cuenta la integración horizontal de las asignaturas en el año académico, se profundizará en la resolución de problemas emanado de los centros laborales donde se inserten.
+
+**Habilidades principales a dominar**
+
+Diseñar, implementar, evaluar y/o actualizar la solución del problema planteado.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Al ser considerada esta disciplina como Integradora, ella consigna las _cualidades_ y los _valores_ que han de integrar la conducta científica del profesional de la Ciencia de Datos.
+
+Aplicar con un alto grado de creatividad los desarrollos más avanzados y actuales de la Ciencia de Datos en la solución de problemas.
+
+Integrarse a equipos interdisciplinarios para acometer la solución de problemas complejos e interdisciplinarios, con una amplia perspectiva científica y capacidad para el trabajo colaborativo.
+
+Alcanzar un alto grado de productividad, basado en la motivación que le proporciona su profesión y en la aplicación de herramientas de producción y de principios de organización y optimización de su actividad laboral.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+La Práctica Laboral e Investigativa III es donde se define el tema para la culminación de estudios, sus objetivos y su planificación. Resulta de vital importancia que el estudiante se mantenga vinculado al centro donde realizó la práctica laboral en el curso anterior, a menos que no existan las condiciones necesarias para garantizar los objetivos de la Práctica Laboral III o la investigación para la culminación de estudios en el próximo año académico, en cuyo caso debe ser reubicado.
+
+El _profesor–responsable_ y el _profesional–tutor_ de la práctica, guiarán a los estudiantes en todo el recorrido de la práctica laboral, donde el tutor desempeñará su continua labor formativa y determinará el tema de Tesis a desarrollar a partir de las necesidades del centro laboral y la trayectoria del estudiante en su centro.
+
+Para la evaluación de la Práctica Laboral e Investigativa III el estudiante redactará un informe investigativo donde expondrá los resultados técnicos-científicos alcanzados y su tema de investigación para la culminación de estudio, objetivos y cronograma de acciones a desarrollar. Además de la entrega del informe y los programas correspondientes, el estudiante debe realizar la defensa oral de sus resultados ante el tribunal designado.
+
+Se debe hacer énfasis en la presentación de los resultados alcanzados en las Jornadas Científicas Estudiantiles, Fórum de estudiantes, Eventos nacionales e internacionales, así como la publicación en revistas especializadas.
+
+**Sistema de evaluación**
+
+Presentación de los resultados de la práctica. Para la evaluación se debe tener en cuenta la redacción del informe y la calidad de la presentación oral.
+
+**BIBLIOGRAFÍA**
+
+Acorde al tema objeto de la investigación a realizar.
+
+#### Asignatura: Metodología de la Investigación
+
+**DATOS PRELIMINARES**
+
+| Temas | H. | Conf. | C.P. | talleres | Lab. | eval. |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tipos de conocimientos. El conocimiento científico y la investigación. Planteamiento del problema científico | 8 | 2 |  | 6 |  |  |
+| Construcción del marco teórico y los tipos de estudios en las investigaciones. Los métodos de investigación | 8 | 2 |  | 6 |  |  |
+| El paradigma cuantitativo y el paradigma cualitativo. El proceso de investigación. Diseños, métodos y técnicas | 8 | 2 |  | 6 |  |  |
+| Análisis de los datos. Estructura del Informe final. | 8 | 2 |  | 4 |  | 2 |
+| Totales | 32 | 8 |  | 22 |  | 2 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Se puede definir a priori que la investigación es la búsqueda intencionada de conocimiento o de soluciones a problemas, a través de la combinación de la observación de la realidad, el razonamiento abstracto y la comprobación de las suposiciones. Ejemplos de ella son, la investigación policial, el periodismo de investigación, la investigación científica, entre otras. Cada una utiliza métodos acordes a la naturaleza investigada, en particular, la científica se caracteriza por el alto rigor científico de sus métodos, los cuales, a partir del conocimiento previo, las conjeturas, las leyes y las teorías que fundamentan el marco teórico y práctico propician la extracción de conclusiones comprobadas.
+
+Atendiendo a la importancia que reviste el tema para el perfil de un egresado universitario, en especial en la carrera de Ciencia de Datos, se proponen este curso donde se desarrollarán las competencias investigativas, la visión científica de los problemas, así como los métodos para e resolverlos, aspectos necesarios en el transcurso de su vida profesional.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Desarrollar el pensamiento científico para ser capaz de actuar de manera rigurosa y fundamentada frente a los problemas científicos que se presenten, con sentido de responsabilidad.
+2.  Aplicar la metodología de la investigación científica en las investigaciones que realice.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Tipos de conocimientos. El conocimiento científico y la investigación. Planteamiento del problema científico Construcción del marco teórico y los tipos de estudios en las investigaciones. Los métodos de investigación. El paradigma cuantitativo y el paradigma cualitativo. El proceso de investigación. Diseños, métodos y técnicas. Análisis de los datos.
+
+**Habilidades principales a dominar**
+
+1.  Diseñar un anteproyecto de investigación utilizando la metodología de la investigación.
+2.  Redactar y presentar reportes de investigación y desarrollo
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Integrarse a equipos interdisciplinarios para acometer la solución de problemas complejos e interdisciplinarios, con una amplia perspectiva científica y capacidad para el trabajo colaborativo.
+
+Alcanzar un alto grado de productividad, basado en la motivación que le proporciona su profesión y en la aplicación de herramientas de producción y de principios de organización y optimización de su actividad laboral.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+En la Práctica Laboral e Investigativa I se realiza una introducción a la metodología de la investigación y se continúa introduciendo elementos de la metodología en diferentes asignaturas a lo largo de los años académicos, aspectos que son evaluados en los informes y presentaciones de los resultados académicos, prácticos o investigativos.
+
+Se propone esta asignatura para el 8vo semestre donde se presenta la metodología de la investigación en Ciencia de Datos y a partir de ello se sistematizan talleres investigativos donde el estudiante presenta paso a paso la aplicación de los conocimientos que ha ido adquiriendo en el desarrollo de su ejercicio de culminación de estudio.
+
+**Sistema de evaluación**
+
+Redacción de un reporte asociado al diseño y los resultados parciales alcanzados asociados al ejercicio de culminación de estudios.
+
+**BIBLIOGRAFÍA**
+
+1.  Sánchez R., Fernández C. “Saber y saber hacer en la investigación científica·, impresión interna UH, 2015
+
+## INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA CARRERA
+
+El Plan de Estudios E de la Carrera de Ciencia de Datos, cumple con las instrucciones, indicaciones y recomendaciones generales del Ministerio de Educación Superior. Está diseñado teniendo en cuenta las necesidades actuales de la sociedad relacionadas con la profesión y para su confección se han consultado planes de estudio de otras universidades de reconocido prestigio.
+
+En el Currículo Base se cuenta con aquellas disciplinas que constituyen el fundamento básico de la formación del profesional, el cual establece las premisas para satisfacer el desempeño en los modos de actuación en las mencionadas esferas de actuación, constituyendo el 80.28% del total de horas lectivas del Plan de Estudios.

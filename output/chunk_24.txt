@@ -1,0 +1,96 @@
+1.  Interpretar conceptos topológicos básicos y aplicarlos al análisis de funciones ℝn en ℝ (n=2,3).
+2.  Desarrollar el concepto de límite para sucesiones, funciones de ℝn en ℝ (n=2,3), a partir de representaciones geométricas y el uso de métodos algebraicos y analíticos para el cálculo de los mismos.
+3.  Investigar la continuidad de funciones reales de varias variables y las propiedades fundamentales de tales funciones.
+4.  Aplicar la definición de derivada y diferencial de funciones reales con dominio en ℝn a la solución de problemas e interpretar los resultados obtenidos. Calcular derivadas parciales y direccionales, así como el diferencial de una función en un punto, y determinar la ecuación del espacio tangencial. Calcular el polinomio de Taylor de una función y aplicaciones.
+5.  Calcular áreas de regiones planas dadas en coordenadas cartesianas y volúmenes mediante integrales definidas (integrales simples, dobles y triples), aplicando en ocasiones teoremas de cambios de coordenadas
+6.  Optimizar funciones (determinar extremos absolutos, relativos y condicionados) mediante algoritmos que contemplen el análisis de la existencia de los mismos y de su cálculo.
+7.  Analizar convergencia y convergencia absoluta y condicional de series numéricas y de potencias sencillas así como de integrales impropias de primera especie.
+8.  Resolver ejercicios aplicando las instrucciones de programación de alguno de los Asistentes Computacionales.
+9.  Utilizar los Asistentes Computacionales para la solución de ejercicios.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Series numéricas. Series convergentes y divergentes. Propiedades de series convergentes. Series armónicas, telescópicas y geométricas. Criterios de convergencia para series de términos positivos. Series alternadas. Criterio de Leibniz. Convergencia absoluta y condicional.
+
+Integrales impropias de primera especie. Relación con las series. Criterios de convergencia para integrales impropias. Nociones topológicas en ℝn. Espacios métricos. Espacios normados. Distancias, bolas, conjuntos abiertos y cerrados, puntos de acumulación, puntos frontera. Sucesiones en ℝn
+
+Definición de función real de varias variables. (n=2,3). Límites. Continuidad de funciones de varias variables. Teorema de Weierstrass. Diferenciabilidad de funciones de varias variables. Derivadas parciales. Derivada de la función compuesta. Ecuación del espacio tangencial. Derivada direccional y gradiente. Función implícita. Extremos locales y absolutos de funciones de dos variables. Fórmula de Taylor en dos variables. Integrales dobles y triples. Aplicaciones.
+
+**Habilidades principales a dominar**
+
+1.  Analizar convergencia y convergencia absoluta y condicional de series numéricas.
+2.  Analizar convergencia de integrales impropias mediante la definición y mediante el uso de criterios de convergencia.
+3.  Identificar los principales entes topológicos en ℝn.
+4.  Calcular límites de sucesiones en ℝn(n = 2,3). Calcular límites de funciones de ℝn en ℝ, (n= 2,3). Calcular derivadas parciales y direccionales. Analizar la diferenciabilidad y calcular el diferencial de una función en un punto, así como de la ecuación del espacio tangencial.
+5.  Calcular extremos absolutos, relativos y condicionados.
+6.  Calcular integrales múltiples en ℝ2 y ℝ3mediante integrales iteradas y cambio de coordenadas.
+7.  Algoritmizar para visualizar funciones y resolver problemas simples utilizando Asistentes Computacionales.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se propone la incorporación de nuevos temas relacionados con el uso de importantes _software_ especializados para el trabajo docente y de investigación en Matemática tales como MATHEMATICA, MATLAB, MAPLE, GEOGEBRA entre otros, que estén más acordes con un enfoque actualizado en la computación y en el uso que se pretende lograr de estas técnicas en la Matemática, para el análisis de datos.
+
+Debe tenerse en cuenta los contenidos de esta asignatura que son prerrequisitos para la asignatura de Probabilidades (en el mismo semestre) de forma que se garantice que se imparten en el orden adecuado.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Valdés C., C. 2006. Análisis de Funciones de Varias Variables. Editorial Félix Varela. La Habana.
+2.  Valdés C., Sánchez, C., Representación de funciones. Editorial Félix Varela 2014.
+
+**COMPLEMENTARIA**
+
+1.  Apóstol, T. M. 1970. Calculus. Vol I y II. Editorial Ciencia y Técnica. La Habana.
+2.  Spivak, M.1970. Calculus. Vol II. Edición Revolucionaria, La Habana.
+3.  Oberguggenberger M., Ostermann A. Analysis for Computer Scientists. Foundations, Methods, and Algorithms. © Springer-Verlag London Limited 2011
+4.  Stewart, James. Cálculo. Trascendentes tempranas, octava edición. ISBN: 978-607-526-549-0
+5.  Fernández M., J. L. y De la Torre, M., G, Análisis Matemático III_._ Pueblo y Educación. La Habana. 1984
+
+#### Asignatura: Álgebra Lineal
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Números Complejos y polinomios | 12 | 6 | 6 |  |  |  |
+| Sistemas de Ecuaciones Lineales. Análisis de matrices | 20 | 8 | 10 |  |  | 2 |
+| Espacios Vectoriales | 34 | 16 | 18 |  |  |  |
+| Aplicaciones lineales | 16 | 6 | 8 |  |  | 2 |
+| Teoría del endomorfismo | 14 | 6 | 6 |  |  | 2 |
+| Totales | 96 | 42 | 48 |  |  | 6 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+El Álgebra resulta una de las componentes fundamentales de la Matemática por lo que su inclusión resulta obligada en todo Plan de Estudios que aborde la formación de profesionales vinculados con esta esfera del saber, en particular lo referente con estructuras que permitan el manejo y estudio de datos. Es por ello que el estudio de esta asignatura tiene un carácter básicamente formativo, dada su contribución al desarrollo de las formas del pensamiento lógico-deductivo y algorítmico. Sus contenidos fundamentales son conocimientos básicos que necesita el estudiante en otras disciplinas integradoras de la carrera tales como: Probabilidades y Estadística e Inteligencia Artificial.
+
+Por otra parte, las aplicaciones del Álgebra como instrumento de trabajo dentro de las más disímiles esferas de la actividad científico-técnica del hombre, permiten considerarla como componente imprescindible en la implementación de soluciones a los problemas que en tales esferas se plantean. Las amplias posibilidades que brinda el lenguaje del Álgebra, a partir de su objeto de estudio, ha marcado la tendencia hacia la “algebrización” en el planteamiento de problemas tanto propios como interdisciplinarios, la conversión de volúmenes de datos en entes matemáticos que puedan ser identificados, tratados y utilizados, para dar solución a disímiles problemáticas, aplicando las técnicas del Álgebra, constituye uno de sus aportes básicos
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**

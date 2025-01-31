@@ -1,0 +1,65 @@
+Los temas asociados a las bases matemáticas de la carrera constituyen la primera aproximación del estudiante a la problemática de la modelación analítica. Ello contribuye a desarrollar en el estudiante las habilidades de abstracción y razonamiento y la necesidad de rigor en las demostraciones. Sus contenidos fundamentales son conocimientos básicos que necesita el estudiante en otras disciplinas de la carrera tales como Estadística y Probabilidades y Ciencia de Datos. En primer lugar, se introducen los conceptos y axiomas fundamentales, que constituyen elementos imprescindibles para el ulterior desarrollo de esta disciplina y de algunas otras.
+
+Otros contenidos importantes son las series numéricas y de funciones para su utilización en procesos de discretización y aproximación, así como los elementos fundamentales del Cálculo Diferencial e Integral aplicados a funciones reales de varias variables, básicamente en los espacios reales de 2 y 3 dimensiones. Se propone la incorporación de nuevos temas relacionados con el uso de software especializados para el trabajo docente y de investigación en Matemática, así como lenguajes de programación relacionados. Esto responde a los conceptos renovadores de este plan, y que estén más acordes con un enfoque actualizado en función de la ciencia de datos.
+
+El álgebra resulta una de las componentes fundamentales de la Matemática, por lo que los temas asociados a esta resultan obligados en todo Plan de Estudio que aborde la formación básica de profesionales de la Ciencia de Datos, donde se profundice en el razonamiento lógico, el cual versa sobre la construcción de algoritmos para la solución de problemas y constituyen premisas indispensables para el desarrollo de las disciplinas de Estadística y Probabilidades, Ciencia de Datos, Sistemas Computacionales e Inteligencia Artificial.
+
+Existen otros problemas relativos a la efectividad de los algoritmos, la convergencia, la estabilidad numérica, y el modo de implementarlos. Es creciente la necesidad de métodos y algoritmos para resolver, con el uso de las computadoras modernas, los diversos modelos matemáticos. El estudio de estos temas en matemática numérica, prepara al futuro egresado para que sea capaz de analizar, aplicar, modificar y adaptar los métodos numéricos generales a situaciones concretas, utilizándolos computacionalmente con eficiencia, así como desarrollar nuevos algoritmos para la resolución de problemas prácticos expresados mediante modelos matemáticos.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+1.  Resolver problemas que se modelan a través de los conceptos de la disciplina, utilizando los recursos y los métodos matemáticos estudiados, las estrategias heurísticas, las estrategias meta-cognitivas y los asistentes matemáticos, a partir de la selección, en cada caso, del método que se ajusta al problema.
+2.  Formalizar el razonamiento y el pensamiento lógico en el trabajo con los conceptos matemáticos, en la identificación e interpretación de los mismos, en la argumentación de propiedades de los objetos matemáticos y en la demostración de resultados teóricos sencillos, así como mediante el empleo de los métodos analíticos, gráficos y/o numéricos en la solución de problemas.
+3.  Resolver problemas que se obtienen de los modelos matemáticos que representen situaciones reales utilizando métodos numéricos.
+4.  Emplear _software específicos_ de su campo profesional.
+5.  Fundamentar, desde la optimización, los algoritmos empleados en la solución de problemas planteados en la Ciencia de Datos.
+6.  Modelar problemas de decisión, seleccionar los algoritmos de solución apropiados, aplicarlos y analizar sus resultados.
+7.  Trabajar en equipos, donde aprendan a comprender, respetar y valorar las opiniones de sus compañeros y se preparen para incorporarse a colectivos multidisciplinarios en su futuro desempeño profesional.
+8.  Redactar documentos, exponer los resultados y participar en foros de discusión, así como leer e interpretar bibliografía en idioma inglés.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Definición axiomática de los números reales. Representación decimal. Concepto de numerabilidad, la no numerabilidad de ℝ. Nociones topológicas (vecindad, conjunto abierto, conjunto cerrado, punto de acumulación, punto interior, exterior y frontera).
+
+Conjunto acotado, conexo, compacto, simplemente conexo, convexo, conjuntos densos. Sucesiones. Función real de variable real. Límites. Continuidad de funciones. Derivada y diferencial de una función en un punto y sus aplicaciones. Primitiva e integral indefinida. Cálculo de integrales definidas. Aplicaciones de la integral definida.
+
+Nociones topológicas en ℝn. Definición de función real de varias variables. Límites. Continuidad. Derivadas parciales y diferencial. Función implícita. Extremos locales y absolutos. Fórmula de Taylor. Integrales dobles y triples y sus aplicaciones. Series numéricas.
+
+Sistemas de ecuaciones lineales. Matrices. Espacios Vectoriales sobre K (K =, ℝ,). Sistemas de Coordenadas. Vectores. Operaciones con vectores. Orientación en el plano y en el espacio. Aplicaciones lineales entre espacios vectoriales. Espacios con producto escalar. Diagonalización de endomorfismos.
+
+Aritmética de punto flotante. Clasificación, estimación y propagación de errores. Estabilidad numérica. Solución numérica de ecuaciones y sistemas de ecuaciones no lineales. Iteración de punto fijo. Método de Newton. Métodos directos de solución de sistemas de ecuaciones algebraicas lineales. Factorizaciones matriciales. Métodos iterativos, condiciones de convergencia. Aproximación de funciones mediante interpolación polinomial. Interpolación por tramos: splines. Aplicaciones de la interpolación polinomial, diferenciación e integración numérica. Aproximación mínimo cuadrática, ajuste de curvas. Aproximación mínimo cuadrática trigonométrica. Transformada discreta y rápida de Fourier.
+
+Modelación. Complejidad del problema general de la Programación Matemática. Generalidades teóricas sobre su resolución. Problemas suaves: Condiciones de óptimo local. Problemas convexos. Métodos de solución: Relajación del problema y adición de restricciones; descomposición sistema de restricciones y variables; partición del conjunto de soluciones factibles; gradiente, máximo descenso, gradiente estocástico; algoritmos heurísticos; metaheurísticas; suavización; algoritmos de solución para problemas lineales y cuadráticos convexos. Uso de lenguajes de modelación y software de solución, análisis e interpretación de los resultados
+
+**Habilidades principales a dominar**
+
+*   Generalizar y abstraer procesos sin perder de vista su vinculación con las situaciones particulares concretas que les dieron origen.
+*   Efectuar deducciones correctas sobre la base de premisas dadas a partir del razonamiento lógico
+*   Proponer la modelación matemática-computacional de un determinado problema.
+*   Resolver problemas aplicando algoritmos que se deducen de los contenidos propios de la disciplina.
+*   Utilizar bibliotecas del lenguaje de programación que se determine, así como software matemático, que les permita hacer los cálculos requeridos.
+*   Utilizar correctamente el lenguaje matemático en la redacción y exposición de los resultados obtenidos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en la disciplina.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN**
+
+En esta disciplina el estudiante desarrolla una forma de razonamiento que le permite abordar la solución de los problemas referentes al análisis y manejo de datos con un enfoque matemático-computacional, por tal motivo la misma debe ser impartida en los primeros dos años de la carrera.
+
+La organización de los contenidos corresponde a los requerimientos crecientes de todas las demás disciplinas de la carrera. En la medida en que se vaya desarrollando la disciplina, se tratará de que el estudiante profundice en forma autodidacta sobre aspectos de interés vinculándolos con métodos computacionales.
+
+La vinculación del análisis de datos y la computación con la modelación analítica debe constituir el centro de atención de la disciplina. El uso de _software_ especializado en el análisis del comportamiento de entes matemáticos, en la confirmación de resultados, para el estudio de casos patológicos, en el establecimiento de hipótesis y en el hallazgo de soluciones cualitativas, debe irse incrementando en concordancia con las posibilidades materiales y docentes.
+
+La organización y preparación metodológica de la disciplina deberán estar regidas por los objetivos a lograr en correspondencia con los objetivos del año académico. En este sentido se enfatizará el rol asignado al trabajo independiente de los estudiantes en las actividades docentes que se desarrollen, en las cuales deberán orientarse a los aspectos fundamentales de la temática tratada y sobre los métodos generales de trabajo que se relacionan con la misma y cuya asimilación se conseguirá a través de la proposición de tareas que coadyuven a este fin.
+
+En general, se considera conveniente en todos los casos una subdivisión de 50% para las actividades de carácter teórico y 50% para las actividades de carácter práctico.

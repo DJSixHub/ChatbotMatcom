@@ -1,0 +1,105 @@
+La asignatura, aunque contiene una base teórica y conceptual que permite al estudiante comprender las bases del trabajo con grandes volúmenes de datos, debe orientarse hacia la utilización práctica de herramientas existentes en el estado del arte para resolver los problemas de interés.
+
+Esta asignatura requiere que el estudiante disponga de habilidades para la programación avanzada, habilidades para la modelación de los sistemas y conocimiento de la arquitectura de redes de computadoras.
+
+El estudio de la integración de información debe estar dirigido a que los estudiantes identifiquen las características, las ventajas y las desventajas en la utilización y/o adecuación de los diferentes paradigmas para la preparación de los datos con vistas al procesamiento analítico u otros usos subsiguientes.
+
+Teniendo en cuenta la actualidad de los sistemas de información, así como la magnitud, la naturaleza y la diversidad de los datos gestionados, es importante ubicar al estudiante en el sector del problema general que con la modelación matemático-computacional y la decisión tecnológica se debe resolver con eficacia.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Azarmi B. “Scalable Big Data Architecture”. Apress. EUA, 2016. ISBN-13 (electronic): 978-1-4842-1326-1.
+2.  Inmon W. H., Linstedt D. “Data Architecture. A Primer for Data Scientist: Big Data, Data Warehouse and Data Vault”. Elsevier, Inc., 2015. ISBN: 978-0-12-802044-9.
+
+**COMPLEMENTARIA**
+
+1.  Learning Spark: Lightning-Fast Big Data Analysis, by Holden Karau, Andy Konwinski, Patrick Wendell, and Matei Zaharia. O'Reilly Media. Feb 2015.
+2.  Hadoop: The Definitive Guide, by Tom White. O'Reilly Media. April 2015.
+3.  Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. Prentice Hall. 2008.
+4.  García-Molina H., Ullman J. D., Widom J. “Database Systems. The Complete Book”. Prentice Hall, 2013.
+5.  Hohpe G., Woolf B. “Enterprise Integration Pattern: Designing, Building, and Deploying Messaging Solutions”. Addison-Wesley, 2003.
+6.  Manning, A. “Databases for Small Business: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals”. Apress. EUA, 2015. ISBN-13 (electronic): 978-1-4842-0277-7.
+7.  Petrie K., Potter D., Ankorion, I. “Streaming Change Data Capture”. (ebook) O’Reilly Media, Inc. EUA, 2018. ISBN: 978-1-492-03249-6.
+8.  Zheng J. G. “Business Intelligence and Analytics. A Comprehensive Overview” Research Gate, 2020. [https://www.researchgate.net/publication/3275](https://www.researchgate.net/publication/3275)
+
+#### Asignatura: Ciberseguridad y Privacidad
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Conceptos de ciberseguridad | 4 | 4 |  |  |  |  |
+| Seguridad en redes y sistemas distribuidos | 24 | 12 | 4 | 2 | 4 | 2 |
+| Seguridad de la información | 20 | 10 | 4 | 2 | 4 |  |
+| Criptografía y Encriptación | 12 | 4 | 2 | 2 | 2 | 2 |
+| Marco regulatorio | 4 | 2 |  | 2 |  |  |
+| Totales | 64 | 32 | 10 | 8 | 10 | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La seguridad de los sistemas computacionales, de los datos que estos manejan así como su privacidad es una necesidad inherente a la sociedad de la información en la que vivimos hoy. El poder garantizar la seguridad de la información, el poder compartimentar los roles de acceso a los datos, establecer su autenticidad, y todo ello de acuerdo a los modelos de gobernanza de los datos que se establezcan en cada proceso y de acuerdo las normas y la legalidad vigente, es esencial en la ciencia de datos.
+
+Para llevar a cabo esto es imprescindible conocer los modelos actuales de ciberseguridad de los datos y los sistemas. Para esto es necesario tener conocimientos y habilidades relacionadas con la seguridad de las computadoras, las redes de computadoras, las plataformas en la nube, las herramientas de software así como la seguridad física y la ingeniería social.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Identificar los fundamentos de la seguridad de la información.
+2.  Caracterizar los conceptos de confidencialidad, integridad y disponibilidad y su aplicación en el dominio de la ciencia de datos.
+3.  Utilizar el vocabulario y los conceptos de la ciberseguridad.
+4.  Analizar y seleccionar las mejores estrategias para la gestión confiable, el acceso y la privacidad de los datos per se así como de identidades y roles de acceso a sistemas computacionales.
+5.  Diseñar e implementar soluciones de seguridad para proteger tanto los datos como los sistemas que los almacenan, gestionan y procesan.
+6.  Valorar la seguridad y la privacidad de los datos así como la de los sistemas que los almacenan, gestionan y procesan.
+7.  Aplicar las tácticas para reconocer y combatir los ataques basados en ingeniería social.
+8.  Manejar las normas, leyes y regulaciones relacionadas con la gobernanza, la seguridad y la privacidad de los datos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Fundamentos de la seguridad de la información. Fundamentos de la ciberseguridad, Seguridad y protección de los datos y los sistemas computacionales. Seguridad de las redes y los sistemas distribuidos. Seguridad de las bases de datos y sistemas de ingestión de datos. Seguridad en la web, los dispositivos móviles y redes sociales. Tipos de ataques de ciberseguridad y su prevención (en redes cableadas o inalámbricas así como en aplicaciones). Ataques de ingeniería social y su prevención. Encriptación y Criptografía. Hacking ético. Análisis forense. Seguridad física. Normas, leyes y regulaciones relacionadas con la gobernanza, la seguridad y la privacidad de los datos.
+
+**Habilidades principales a dominar**
+
+1.  Configurar firewalls y sistemas de protección.
+2.  Diseñar e implementar la seguridad de los datos y los sistemas que intervienen en los procesos de ciencia de datos.
+3.  Utilizar los conocimientos y las herramientas para realizar el hacking ético
+4.  Utilizar los conocimientos y las herramientas computacionales apropiadas para realizar análisis forense
+5.  Analizar y utilizar los métodos estudiados de encriptación y criptografía.
+6.  Diseñar y realizar experimentos para analizar y evaluar la seguridad de la información y los sistemas que intervienen en los procesos de ciencia de datos
+7.  Utilizar las tácticas para los ataques de seguridad basados en ingeniería social
+8.  Participar en equipos para el análisis y la implementación de seguridad de la información y los sistemas que intervienen en los procesos de ciencia de datos
+9.  Aplicar el marco legal-regulatorio asociado con la gobernanza, la seguridad y la privacidad de los datos.
+10.  Redactar documentos, exponer los resultados y participar en foros de discusión. Así como la lectura e interpretación de bibliografía en idioma inglés.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad con honestidad, responsabilidad, solidaridad, sobre la base de una formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de los resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en la asignatura.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**

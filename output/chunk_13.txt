@@ -1,0 +1,73 @@
+Los estudios CTS y el tipo de reflexión científica, tecnológica y social que proponen. Latinoamérica y Cuba en el contexto de los estudios CTS. Conexiones de los estudios en CTS con el perfil y desempeños futuros de los profesionales en el ámbito de la Ciencia de Datos. Las políticas de ciencia, tecnología e innovación: participación ciudadana y gobernanza, estado de la cuestión. Política científica y Políticas de la ciencia, sus interacciones. Políticas públicas de promoción: de I+D a I+D+i. Esencia del Modelo lineal en las políticas científicas, tecnológicas y de innovación. Las políticas públicas de ciencia, tecnología e innovación en Cuba: incidencias en la formación y desarrollo de los profesionales en el ámbito de la Ciencia de Datos. La crítica contemporánea a la neutralidad axiológica de la ciencia y la tecnología. La relación ciencia-valor como problema al interior de la producción social de conocimientos hoy: el aporte de la bioética global y el holismo ambientalista. La responsabilidad del profesional científico-técnico como responsabilidad individual, social y hacia la naturaleza: pertinencia de su estudio en la formación y desempeños futuros de los profesionales de la Ciencia de Datos.
+
+**Habilidades principales a dominar**
+
+Que los estudiantes sean capaces de:
+
+1.  Establecer las relaciones de PSCT con las asignaturas precedentes de la disciplina Marxismo-Leninismo.
+2.  Vincular los estudios sociales de la ciencia y la tecnología con sus perfiles y desempeños profesionales futuros.
+3.  Analizar las fuentes bibliográficas de la asignatura en sus diferentes vertientes, especialmente la marxista y la que se produce en Cuba.
+4.  Buscar de manera independiente la información necesaria para su formación y desarrollo profesional futuro.
+5.  Defender con espíritu crítico la diversidad de criterios y el derecho a participar en la toma de decisiones como ciudadano y profesional de las Ciencias de la Computación, para el despliegue de su cultura científica y la que el país necesita.
+6.  Desarrollar una actitud responsable como futuros profesionales (individual, social, ambiental), hacia la ciencia, la tecnología, la innovación y el desarrollo.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir a la educación en valores tales como: capacidad de reflexión y análisis científico de la realidad, espíritu crítico y autocrítico, respeto, solidaridad, humanismo, honestidad y responsabilidad.
+
+Favorecer el fomento de la identidad nacional, en particular una cultura científica comprometida con el proyecto social cubano.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+La asignatura de Estudios de Ciencia, Tecnología y Sociedad, dentro de la disciplina de Marxismo-Leninismo, ocupa el último lugar de impartición, donde se cierra el ciclo de la disciplina. Es de señalar que la misma ocupa dentro del conjunto de asignaturas que la integran un lugar de cierre en la formación humanista con relación a la carreras de Ciencias Naturales y Matemáticas, y donde en un ciclo que va desde un enfoque que parte de un saber de carácter filosófico, a un conocimiento económico y una comprensión de la política, culmina con el papel que juega en la contemporaneidad la ciencia y la tecnología, a partir de plantear los nudos conceptuales que permite comprender cómo, a diferencia del pasado, ella constituye un fenómeno de profundo impacto social, sin el cual se hace imposible el desarrollo de la sociedad y la comprensión de los factores que determinan su funcionamiento.
+
+El programa actual se concibe de manera flexible, sus ejes esenciales varían según la especialidad y los perfiles de los profesionales. Para ello se parte de un programa base genérico que contiene objetivo general, objetivos específicos, secciones temáticas y sistemas de conocimiento; el que enriquecido con el trabajo metodológico desplegado en función de satisfacer las necesidades de las distintas especialidades que cubren el ámbito de las CNM de la Universidad de La Habana, aporta variantes del programa, hasta el momento, por áreas del conocimiento. De este modo, el actual programa de la asignatura para la Computación tiene como rasgo distintivo esencial la identificación de su destinatario como punto de partida. El trabajo de las aristas y presupuestos teóricos-metodológicos cardinales de la asignatura se concibe y despliega en función de ofrecer no solo una imagen actualizada de las complejas conexiones ciencia-tecnología-sociedad sino una visión pertinente de esas inter-retroacciones, plurales, con énfasis en las dinámicas que competen a la propia especialidad.
+
+La bibliografía a consultar se encuentra fundamentada en la obra de Núñez Jover (1997), Núñez J., Montalvo, L.F., Figaredo F (2008), una Selección de Lecturas realizada por el colectivo de profesores de la asignatura en el año 2004 y el libro del profesor de la Facultad de Filosofía e Historia Delgado C., de (2007). Esta bibliografía básica se complementa con todo un conjunto de materiales en soporte digital de diversos autores, clásicos en la temática, el empleo de Documentales, con el objetivo de su reflexión y debate, así como por científicos cubanos que ponen un acento importante en la medida que destacan el trabajo que realiza nuestro país en el desarrollo de la ciencia.
+
+La organización de la docencia se desarrollará a través de conferencias, seminarios y talleres.
+
+**Sistema de evaluación**
+
+La evaluación por desempeño continúa siendo la forma óptima, con la inclusión de seminarios y talleres especializados-interrelacionadores capaces de conectar interrogantes científicas propias de CTS con la especialidad (nexos CTS- especialidad-proyectos de investigación).
+
+**BIBLIOGRAFÍA**
+
+1.  Colectivo de Autores. “Problemas sociales de la ciencia y la tecnología”. Editorial Félix Varela. La Habana, 2004.
+2.  Delgado, C.J. “Hacia un nuevo saber. La bioética en la revolución contemporánea del saber”. Publicaciones Acuario. Centro Félix Varela. La Habana, 2007.
+3.  Núñez, J. “La ciencia y la tecnología como procesos sociales”. Editorial Félix Varela. La Habana, 1997.
+4.  Núñez, J., Montalvo, L.F., Figaredo F. “Pensar Ciencia, Tecnología y Sociedad”. Editorial Félix Varela. La Habana, 2008.
+
+###
+
+###
+
+### HISTORIA DE CUBA
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Historia de Cuba | BASE | 56 | 1 | 2 |  |
+| Total de Horas | 56 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+La disciplina Historia de Cuba forma parte de las disciplinas de formación general, las cuales están dirigidas a la formación de cualquier profesional y contribuyen al desarrollo de cualidades generales de la personalidad del estudiante, por lo que se imparte en todas las carreras adscritas al Ministerio de Educación Superior.
+
+La enseñanza de la Historia de Cuba es una necesidad para la Educación Superior en todos sus centros y carreras, puesto que el profesional egresado de nuestras universidades necesita estar identificado con nuestra historia nacional y con la formación del pueblo nación del cual forma parte y comprender su contemporaneidad a partir del proceso histórico precedente. Sin el aprendizaje de la Historia de Cuba los nuevos profesionales no podrían estar aptos para entender la sociedad a la que pertenecen y sus características y condiciones actuales.
+
+El objetivo de la disciplina es la reconstrucción de nuestra historia nacional sobre una base científica y clasista que incluya su interrelación con los fenómenos históricos mundiales, y contemple la vida material y espiritual de nuestro pueblo en sus especificidades socio clasistas, políticas, culturales, ideológicas, etc.
+
+Se enfatiza en el estudio de nuestra realidad mediante la comprensión de sus problemáticas esenciales a través de una correcta asimilación de la interrelación pasado presente, que les permita a nuestros especialistas participar creativamente en la lucha ideológica, cultural, educativa y otras que libra nuestro pueblo. De la misma forma debe colaborar en la creación de su base informativa, metodológica y de habilidades que le permita complementar su formación profesional.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+1.  Desarrollar convicciones patrióticas, socialistas e internacionalistas que propicien una actitud consecuente con su proceder como profesional revolucionario y socialista.
+2.  Aplicar creativamente la metodología marxista leninista a la evolución histórica del pueblo cubano con sus tradiciones revolucionarias, sus luchas y su proyección continental y mundial.
+3.  Profundizar los conocimientos sobre la Historia de Cuba, con un basamento científico, lo que coadyuvará a la comprensión de las bases teóricas de las ciencias sociales en Cuba, de sus problemas y de sus perspectivas.
+4.  Valorar el proceso histórico cubano como parte de las tendencias generales de la historia universal y a la vez como proceso particular dentro de la misma.
+5.  Fundamentar a través del estudio de la historia nacional, las raíces de la opción socialista adoptada por nuestro pueblo como única alternativa viable de desarrollo y para la preservación de su identidad nacional.
+6.  Precisar las características del desarrollo de las diversas ramas de la economía nacional y los problemas históricos de ésta, en especial los de mayor incidencia en la formación de una cultura del trabajo.
+7.  Profundizar los conocimientos sobre las corrientes de pensamiento y las personalidades que han perfilado la identidad cubana y animado los grandes proyectos nacionales así como el sujeto común en la conformación de la historia, el hombre y la mujer que conforman las masas o sectores populares.
+
+La disciplina se propone que históricamente los estudiantes:

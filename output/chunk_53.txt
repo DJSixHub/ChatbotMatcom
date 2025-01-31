@@ -1,0 +1,106 @@
+Por la naturaleza transdisciplinar de la asignatura se recomienda un intercambio activo con otras asignaturas valorando la idea de evaluaciones conjuntas siempre que se cumplan todos los objetivos.
+
+En esta asignatura se debe motivar al estudiante hacia los problemas de la profesión y despertar su interés con una visión general de la carrera.
+
+Esta asignatura se debe desarrollar en el primer semestre de la carrera y su evaluación se debe intencionar como una evaluación integradora con la disciplina Programación y Sistemas de Información, donde se introducen los conceptos básicos de programación.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Data Science. John D. Kelleher, Brendan Tierney. 2018. The MIT Press; Illustrated edición (13 Abril 2018).
+2.  The Art of Data Science: A Guide for Anyone Who Works with Data. by Roger D. Peng, Elizabeth Matsui. 2016.
+3.  Effective Pandas: Patterns for Data Manipulation - Matt Harrison
+
+**COMPLEMENTARIA**
+
+1.  Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython - William McKinney (O'Reilly Media; 2nd edition, 2017)
+
+#### Asignatura: Comunicación en Ciencia de Datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Conceptos de Comunicación | 4 | 2 | 2 |  |  |  |
+| Audiencias | 4 | 2 |  | 2 |  |  |
+| Medios y escenarios de Comunicación | 8 | 4 |  | 2 | 2 |  |
+| Productos comunicativos | 8 | 4 | 2 |  | 2 |  |
+| Legislación | 4 | 2 |  | 2 |  |  |
+| Aspectos éticos | 4 | 2 |  | 2 |  |  |
+| Totales | 32 | 16 | 4 | 8 | 4 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La comunicación es una habilidad esencial para un profesional de la Ciencia de Datos. Las habilidades y los conocimientos de la comunicación en general, y de manera particular de aquella relacionada con el análisis y los procesos basados en datos, permitirán transmitir, de manera efectiva, información relevante a personal tanto especializado como no especializado. La información comunicada puede tener múltiples objetivos que pueden ir desde la divulgación hasta la toma de decisiones.
+
+Para lograr la comunicación efectiva para la ciencia de datos es importante no solo tener conocimiento sobre la naturaleza de los datos así como de los procesos de procesamiento y análisis de los datos, sino también hay que conocer conceptos de comunicación, determinar las audiencias a las cuáles se dirige la información, los medios y escenarios que se utilizarán para ellos, las narrativas a utilizar así como los contextos y marcos legales, entre otros elementos. También es relevante para la comunicación el poder comprender los problemas sociales, de gobernanza y éticos relacionados con los datos, pues esta comprensión es vital para lograr también una comunicación socialmente responsable.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Definir el papel de la comunicación de datos en la configuración de la esfera pública
+2.  Utilizar los conceptos esenciales de la comunicación basada en datos
+3.  Determinar el rigor comunicativo en relación a la comunicación basada en productos de datos
+4.  Identificar y caracterizar las audiencias objetivo de los procesos comunicativos basados en datos
+5.  Definir las características y dinámicas de los distintos medios y escenarios donde ocurren los procesos comunicacionales basados en datos
+6.  Utilizar los distintos modelos de narrativas basadas en datos
+7.  Definir, diseñar, producir y realizar procesos y productos comunicativos basados en datos
+8.  Manejar las bases legales en las que se sustenta el acceso y el manejo de los datos
+9.  Identificar y analizar críticamente los problemas éticos de la ciencia de datos y su comunicación
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Conceptos generales de la comunicación. Conceptos particulares de la comunicación de datos y procesos de análisis de datos. Caracterización de las Audiencias. Técnicas de comunicación oral, escrita, visual e hipermedial. Medios y escenarios de comunicación tradicionales. Nuevos medios y escenarios de comunicación. Redes Sociales. Storytelling tradicional. Storytelling basado en datos. Storytelling interactivo. Modelos de productos comunicativos. Definición, diseño, producción y realización de productos comunicativos. Legislación sobre acceso y manejo de datos. Gobernanza de Datos. Aspectos éticos de los métodos y técnicas usadas en la ciencia de datos y su comunicación.
+
+**Habilidades principales a dominar**
+
+1.  Manejar los conceptos de la comunicación basada en datos.
+2.  Analizar objetivamente los procesos y análisis de datos en base a preguntas, hipótesis y resultados.
+3.  Analizar los problemas de ciencia de datos y sus soluciones desde diferentes puntos de vista y perspectivas.
+4.  Identificar y gestionar audiencias y comunidades.
+5.  Transmitir los modelos, los métodos y los supuestos que llevaron a una conclusión en un proceso de ciencia de datos.
+6.  Resumir, interpretar, presentar y contrastar, de forma crítica, los resultados obtenidos utilizando medios, escenarios y productos comunicativos adecuados.
+7.  Utilizar las distintas herramientas computacionales, de realización y de comunicación para llevar a la práctica las narrativas basadas en datos.
+8.  Utilizar y administrar escenarios y medios de comunicación tales como las redes sociales u otros espacios y productos digitales.
+9.  Diseñar, producir y realizar productos comunicativos.
+10.  Ejercer la comunicación basada en datos de acuerdo a la ética en los procesos de anaĺisis datos y los aspectos legales en el marco de la privacidad, la gobernanza y la seguridad de los datos.
+11.  Redactar documentos, exponer los resultados y participar en foros de discusión. Así como leer e interpretar bibliografía en idioma inglés.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de la ciencia de datos.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Esta asignatura debe utilizar para su desarrollo los conocimientos, proyectos y ejemplificaciones que se utilizaron en la asignatura que comprende la introducción a la ciencia de datos. Además, puede utilizar como base para su proyecto práctico de evaluación, promoviendo la integración de conocimientos, la tarea extraclase que comprende la asignatura que aborda los conocimientos del análisis exploratorio de datos.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:

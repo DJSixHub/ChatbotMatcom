@@ -1,0 +1,48 @@
+En la actualidad la mayoría de las grandes empresas utilizan modelos de negocio digital como forma de monetización digital para alinear y cumplir sus objetivos comerciales, desde una planificación y estrategia de negocio clara y lógica soportados en una base tecnológica tomar mejores decisiones de manera eficientes a partir del conocimiento del manejo de sus procesos de negocio.
+
+En nuestro país existen instituciones que poseen información histórica, ejemplo de ellos son las universidades, Biocubafarma, centros de estudios y organizaciones relacionadas con la economía, múltiples empresas e industrias, la ONEI, etc. Sin embargo, la captura, extracción y almacenamiento de datos precisos y oportunos en todas las esferas de la actividad socio-económica y su integración a cualquier nivel es un tema no resuelto.
+
+Para avanzar en la dirección científica de la sociedad y la economía se requiere el análisis de lo que ha sucedido, estudiando el conocimiento extraído de datos recopilados y procesados de manera correcta. Esta forma de hacer debe estar presente en todos los campos de acción y para ello se necesita de profesionales capaces de diseñar la captura del dato en cualquier entorno (industrial, sociológico, económico, político, empresarial, etc.), y procesar, analizar y combinar datos provenientes de distintas fuentes, así como extraer el conocimiento y comunicar de manera efectiva cómo gestionar dicho conocimiento para facilitar la toma de decisiones.
+
+El uso de la Ciencia de Datos debe propiciar que las organizaciones no solo sean retrospectivas y reactivas en sus análisis de los datos, sino que, también tomando como base estos datos, puedan realizar predicciones, planificar proactivamente y en base a procedimientos empíricos.
+
+Los estudios de pregrado en Ciencia de Datos están ganando espacios en todo el mundo. La Ciencia de Datos, como especialidad en sí misma, es reciente, y se ha representado en el espacio académico sobre todo en la forma de cursos de especialización o maestrías de postgrado, pero en la actualidad hay una presencia creciente también en el pregrado. Por ejemplo, la organización Data Science Programs lista en EE.UU más de 1000 universidades con programas académicos de Ciencia de Datos y entre ellas ya hay más de 100 programas de grado.[\[3\]](#footnote-2)
+
+En el área hispano hablante, aunque no es aún tan frecuente la existencia de programas de pregrado de Ciencia de Datos, ya estos han comenzado a crecer a buen ritmo. Actualmente, ya existen programas en las principales universidades. En España, por ejemplo, los ofrecen la Universidad Carlos III de Madrid, la Universidad de Valencia, la Politécnica de Cataluña, la Universidad Pública de Navarra, la de Cantabria, la de las Palmas de Gran Canaria. Mientras tanto, en América Latina, pueden citarse los programas de pregrado de la UNAM en México, el de la Universidad de Buenos Aires en Argentina, el de la Universidad Javeriana en Colombia, el de la Pontificia Universidad Católica de Ecuador, entre muchos otros ejemplos. Esto muestra el crecimiento, tanto en número como en distribución geográfica, de la formación a nivel de pregrado en el campo de la Ciencia de Datos.
+
+La carrera de Ciencia de Datos que se propone debe estudiar los fundamentos teóricos-prácticos que puedan servir de base para mejorar el funcionamiento de cualquier tipo de organización o entidad, a partir de los datos generados en su entorno socio-económico basados en la definición e interpretación de los aspectos básicos de su gestión, sus distintas áreas funcionales y su entorno socio-económico, para analizar posibles soluciones de cara a la toma de decisiones.
+
+En la actualidad, los fundamentos teóricos de la Ciencia de Datos se conforman a partir de la estrecha relación entre la Computación y la Matemática, con especial énfasis en la Estadística. Así, el egresado de la carrera de Ciencia de Datos debe poseer conocimientos acerca de los fundamentos matemáticos, el análisis y el procesamiento estadístico, la programación, la computación numérica y la computación simbólica, las bases de datos, los sistemas computacionales y las redes de computadoras, los sistemas de recuperación de información, los sistemas basados en conocimiento, la minería de datos y textos, el aprendizaje de máquinas, el Big Data y la Web; así como experiencia práctica en el análisis de datos reales y la elaboración de modelos predictivos. Además, también debe tener conocimientos y habilidades tanto para visualizar como para comunicar los resultados que se derivan de los análisis que realice.
+
+Para llevar a cabo esta tarea se cuenta con un claustro compuesto por profesores de las carreras de Matemática y Ciencia de la Computación con una sólida formación en estas ciencias, así como por profesionales debidamente categorizados de los centros de investigación del país. Ello garantiza el enfoque matemático-estadístico-computacional requerido en la carrera. También se requiere de otros saberes básicos de áreas como la Comunicación Social, las Ciencias Naturales y las Ciencias Económicas, que aportan características particulares a los corpus de datos que serán la base del trabajo del graduado. Asimismo, es necesario poseer conocimientos de diseño de comunicación visual y de visualización de datos. En las universidades del país existen carreras relacionadas con las áreas del conocimiento mencionadas y que contribuirán de manera directa en la formación del graduado en Ciencia de Datos.
+
+Se cuenta con una infraestructura (de características muy elementales) que posibilita, a nivel básico, lograr las habilidades necesarias del perfil del egresado, al considerar la participación de un conjunto de entidades estatales que apoyan las esferas de actuación del egresado y su entrenamiento en la integración de conocimientos en la disciplina integradora. Ejemplo de ellos, entre los principales, son Biocubafarma, Salud Pública, Azcuba, ONEI, el Banco Central o Geocuba.
+
+### Caracterización de la profesión
+
+La Ciencia de Datos es única en el espacio de las tecnologías por dos razones. Primero, es intangible. No se verá necesariamente, a diferencia del desarrollo de software, un producto o servicio concreto, sino los resultados de un modelo. En segundo lugar, es ciencia, lo que significa que, a diferencia de la ingeniería, es difícil diseñar con antelación un plan perfectamente establecido. La incertidumbre es parte integral de la ciencia de datos, y esto supone que hacer estimaciones y tomar decisiones sea más difícil.
+
+Un reto especial del científico de datos es comunicar los resultados de su trabajo de manera que pueda influir en los procesos de toma de decisiones de las organizaciones donde actúe, para lo cual, por supuesto, puede participar en la capacitación de los directivos en estos temas.
+
+Es por ello que se necesitan profesionales que sean capaces de diseñar la captura del dato en cualquier entorno. También deben poder procesar, analizar y combinar datos provenientes de distintas fuentes, así como extraer el conocimiento a partir de estos datos. Para luego comunicar, de manera efectiva, este conocimiento, y cómo gestionarlo, con el fin de contribuir a la toma de decisiones.
+
+### Problemas profesionales más comunes en el eslabón de base
+
+Las clases de problemas que debe resolver el profesional de Ciencia de Datos en nuestro contexto social se clasifican en dos grandes categorías: los propios y los interdisciplinarios.
+
+*   Propios, que son aquellos donde se generan modelos y se desarrollan, formalizan y evalúan algoritmos para trabajar en todas las aristas del ciclo de vida de los datos, sustentado en el enfoque matemático-computacional, realizando las abstracciones necesarias de los procesos de información involucrados en la solución de los problemas.
+*   Interdisciplinarios, que son aquellos donde se trabaja colaborativamente en la creación de modelos o sistemas para un problema de un dominio específico, para lo cual se desarrolla parcial o completamente el ciclo de vida de los datos (su captura, su gestión y procesamiento, su exploración, su análisis y la comunicación de los resultados obtenidos)
+
+El egresado de la carrera se encarga de proponer y desarrollar soluciones y análisis matemático-computacionales de problemas donde se requiere gestionar el conocimiento de una entidad, así como su entorno, mediante la captura del dato en cualquier ámbito, su procesamiento, su análisis, la combinación de datos provenientes de distintas fuentes, así como la extracción del conocimiento y su visualización y comunicación de manera efectiva para facilitar la toma de decisiones de carácter estratégico.
+
+### Objeto de la profesión
+
+#### Objeto de trabajo de la profesión
+
+El objeto de trabajo de este profesional son los datos en el espectro completo de su ciclo de vida.
+
+#### Modos de actuación
+
+En el trabajo con los datos se sigue el espectro completo de su ciclo de vida, lo que incluye su captura, su gestión y procesamiento, su exploración, su análisis, su visualización, la comunicación de los resultados obtenidos, así como las implicaciones éticas derivadas y que pueden existir en todo el proceso.
+
+La actividad profesional del egresado de perfil amplio se puede caracterizar por las habilidades profesionales siguientes

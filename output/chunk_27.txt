@@ -1,0 +1,118 @@
+1.  Anders Vretblad. Fourier Analysis and its applications. Springer Verlag 2003.
+2.  David W. Kammler. A first course in Fourier Analysis. Cambridge University Press 2007.
+3.  Arnold V.I. 1984. Ecuaciones diferenciales ordinarias. Ed. Nauka. Moscú.
+4.  A.N. Tíjonov, N. Samarski, (1980) “Ecuaciones de la Física-Matemática”, Ed. Urmo, Bilbao,
+5.  V.I. Arnold, (2004) “Lectures on Partial Differential Equations”, Springer Verlag -PHASIS, Berlin –Moscow
+6.  Carmen Chicone. Ordinary Differential Equation with Applications. Springer Verlag1999.
+7.  Pontriaguin, L.S., “Ecuaciones Diferenciales Ordinarias”, Editorial Mir. 1984.
+8.  Boyce W. E., Hamilton E. P., Di Prima R. C.“Elementary Differential. Equations and Boundary. Value Problems”. John Wiley & Sons, Inc. 2001.
+9.  Hirsch W. Smale S. 1974. Ecuaciones diferenciales, sistemas dinámicos y álgebra lineal. Academic Press. New York.
+
+#### Asignatura: Matemática Numérica
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Aritmética de punto flotante y análisis de error. | 6 | 4 |  |  | 2 |  |
+| Solución numérica de ecuaciones y sistemas de ecuaciones no lineales | 6 | 4 |  |  | 2 |  |
+| Solución numérica de sistemas de ecuaciones lineales | 14 | 6 | 2 | 2 | 4 |  |
+| Aproximación de funciones por interpolación polinomial | 12 | 6 | 2 |  | 2 | 2 |
+| Diferenciación numérica | 4 | 2 | 2 |  |  |  |
+| Integración numérica | 8 | 4 |  | 2 | 2 |  |
+| Aproximación mínimo cuadrática. Ajuste de curvas | 6 | 4 |  | 2 |  |  |
+| Aproximación mínimo cuadrática trigonométrica. Transformada discreta de Fourier. Transformada rápida de Fourier | 8 | 6 |  |  | 2 |  |
+| Totales | 64 | 36 | 6 | 6 | 14 | 2 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+El objeto de estudio de la asignatura Matemática Numérica son los métodos numéricos fundamentales y su aplicación en la solución eficiente y en forma algorítmica, de problemas expresados matemáticamente.
+
+La disponibilidad creciente de computadoras con potencia de cálculo cada vez mayores hace posible que los métodos numéricos puedan ser utilizados para resolver problemas cada vez más complejos en todas las ciencias y específicamente en el manejo, análisis e interpretación de datos. De ahí la necesidad de profundizar en su estudio. Esta asignatura prepara al futuro egresado para que sea capaz de analizar, aplicar, modificar y adaptar los métodos numéricos generales a situaciones concretas, utilizándolos con eficiencia en las computadoras, así como desarrollar nuevos algoritmos para la resolución de problemas prácticos expresados mediante modelos matemáticos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Reconocer cuál es el método numérico más adecuado para resolver un problema práctico dado.
+2.  Adaptar un método numérico de manera conveniente para la solución de un problema dado, y desarrollar algoritmos eficientes para la utilización de los medios de cómputo disponibles.
+3.  Utilizar, modificar o ajustar librerías de cálculo científico, con el fin de adecuarlas a la resolución numérica de modelos matemáticos concretos.
+4.  Analizar los aspectos computacionales específicos de los métodos numéricos en la resolución de modelos matemáticos, para aumentar la eficiencia del método elegido y la precisión de los resultados.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Aritmética de punto flotante. Clasificación, estimación y propagación de errores. Estabilidad numérica. Solución numérica de ecuaciones y sistemas de ecuaciones no lineales. Iteración de punto fijo. Método de Newton. Métodos directos de solución de sistemas de ecuaciones algebraicas lineales. Factorizaciones matriciales. Métodos iterativos, condiciones de convergencia. Aproximación de funciones mediante interpolación polinomial. Interpolación por tramos: _splines_. Aplicaciones de la interpolación polinomial, diferenciación e integración numérica. Aproximación mínimo cuadrática, ajuste de curvas. Aproximación mínimo cuadrática trigonométrica. Transformada discreta y rápida de Fourier.
+
+**Habilidades principales a dominar**
+
+1.  Estimar y acotar errores absolutos y relativos en la resolución numérica de modelos matemáticos.
+2.  Localizar y aproximar las raíces de ecuaciones no lineales.
+3.  Realizar la transformación de una ecuación no lineal en otra equivalente que garantice la convergencia de métodos iterativos para el cálculo de sus raíces.
+4.  Seleccionar los algoritmos apropiados para resolver sistemas de ecuaciones lineales según las características de la matriz del sistema.
+5.  Reconocer el método más apropiado para aproximar un conjunto de datos por una función
+6.  Aproximar numéricamente la derivada de una función.
+7.  Elegir método de integración numérica adecuado.
+8.  Conocer las bibliotecas de métodos numéricos disponibles en Python.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional y sensibilidad, creando el amor a la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas deben ser introducidos motivados por la solución de un problema relacionado con asignaturas de la propia disciplina o de algún área específica de la Ciencia de Datos
+
+Como complemento de esta asignatura se propone ofertar cursos optativos de métodos avanzados de solución de Sistemas de Ecuaciones Lineales, y métodos numéricos para el cálculo de valores y vectores propios.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Inteligencia Artificial que traten los temas relacionados con el aprendizaje automático.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Burden R.L., Faires J. D. y Burden A.M. “Análisis Numérico”, 10a. edición, CENGAGE Learning, 2017.
+
+**COMPLEMENTARIA**
+
+1.  Kong Q., Siauw T., Bayen A.M. Python Programming and Numerical Methods. Academic Press 2021.
+2.  Chapra S.C., Canale, R.P. Métodos numéricos para Ingenieros. Quinta edición, McGraw-Hills Interamericana, 2007.
+
+#### Asignatura: Modelos de Optimización
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Modelación. Diferentes tipos de problemas en la optimización matemática. | 12 | 6 | 6 |  |  |  |
+| Problemas lineales, no lineales, continuos, discretos. | 22 | 8 | 12 |  |  | 2 |
+| Algoritmos y métodos para resolver problemas de la optimización matemática | 18 | 8 | 8 |  |  | 2 |
+| Aplicaciones. | 12 | 6 |  | 6 |  |  |
+| Totales | 64 | 28 | 26 | 6 |  | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Muchos de los problemas y situaciones que aparecen tanto en la práctica social como en la investigación científica se reducen a encontrar una solución óptima con respecto a determinado criterio bajo ciertas restricciones. La solución de este tipo de problemas requiere de la construcción de un modelo de optimización y el empleo de métodos y algoritmos eficientes, así como del conocimiento de las condiciones teóricas que garantizan la existencia de las soluciones y la convergencia de los métodos.
+
+En esta asignatura se presentan las diferentes características de los principales modelos matemáticos para resolver este tipo de problemas, y los métodos y algoritmos que permiten encontrar una solución eficiente de los mismos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**

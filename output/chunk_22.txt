@@ -1,0 +1,88 @@
+La disciplina debe ser impartida en los primeros años de la carrera. Ello presupone todo un proceso de adaptación a las nuevas formas de enseñanza de la Educación Superior que requieren por sí mismas del trabajo independiente de los estudiantes, bajo la dirección del docente que tendrá que trabajar en función de modificar métodos inadecuados en el estudio que puedan arrastrar de la enseñanza precedente.
+
+Se sugiere introducir en la ejercitación, en la medida de lo posible, problemas de carácter práctico que conduzcan al planteamiento de modelos sencillos en que estén presentes los conceptos teóricos abordados.
+
+En correspondencia con los requerimientos del plan de Estudio E, se propone la ejecución de acciones entre las disciplinas de formación general, básica y básica específica, con vistas a la introducción con carácter general de los contenidos matemáticos en busca de su esencialidad. Una de estas acciones es la realización de exámenes integradores.
+
+Igualmente, se promoverá la incorporación de nuevos temas relacionados con el uso del lenguaje de programación Python y de importantes _software_ especializados para el trabajo docente y de investigación en Matemática tales como MATHEMATICA, MATLAB, MAPLE, GEOGEBRA entre otros, el uso de la tecnología educativa, así como la lectura y presentación de resultados en Inglés.
+
+La disciplina debe aportar al estudiante una visión más allá del dominio propio de cada asignatura, vinculándose con el rol social que juega el científico de datos, incidiendo en el análisis de las principales tendencias del campo, así como de los conflictos éticos-sociales-tecnológicos que se pueden derivar de su actuar como futuro profesional de la ciencia de datos. Los problemas de la seguridad de la información y la integridad de los sistemas computacionales son abordados en aras de salvaguardar la identidad y soberanía cubana, aspectos que deben ser tratados en cada uno de los contenidos de la disciplina. Además, debe promover el desarrollo de habilidades de expresión oral y escrita, así como la consulta de literatura en español e inglés, a través del debate y la presentación y defensa de las tareas extraclase que se orienten. Siempre que sea posible se debe enfatizar en el respeto y el cuidado medioambiental desde la práctica profesional. De esta manera, la disciplina se vincula con las estrategias curriculares generales definidas para toda la carrera.
+
+De manera particular, esta disciplina incide en la implementación de la estrategia curricular relacionada con las tecnologías educativas, a partir del uso de recursos y herramientas computacionales mencionados anteriormente.
+
+En todas las asignaturas de la disciplina debe establecerse un punto de vista práctico, orientado a la solución de problemas concretos del perfil del científico de datos, sin menoscabo de la profundidad teórica y el dominio de los conceptos fundamentales que sustentan todas las habilidades prácticas.
+
+**Sistema de evaluación**
+
+Se recomienda utilizar un sistema de evaluación continua que fomente que los estudiantes mejoren cada vez más sus habilidades individuales y se enfrenten a nuevos retos a la vez que aprenden a trabajar en equipo, combinando evaluaciones tradicionales (en forma de exámenes orales o escritos, tanto parciales como finales) con la realización de proyectos individuales o en equipo que les ayude a determinar mejoras y corregir errores de forma progresiva.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Sánchez F., C. Análisis Matemático I. Editorial Pueblo y Educación. La Habana, 2001.
+2.  Valdés C., Sánchez C. Análisis Matemático II. Editorial Pueblo y Educación. La Habana, 2001.
+3.  Valdés C., C. 2006. Análisis de Funciones de Varias Variables. Editorial Félix Varela. La Habana.
+4.  Valdés C., Sánchez, C., Representación de funciones. Editorial Félix Varela 2014.
+5.  Arazoza, H., Noriega, T. “Álgebra”.Tomo I. Pueblo y Educación 1987, 315
+6.  Noriega, T., Piñeiro, L. “Álgebra”. Tomo II. Pueblo y Educación 1985
+7.  C. Henry Edwards, Penney D.E., Calvis D. T.“Differential equations and boundary value problems. Computing and Modeling”. Pearson Education, 2015. (Texto Digital)
+8.  Perko L.“Differential Equations and Dynamical Systems.” Third Edition. Editorial Springer, 2001 (formato digital).
+9.  Burden R.L., Faires J. D. y Burden A.M. “Análisis Numérico”, 10a. edición CENGAGE Learning, 2017.
+10.  “Linear and nonlinear programming”, D. Luenberger, Y. Ye. 4th Edition. Springer. 2016.
+11.  “Modelos de Optimización”, Otero y autores. Félix Varela, 2006
+
+**COMPLEMENTARIA**
+
+1.  Valdés C., Sánchez C. Análisis de funciones de una variable real, Editorial Félix Varela, 2017
+2.  Urrutia R., I. “Folleto de ejercicios”.
+3.  Apóstol, T. M. 1970. “Calculus. Vol I”. Editorial Ciencia y Técnica. La Habana.
+4.  Spivak, M.1970. “Calculus.Vol I y II”. Edición Revolucionaria. La Habana.
+5.  Oberguggenberger M., Ostermann A., “Analysis for Computer Scientists. Foundations, Methods, and Algorithms”. © Springer-Verlag London Limited 2011
+6.  Kudriávtsev L. D. “Problemas de Análisis Matemático” .Editorial Mir Moscú. 1984.
+7.  Fikhtengol´ts G.M., “The Fundamentals of Mathematical Analysis”.
+8.  Stewart, James. Cálculo. Trascendentes tempranas, octava edición. ISBN: 978-607-526-549-0
+9.  Fernández M., J. L. y De la Torre, M., G, Análisis Matemático III_._ Pueblo y Educación. La Habana. 1984
+10.  Kurosch, R. “Curso de Algebra Superior”. Pueblo y Educación 1987, 442 págs.
+11.  Lipschutz, S. “Algebra lineal. Teoría y 600 problemas resueltos”, Edición Revolucionaria 1973, 334 págs.
+12.  Faddieev, D. “Problemas de Algebra Superior”, Pueblo y Educación 1971, 275 págs.
+13.  Aranda, E., “Problemas de Algebra Lineal con aplicaciones y Phyton”, 2019, URL: matematicas.uclm.es/earanda/?page\_id=152, 430 págs.
+14.  Bronson, R., Costa, G. C., Saccoman, J. T., “Linear Algebra.Algorithms, Applications and Techniques”, Elsevier 2014, 519 págs.
+15.  Deisenroth, M. P., Faisal, A. A., Ong, C. S., “Mathematics for Machine Learning”, Cambridge University Press. [URL://mml-book.com](about:blank).
+16.  Kong Q., Siauw T., Bayen A.M. Python Programming and Numerical Methods. Academic Press 2021.
+17.  Chapra S.C., Canale, R.P. Métodos numéricos para Ingenieros.Quinta edición, McGraw-Hills Interamericana, 2007.
+18.  “Numerical Optimization”, Jorge Nocedal, Stephen J. Wright, Springer, 1999.
+19.  “Integer and Combinatorial Optimization”, Laurence A. Wolsey y George L. Nemhauser. Wiley-Interscience, 1999
+
+####
+
+#### Asignatura: Análisis Matemático I
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción al Análisis Matemático | 18 | 8 | 8 |  |  | 2 |
+| Límite y continuidad de funciones | 20 | 10 | 8 |  |  | 2 |
+| Derivada y diferencial | 24 | 12 | 8 |  | 2 | 2 |
+| Integración | 18 | 10 | 6 |  | 2 |  |
+| Totales | 80 | 40 | 30 |  | 4 | 6 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+El Análisis Matemático en la carrera de Ciencia de Datos constituye la primera aproximación del estudiante a la problemática de la modelación analítica. Contribuye a desarrollar en el estudiante las habilidades de abstracción y razonamiento y la necesidad de rigor en las demostraciones. Sus contenidos fundamentales son conocimientos básicos que necesita el estudiante en otras disciplinas integradoras de la carrera tales como: Probabilidades y Estadística e Inteligencia Artificial. En primer lugar se introducen los conceptos y axiomas fundamentales, que permiten desarrollar la Teoría del Cálculo Diferencial e Integral de funciones reales en una variable. Estos aspectos constituyen elementos imprescindibles para el ulterior desarrollo de esta disciplina y de otras también comprendidas en el plan de estudios. Otro aspecto que se trata dentro de estas asignaturas es lo referente a series numéricas y de funciones. Una de las aplicaciones más importantes de estos conocimientos radica en su utilización en procesos de discretización y aproximación.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Demostrar el proceso de construcción axiomática del conjunto de números reales a partir del principio de sistema de intervalos cerrados encajados infinitesimales y deducir a continuación los Axiomas de ℝ.
+2.  Interpretar los conceptos básicos de espacios topológicos, y aplicarlos al análisis de funciones ℝ en ℝ.
+3.  Interpretar el concepto de límite para sucesiones, funciones de ℝ en ℝ, así como para entes matemáticos más complejos, a partir de interpretaciones geométricas y el uso de métodos algebraicos, analíticos para el cálculo de los mismos.
+4.  Investigar la continuidad de funciones reales y las propiedades fundamentales de tales funciones.
+5.  Aplicar la definición de derivada y diferencial de funciones reales Calcular derivadas; así como el diferencial de una función en un punto y determinar la ecuación de la recta tangente. Calcular el polinomio de Taylor de una función y aplicaciones.
+6.  Definir, emplear e interpretar el concepto de integral según Riemann, a partir construcciones geométricas y de los problemas prácticos que dieron origen al concepto de integral y calcular integrales mediante algunos métodos de integración.
+7.  Utilizar los Asistentes Computacionales para la solución de ejercicios.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**

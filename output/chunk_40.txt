@@ -1,0 +1,62 @@
+Desde mediados del siglo XX se ha reconocido que el dominio de la información es primordial para el éxito en cualquier ámbito del quehacer humano. Con las crecientes posibilidades que brinda la Era de la Información, se han acortado las distancias y han crecido los beneficios para quienes tienen acceso al gran caudal de datos. Sin embargo, lo que constituye un valioso recurso para todos, se ha tornado un reto dada la diversidad de escenarios y la complejidad metodológica para la obtención de respuestas relevantes en cada circunstancia.
+
+Bases de Datos aborda el estudio y el desarrollo de los conceptos, las metodologías, las estrategias y los métodos para la modelación, el diseño y la instrumentación de enfoques y sistemas computacionales que garanticen el acceso a los datos mediante representaciones efectivas y procesamientos eficaces en términos de los intereses informacionales.
+
+La asignatura introduce al estudiante en el campo de las aplicaciones, muchas de ellas de carácter interdisciplinario, y su solución matemático-computacional a partir de las abstracciones pertinentes y lo conduce hacia un enfoque más general en términos de ambientes integrados para la elaboración de sistemas particulares, así como para la adaptación, reformulación o creación de herramientas y tecnologías que extiendan las capacidades de representación y procesamiento de los datos.
+
+El volumen cada vez más masivo de los conjuntos de datos, la heterogeneidad en las representaciones, así como la diversidad de paradigmas para procesarlos enriquece la formación del profesional de la Ciencia de Datos en la perspectiva de considerar los **datos** como cimiento para la toma de decisiones acertadas, oportunas y pertinentes en el marco de la construcción de la sociedad del conocimiento.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los desarrollos de las bases de datos en la solución de problemas específicos o interdisciplinarios con una perspectiva científica y enfoques acordes con la filosofía marxista-leninista, contribuyendo al desarrollo social según los principios de dirección y los lineamientos económicos del país.
+2.  Modelar las bases de datos mediante los modelos conceptuales, los modelos matemático-computacionales y las arquitecturas de los sistemas de bases de datos transaccionales y analíticas, en términos de los objetivos a alcanzar.
+3.  Fundamentar matemáticamente el modelo relacional y la teoría del diseño de bases de datos.
+4.  Identificar las particularidades del lenguaje de datos SQL ejemplificadas y ejercitadas mediante herramientas computacionales asociadas.
+5.  Valorar la vigencia del modelo relacional de datos y sus limitaciones, extendiendo el panorama informacional en términos de la heterogeneidad de los datos respecto a las dimensiones transaccional y analítica.
+6.  Desarrollar e implementar modelos de datos relevantes y definir los metadatos asociados a los conjuntos masivos de datos, empleando los estándares y las tecnologías más difundidas para las fuentes de datos diferentes en correspondencia con la variedad de los dominios de aplicación.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Breve reseña sobre el desarrollo de las bases de datos desde su surgimiento hasta la actualidad. Evolución de los conceptos fundamentales Modelo conceptual de datos: representación lógica de las componentes de un fenómeno o proceso, sus características y las relaciones que existen entre ellas en términos informacionales. Enfoque abierto del diseño y el manejo de bases de datos relacionales. El poder de expresividad del lenguaje SQL. Fortalezas y limitaciones conceptuales y prácticas del paradigma relacional. Principios de diseño de una base de datos multidimensional y técnicas alternativas para la implementación. Fundamentos de los almacenes de datos. Diversidad de paradigmas de las bases de datos no relacionales. Consultas a bases de datos textuales. Sistemas de bases de datos NoSQL: llave-valor, orientación a columnas, orientación a documentos. Bases de datos orientadas a grafos. Implementación y aplicaciones de las bases de datos no relacionales.
+
+**Habilidades principales a dominar**
+
+1.  Analizar la información inherente a un problema de cualquier área del conocimiento a partir de la abstracción y la conceptualización de la realidad para obtener el universo de trabajo en términos de los datos, las relaciones que se establecen entre ellos y el contenido informativo de una base de datos.
+2.  Valorar y utilizar las estructuras de datos y las soluciones arquitectónicas que resulten más adecuadas en el diseño de una base de datos.
+3.  Representar y derivar propiedades y dependencias y aplicar la teoría de la normalización para el diseño correcto de bases de datos relacionales.
+4.  Utilizar las herramientas que brindan los lenguajes de datos más difundidos para el tratamiento de la información en un sistema de base de datos relacionales y no relacionales.
+5.  Diseñar y aplicar bases de datos relacionales y no relacionales bajo el enfoque de diferentes modelos de datos, teniendo en cuenta las características y los objetivos informacionales del problema concreto a resolver.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de los resultados y la adecuada capacidad para el trabajo colaborativo.
+
+Estimular la motivación, la creatividad y el amor hacia la profesión y el compromiso con la calidad y la estética adecuada de los resultados.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Esta asignatura debe conectar con Programación y Programación Avanzada, Lógica, Álgebra, Estructuras de Datos y Complejidad Computacional y formalizar nociones y métodos que serán recreados y enriquecidos cuando se estudien los sistemas bases de datos avanzados (relacionados con la integración y analítica de datos, la heterogeneidad de las datos y los conjuntos masivos de datos) y en asignaturas de la disciplina de Inteligencia Artificial (relacionadas con el procesamiento / aprendizaje sobre grandes volúmenes de datos). Asimismo, resulta básica en el contexto de la profesión del científico de los datos.
+
+El estudio de las bases de datos debe estar dirigido a que los estudiantes identifiquen las características del escenario, fenómeno o proceso y valoren las ventajas y desventajas en la utilización de los diferentes modelos para su realización, así como la evaluación del grado de cumplimiento de los objetivos y los requerimientos informacionales. La formalización y la fundamentación teórica del enfoque relacional juegan un papel esencial para garantizar la elaboración de sistemas correctos desde el punto de vista práctico, así como también crea las bases para la investigación y la innovación científica y tecnológica con relación al procesamiento de los datos desde las perspectivas operacional y analítica. Resulta esencial enfatizar en la importancia de la transformación de los enfoques tradicionales para el almacenamiento y el tratamiento de datos de diversa índole, así como la aproximación a los principales paradigmas en términos de las peculiaridades, herramientas y escenarios de aplicación.
+
+Se debe potenciar el trabajo con los sistemas de gestión de bases de datos y los lenguajes de programación asociados para la confección, actualización y consulta de bases de datos.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Ciencia de Datos que traten los temas relacionados con la visualización de datos, para la construcción de una solución de analítica de datos más completa.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.

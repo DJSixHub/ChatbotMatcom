@@ -1,0 +1,106 @@
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Se recomienda el uso de un lenguaje de programación de propósito específico para el análisis estadístico, tales como el lenguaje R, que provea de herramientas suficientes para aplicar y desarrollar los métodos estudiados en la asignatura.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** al cierre de los primeros dos temas en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor al cierre del tercer tema. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Douglas C. Montgomery. (2004): Diseño y análisis de experimentos. Editorial Limusa, s.a. de c.v
+2.  Carlos Bouza y Vivian Sistachs (a publicar) Métodos del Analisis Estadístico para la Ciencias de los Datos.
+
+**COMPLEMENTARIA**
+
+1.  Julian J. Faraway. (2009): Linear Models with R. CHAPMAN & HALL/CRC
+
+#### Asignatura: Análisis Estadístico II
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Análisis Multivariado | 24 | 12 | 11 |  |  | 1 |
+| Análisis Factorial | 16 | 8 | 7 |  |  | 1 |
+| Análisis de Componentes | 12 | 6 | 5 |  |  | 1 |
+| Análisis de Clústeres | 12 | 6 | 5 |  |  | 1 |
+| Totales | 64 | 32 | 28 |  |  | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La enorme cantidad de grandes bases de datos en todas las áreas de la aplicación humana, demanda la utilización de nuevas y poderosas técnicas de transformación de los datos en conocimiento. En esta asignatura, análisis de datos III, se presenta un conjunto de técnicas, que tiene en cuenta la utilización de varias variables para obtener de los datos descripciones, buscar asociaciones, aplicar técnicas de reducción, realizar búsquedas de tipologías y hacer predicciones utilizando modelos matemáticos. Esta asignatura es muy útil en el trabajo práctico e investigativo que desarrollarán los estudiantes, a lo largo de la carrera.
+
+Esta asignatura permitirá al estudiante enfrentarse a problemas estadísticos complejos, ampliando la variedad de los campos del conocimiento en los que podrá utilizar los conocimientos estadísticos. Permite hacer predicciones y análisis sobre diversos tipos de datos así como interpretar estos resultados proveyendo al estudiante de conocimientos precedentes a asignaturas de varias disciplinas de la carrera.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Desarrollar y organizar datos multivariados y representarlos visualmente.
+2.  Detectar y caracterizar relaciones entre variables usando Componentes Principales y Análisis Factorial.
+3.  Hacer inferencias sobre modelos de regresión multivariado y logístico.
+4.  Comparar y seleccionar el mejor modelo para un problema de inferencia estadística en función de los criterios objetivos estudiados en la asignatura.
+5.  Construir clusters usando diferentes métricas, representarlos visualmente e interpretarlos.
+6.  Diseñar modelos de datos y especificar requerimientos de los sistemas de información para almacenar y procesar datos de manera eficiente.
+7.  Utilizar las bibliotecas de código correspondientes a los métodos que se estudien en lenguajes de programación relevantes para el análisis estadístico tales como R y PYTHON.
+8.  Utilizar aplicaciones de análisis estadístico como SPSS y STATA e interpretar sus salidas.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Análisis de Regresión Multivariado. Ajustes de modelos de regresión multivariado. Análisis Factorial. Estructura interna de números grandes de variables a través del análisis factorial exploratorio. Análisis factorial confirmatorio. Análisis de Componentes Principales. Análisis de Componentes Independientes. Reducción de dimensiones y estructura de los datos. Análisis de clusters. Métricas para la evaluación de los algoritmos de agrupamiento.
+
+**Habilidades principales a dominar**
+
+1.  Valorar el ajuste de un modelo de regresión multivariada y ser capaces de comparar la bondad de dos modelos dados para sus variables.
+2.  Descubrir la estructura interna de un número relativamente grande de variables a través del análisis factorial exploratorio.
+3.  Interpretar los resultados del análisis factorial exploratorio mediante el análisis factorial confirmatorio.
+4.  Utilizar técnicas de análisis de componentes para reducir dimensiones, visualizar datos y detectar estructura en los datos.
+5.  Evaluar algoritmos de agrupamiento.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores, donde al menos una parte importante se realice frente a la computadora.
+
+**BIBLIOGRAFÍA**
