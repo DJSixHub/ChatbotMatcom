@@ -1,0 +1,98 @@
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Además de servir adecuadamente para el cumplimiento de los objetivos señalados, el lenguaje de programación seleccionado debe ser un lenguaje de difusión real en la producción. Debe ser escogido en el momento de impartición de la disciplina según las circunstancias específicas de cada CES. Al momento de la confección de este plan, teniendo en cuenta las tendencias en la comunidad científica y la industria relacionadas con la ciencia de datos, se recomienda el lenguaje Python.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Ciencia de Datos y la disciplina Estadística y Probabilidades relacionadas con el análisis exploratorio de los datos y la comunicación de los resultados de dicho análisis, para propiciar que los estudiantes vean aplicados los conocimientos de programación en un problema concreto de su interés.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+1.  Think Python: How to Think Like a Computer Scientist (2nd edition). Allen B. Downey. O'Reilly.
+2.  Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edición. Wess McKinney.
+
+#### Asignatura: Estructuras de Datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Estructuras de datos básicas | 20 | 10 | 8 |  |  | 2 |
+| Árboles | 20 | 10 | 8 |  |  | 2 |
+| Grafos | 24 | 12 | 10 |  |  | 2 |
+| Totales | 64 | 32 | 26 |  |  | 6 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura establece los fundamentos teóricos que se necesitarán luego para la comprensión de los sistemas de bases de datos en particular y todo el flujo de recolección, procesamiento y análisis de datos en general. En ella se estudia la aplicabilidad de las diferentes estructuras de datos a diferentes tipos de problemas sobre los datos, y en la formalización simple de las operaciones y las demostraciones de correctitud de los algoritmos. Asimismo se abordan las estructuras de datos básicas, así como los fundamentos de árboles y grafos como representaciones de datos estructurados, enfocándose en los problemas relacionados con el procesamiento eficiente de los datos almacenados en estas estructuras más que sobre las propiedades de las estructuras en sí.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar estructuras de datos y algoritmos en la expresión e instrumentación computacional de soluciones a los problemas en los diferentes escenarios como escritorio (desktop), dispositivos y Web.
+2.  Evaluar en forma preliminar la complejidad temporal y espacial de los algoritmos que utilicen o desarrollen.
+3.  Valorar el costo y factibilidad de implementación de conceptos y recursos estudiados y tratados por otras disciplinas de la carrera.
+4.  Valorar y reutilizar el _software_ existente en forma de código fuente, bibliotecas de tipos así como a través de recursos como la herencia puedan hacer extensiones y adaptaciones de bibliotecas ya existentes.
+5.  Aplicar las estructuras de datos más significativas para representar grafos, así como los algoritmos más representativos existentes asociados a este modelo matemático-computacional, en la solución diversas clases de problemas, dentro de diversos contextos donde sea factible la aplicación del mismo.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Estructuras de datos básicas: pilas, colas, listas, diccionarios, y conjuntos. Definición general de conjunto. Definición de conjunto ordenado. Definición de orden parcial y orden total. Definición de un orden total sobre los miembros de un conjunto. Operaciones avanzadas sobre conjuntos. Diferentes implementaciones de conjuntos.
+
+Árboles. Árboles ordenados. Árbol Binario de Búsqueda. Operaciones de inserción, eliminación y búsqueda en árboles ordenados. Recorridos.
+
+Grafos. Representaciones computacionales de grafos. Grafo dirigido y no dirigido, aplicaciones. Algoritmos de búsqueda en grafos (BFS, DFS, A\*). Componentes conexas y fuertemente conexas. Construcción de árboles abarcadores minimales. Orden topológico.
+
+**Habilidades principales a dominar**
+
+1.  Utilizar tipos de datos ya existentes y en algunos casos, asumir la concepción y el diseño de nuevos tipos de datos.
+2.  Realizar análisis informales en cuanto a la complejidad algorítmica, espacial y temporal, de las estructuras y de las operaciones fundamentales definidas sobre ellas.
+3.  Seleccionar estructuras adecuadas para el almacenamiento de los datos y proponer algoritmos adecuados para el tratamiento de la información al participar como miembro del equipo de desarrolladores de una aplicación.
+4.  Clasificar árboles y grafos en cuanto a su estructura.
+5.  Implementar computacionalmente estructuras de datos basadas en árboles y grafos y los algoritmos estudiados.
+6.  Adaptar la solución de problemas conocidos sobre árboles y grafos a la solución de nuevos problemas.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de programación.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Esta asignatura se considera como básica y debe impartirse en los primeros años a continuación de Programación, en la cual se contribuye a desarrollar en el profesional la capacidad para dar solución a problemas interdisciplinarios dentro de cualquier rama donde la solución de un problema pueda ser abordada por la vía computacional.
+
+Se debe partir de un principio integrador, a partir del cual se deberá integrar y/o relacionar los nuevos aspectos que se estudien en la asignatura de Programación.
+
+El objetivo es proporcionar a los estudiantes los conocimientos fundamentales acerca de un conjunto de estructuras de datos básicas que sirven como unidades lógicas de almacenamiento de la información y los algoritmos fundamentales que conllevan a la solución de determinados problemas de la matemática computacional, con la finalidad de usar los mismos en la solución computacional de problemas del mundo real.

@@ -1,0 +1,105 @@
+Esta asignatura es transversal a todo el currículo de la carrera pues se relaciona con todo el conocimiento que se adquiere en la carrera tanto a nivel teórico como práctico. Por ello debe impartirse en el año terminal. Para ella se requiere que se manejen de manera especial los conocimientos de los sistemas computacionales y las redes, la gobernanza de los datos y las implicaciones éticas y legales en el uso de los datos.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura con la disciplina Preparación para la Defensa, por la vital importancia que tienen los temas de ciberseguridad y privacidad en la seguridad nacional y el diseño de cualquier estrategia de defensa ante ciberataques de índole interna o externa.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+*   **Seminarios evaluativos** donde el estudiante presente un tema determinado, para evaluar tanto el conocimiento adquirido por el estudiante como las habilidades para la presentación y exposición en público.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Duane C. Wilson. Cybersecurity. The MIT Press, 2021
+2.  Kutub Thakur, Al-Sakib Khan Pathan. Cybersecurity Fundamentals: A Real-World Perspective. CRC Press, 2020.
+3.  Nataraj Venkataramanan, Ashwin Shriram. Data privacy: principles and practice.CRC Press, 2017
+
+**COMPLEMENTARIA**
+
+1.  Mary Manjikian. Cybersecurity Ethics: An introduction, Routledge, 2017.
+2.  Kim-Kwang Raymond Choo , Ali Dehghantanha (eds). Handbook of Big Data Privacy. Springer, 2020
+
+#### Asignatura: Análisis de Redes Complejas
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción a las Redes Complejas | 2 | 2 |  |  |  |  |
+| Representación y Estadística de las Redes Complejas | 4 | 2 | 2 |  |  |  |
+| Índices de Centralidad | 4 | 2 | 2 |  |  |  |
+| Modelación de Redes Complejas | 4 | 2 | 2 |  |  |  |
+| Agrupamiento y Detección de Comunidades | 6 | 2 | 2 | 2 |  |  |
+| Difusión en Redes Complejas | 4 | 2 | 2 |  |  |  |
+| Isomorfismo y Similaridad de Redes Complejas | 4 | 2 | 2 |  |  |  |
+| Robustez y Resiliencia | 2 | 2 |  |  |  |  |
+| Visualización | 2 |  |  |  | 2 |  |
+| Totales | 32 | 16 | 12 | 2 | 2 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura se centra en el análisis de todo tipo de procesos, estructuras o fenómenos que se pueden modelar como redes complejas. En estas redes se podrá identificar los elementos destacados de ellas, la detección de grupos y componentes estructurales, la simulación de procesos o la propia visualización de las redes.
+
+Ello dotará a los estudiantes de conocimientos y capacidades que le permitirán analizar y extraer conocimiento valioso de escenarios reticulares que pueden ser desde los modelos más simples hasta estructuras reticulares de millones de elementos que necesiten de gran poder de cómputo para su análisis.
+
+Estos escenarios pueden caracterizarse por la naturaleza reticular propia del escenario (por ejemplo redes hidráulicas, redes de computadoras) o por su construcción por analogía (por ejemplo las estructuras biológicas, las redes sociales virtuales). Ello muestra la universalidad de la aplicación del análisis de redes complejas en el análisis y solución de problemas.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Modelar procesos y escenarios reales como redes complejas
+2.  Identificar elementos, grupos y estructuras de importancia en las redes complejas que permitan posteriormente, o de manera dinámica, su análisis o la modificación de los mismos dentro de la propia red persiguiendo un objetivo particular
+3.  Modelar, a partir de redes teóricas, escenarios reticulares para los cuales no es posible construir, ya sea por desconocimiento o complejidad, la red real
+4.  Simular procesos que ocurren en los escenarios reticulares de manera que estos puedan ser estudiados, caracterizados, controlados y modificados.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Introducción a la Teoría de Redes Complejas. Representación de Redes Complejas. Estadística de las Redes Complejas. Índices de Centralidad Modelación de Redes Complejas. Grafos Aleatorios. Difusión en Redes Complejas Agrupamiento y Detección de Comunidades. Isomorfismo y Similaridad de Redes Robustez y Resiliencia de las Redes. Visualización de redes complejas.
+
+**Habilidades principales a dominar**
+
+1.  Representar redes reales a partir de los distintos formatos de representación
+2.  Calcular las distintas propiedades de las redes
+3.  Comparar redes y subredes a partir de sus componentes y características estructurales
+4.  Visualizar, de manera apropiada, las distintas redes de acuerdo a las características de estas y los objetivos que se persigan en el análisis de estas
+5.  Identificar y utilizar las herramientas de programación y de software más apropiadas según las acciones que se vayan a realizar sobre las redes a analizar
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de ciencia de datos.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** (En menor proporción) Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.

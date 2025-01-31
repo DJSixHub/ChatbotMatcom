@@ -1,0 +1,104 @@
+1.  Desarrollar soluciones que necesitan la sincronización y comunicación entre procesos concurrentes.
+2.  Crear aplicaciones en ambientes de tiempo compartido mediante técnicas de programación concurrente.
+3.  Utilizar las distintas técnicas de administración de memoria RAM y las estructuras de control definidas para los sistemas operativos.
+4.  Aplicar los conceptos fundamentales referentes a las comunicaciones de datos actuales y los principales protocolos de una arquitectura específica, en solución a un determinado problema.
+5.  Configurar entornos de desarrollo virtualizados o basados en tecnologías de contenedores.
+6.  Evaluar críticamente el desempeño de las redes de computadoras y sus sistemas.
+7.  Utilizar las redes de computadores y los sistemas distribuidos como escenario predominante en los procesos de ciencia de datos.
+8.  Trabajar exitosamente en equipos interdisciplinarios, donde la solución requiere el conocimiento integral de los elementos que componen las redes.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+La asignatura aunque contiene una base teórica y conceptual que permita al estudiante comprender las bases del trabajo a través de redes y explotando los recursos del sistema operativo, debe orientarse hacia la utilización práctica de herramientas utilizadas en el estado del arte para resolver los problemas de interés.
+
+Esta asignatura requiere que el estudiante disponga de habilidades para la programación avanzada, habilidades para la modelación de los sistemas.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Tanenbaum, A. “Modern Operating Systems”, 2nd Edition, 2006, ISBN: 0-130-31358-0.
+2.  Tanenbaum, A., “Computer Networks” 4th Edition. Prentice-Hall. 2003
+3.  Tanenbaum A.S, Steen M. Van. “Distributed Systems: Principles and Paradigms”. ISBN-13: 9780132392273 Pub. Date: October 2006.
+
+**COMPLEMENTARIA**
+
+1.  Wattenhofer R., “Principles of Distributed Computing”, ETH Zürich, Spring 2016.
+2.  Bryant R. E. “Computer Systems, A programmer’s Perspective”, 2009
+3.  Comer, Douglas, “Internetworking with TCP/IP”, 5th Edition. Prentice-Hall. 2006.
+4.  Kurose, K. Ross, W., “Computer Networking: A Top-Down Approach Featuring the Internet”. 3rd Edition. Addison-Wesley. 2004
+5.  Stallings W. “Operating Systems, Internals and Design Principles”, 4th Edition, 2006.
+6.  Oldham J., Alex Samuel “Advanced Linux Programming, Mark Mitchell”,2012
+7.  Bovet D.P., Cesati M. “Understanding the Linux Kernel”, 2010, ISBN: 0-596-00002-2
+
+###
+
+### INTELIGENCIA ARTIFICIAL
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Lógica | BASE | 64 | 1 | 1 | EF |
+| Aprendizaje Automático | BASE | 64 | 2 | 4 |  |
+| Redes Neuronales | BASE | 64 | 3 | 5 |  |
+| Elementos de Inteligencia Artificial | PROPIO | 48 | 4 | 7 | EF |
+| Simulación | BASE | 48 | 3 | 6 |  |
+| Total de Horas | 288 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+La Inteligencia Artificial es una de las áreas del conocimiento con más desarrollo en la actualidad, tanto a nivel teórico como práctico. El mayor desarrollo, aunque no el único, está en el área del aprendizaje de máquina donde los modelos basados en datos tienen una mayor preponderancia. Asimismo, la simulación de procesos es otra área con gran actividad en todos los sectores de la economía y la sociedad.
+
+La disciplina Inteligencia Artificial provee entonces a los estudiantes con los modelos y algoritmos necesarios (predicción, clasificación, detección de patrones, generación de conocimiento, etc) que permiten realizar de manera automatizada las tareas ciclo de vida de los datos que pueden ir desde la captura y el preprocesamiento de los datos hasta la creación de modelos y productos de datos.
+
+En esta disciplina los estudiantes se inician en la formación de las capacidades y habilidades del profesional en el campo de la Inteligencia Artificial y su aplicación a la Ciencia de Datos, las cuales continuarán desarrollando a lo largo de la carrera para finalizar la misma con una formación integral conceptual y práctica en esta área del conocimiento.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+1.  Desarrollar un pensamiento lógico orientado a comprender las bases del razonamiento.
+2.  Integrar los conocimientos conceptuales y prácticos de la Inteligencia Artificial en el desarrollo de herramientas para la analítica, modelación y predicción basadas en datos.
+3.  Utilizar los diferentes paradigmas y concepciones de Inteligencia Artificial en la solución de problemas.
+4.  Seleccionar y utilizar correctamente las herramientas y técnicas de inteligencia artificial más adecuadas según el problema tratado.
+5.  Aplicar diferentes modelos e implementar algoritmos de Inteligencia Artificial y realizar la evaluación correspondiente.
+6.  Reconocer problemas de Inteligencia Artificial y aplicar soluciones a dichos problemas.
+7.  Identificar y fundamentar las implicaciones éticas y morales del uso de datos tanto a nivel individual como social y las herramientas existentes para lidiar con las consecuencias.
+8.  Modelar computacionalmente problemas de ciencia de datos a partir de los conceptos y la teoría de la Inteligencia Artificial.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Conjuntos. Relación de pertenencia. Representación extensional e intencional de conjuntos. Relación de inclusión entre conjuntos, definición de subconjunto. Propiedades de la inclusión. Igualdad de conjuntos. Conjuntos distinguidos: conjunto universo, conjunto vacío y conjunto potencia. Operaciones entre conjuntos: unión e intersección de conjuntos. Conjuntos disjuntos. Complemento relativo y absoluto. Propiedades de las operaciones conjuntuales: leyes de potencia, asociativas, conmutativas, distributivas, de identidad, de complemento y de Morgan. Particiones.
+
+Relaciones. Pares ordenados. Relaciones binarias. Operaciones entre relaciones. Propiedades de **l**as relaciones. Relaciones de equivalencia y particiones. Relaciones de Orden. Pares ordenados. Conjuntos de pares ordenado. Conjuntos productos. Definición extensional de relaciones como subconjuntos de conjuntos productos. Relaciones binarias. Tipos de relaciones de acuerdo a las propiedades que satisfacen. Relaciones de equivalencia y sus propiedades. Relaciones de orden y sus propiedades.
+
+Funciones: definición, funciones inyectivas, sobreyectivas y biyectivas. Operaciones con funciones. Ejemplos simples de aplicación de relaciones y funciones en el área de la matemática y la computación. Operaciones entre proposiciones.
+
+Lenguaje de la lógica proposicional. Fórmulas. Definición de las operaciones proposicionales. Interpretación de Fórmulas. Leyes de la lógica proposicional. Deducción proposicional. Reglas de Inferencia de la lógica proposicional. Concepto de demostración. Ejemplos de demostración matemática. Algoritmo de satisfacibilidad.
+
+Recursividad, propiedades y estrategias de búsqueda. Predicados. Aproximación intuitiva a la lógica de predicados. Aproximación intuitiva a la cuantificación como operación lógica. El lenguaje de la lógica de predicados: predicados, constantes, variables, funciones, operaciones lógicas. Expresiones de la lógica de predicados: términos y fórmulas. Interpretación y evaluación de fórmulas.
+
+Deducción en la lógica de predicados. Aproximación axiomática a la lógica de predicados. Deducción en la lógica de predicados: reglas de inferencia y extensión del concepto de prueba. Demostración matemática.

@@ -1,0 +1,146 @@
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los elementos básicos de la organización y planificación de la actividad investigativa del profesional.
+2.  Buscar e identificar apropiadamente información sobre el estado del arte de temas científicos a través de motores de búsqueda y otras fuentes priorizando el uso del idioma inglés.
+3.  Manejar gestores bibliográficos para la organización de la información consultada.
+4.  Elaborar el diseño e implementación computacional de un problema sencillo emanado de un centro laboral.
+5.  Elaborar el informe de la Práctica Laboral e Investigativa utilizando editores de textos profesionales, apoyado en la aplicación de la metodología de la investigación.
+6.  Exponer los resultados obtenidos auxiliados por presentaciones electrónicas.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Herramientas y técnicas computacionales útiles para su formación básica.
+
+Introducción a la metodología de la investigación científica en Ciencia de Datos y en el uso de las técnicas para el manejo de la información científica.
+
+Solución computacional de problemas que integren y/o profundicen los conocimientos adquiridos en el año académico.
+
+**Habilidades principales a dominar**
+
+1.  Desarrollar habilidades de análisis estadístico de un determinado problema. Realización de gráficas ilustrativas de los mismos que faciliten la interpretación.
+2.  Utilizar editores de texto profesionales.
+3.  Desarrollar las habilidades básicas de consulta de información científico-técnica.
+4.  Utilizar gestores bibliográficos para la organización de la información consultada.
+5.  Redactar el informe técnico y realizar la presentación oral de los resultados obtenidos en el proceso investigativo ante un tribunal evaluador.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Al ser considerada esta disciplina como Integradora, ella consigna las _cualidades_ y los _valores_ que han de integrar la conducta científica del profesional de la Ciencia de Datos.
+
+Aplicar con un alto grado de creatividad los desarrollos más avanzados y actuales de la Ciencia de Datos en la solución de problemas.
+
+Integrarse a equipos interdisciplinarios para acometer la solución de problemas complejos e interdisciplinarios, con una amplia perspectiva científica y capacidad para el trabajo colaborativo.
+
+Alcanzar un alto grado de productividad, basado en la motivación que le proporciona su profesión y en la aplicación de herramientas de producción y de principios de organización y optimización de su actividad laboral.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+La Práctica Laboral e Investigativa I se desarrollará al final del primer curso académico donde el estudiante comienza a familiarizarse con la especialidad, cada centro adecuará las herramientas y tecnologías que se requieran acorde al estado del arte y el desarrollo de la localidad donde se realice la práctica.
+
+Se hará énfasis en el protagonismo de los estudiantes para la apropiación de los conocimientos. Para ello, el _profesor-responsable_ y el _profesor-tutor_ de la práctica laboral guiarán a los estudiantes en la búsqueda de respuestas a sus inquietudes cognitivas a partir de materiales de consulta situados en la Intranet o en la Web.
+
+El establecimiento de un formato de escritura para el informe de la práctica es de suma importancia. Se deberá exigir como parte del informe escrito la precisión de las fuentes de conocimiento utilizadas en el desarrollo del trabajo.
+
+**Sistema de evaluación**
+
+Presentación de los resultados de la práctica. Para la evaluación se debe tener en cuenta la redacción del informe y la calidad de la presentación oral.
+
+**BIBLIOGRAFÍA**
+
+*   Depende del tema objeto de estudio
+
+####
+
+#### Asignatura: Práctica laboral e Investigativa II
+
+**DATOS PRELIMINARES**
+
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| --- | --- | --- | --- | --- | --- | --- |
+| Solución de problema | 120 |  |  |  |  |  |
+| Totales | 120 |  |  |  |  |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura permite la integración de los contenidos impartidos hasta el 2do. año académico dando solución a problemas acorde a las habilidades que dispone el estudiante para la solución de los problemas propuestos por el centro laboral donde realice la Práctica.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar la modelación de los datos y los métodos de procesamiento y análisis estudiados, consolidando su capacidad para la solución de problemas propios e interdisciplinarios.
+2.  Obtener la información sobre el estado del arte de temas científicos a través de motores de búsqueda y otras fuentes bibliográficas de reconocido prestigio priorizando el uso del idioma inglés.
+3.  Elaborar informe técnico de la Práctica Laboral e Investigativa aplicando los métodos de investigación propios de la Ciencia de Datos y utilizando algún editor de texto profesional..
+4.  Exponer los resultados obtenidos frente a un tribunal evaluador auxiliados por presentaciones electrónicas u otros materiales didácticos.
+5.  Trabajar colaborativamente con estudiantes y/o profesionales de Ciencia de Datos o de otras áreas del conocimiento.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Sobre la base de los conocimientos adquiridos hasta el 2do año y teniendo en cuenta la integración horizontal de las asignaturas en el año académico, se acometerá la solución de un problema emanado del centro laboral donde se inserta al estudiante.
+
+**Habilidades principales a dominar**
+
+Diseñar, implementar y/o evaluar la solución del problema planteado.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Al ser considerada esta disciplina como Integradora, ella consigna las _cualidades_ y los _valores_ que han de integrar la conducta científica del profesional de la Ciencia de Datos.
+
+Aplicar con un alto grado de creatividad los desarrollos más avanzados y actuales de la Ciencia de Datos en la solución de problemas.
+
+Integrarse a equipos interdisciplinarios para acometer la solución de problemas complejos e interdisciplinarios, con una amplia perspectiva científica y capacidad para el trabajo colaborativo.
+
+Alcanzar un alto grado de productividad, basado en la motivación que le proporciona su profesión y en la aplicación de herramientas de producción y de principios de organización y optimización de su actividad laboral.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Se recomienda que el estudiante sea insertado en el centro laboral donde comenzó su práctica en primer año. En este periodo puede completar la solución lograda al problema planteado del primer año o abordar un nuevo problema acorde al conocimiento obtenido en el año académico en correspondencia al eslabón base propuesto por el centro laboral, donde se evidencie la capacidad de enfrentar los modos de actuación definidos en el modelo del profesional.
+
+El _profesor–responsabl_e y el _profesional–tutor_ de la práctica, guiarán a los estudiantes en todo el recorrido de la práctica laboral, donde el tutor desempeñará una labor formativa no solo en lo académico sino en el trabajo colaborativo al incorporar al estudiante a los grupos o equipos de trabajo de la vida laboral.
+
+Se recomienda utilizar las posibilidades que brindan las tecnologías educativas para ofertar propuestas de problemas a solucionar, orientar el estudio de temáticas específicas requeridas para llevar a cabo la solución de determinados problemas, etc.
+
+Se insistirá en la búsqueda y la utilización de bibliografía científica tanto en idioma español como en inglés para la investigación y/o implementación de las soluciones.
+
+Para la evaluación de la Práctica Laboral e Investigativa II el estudiante redactará un informe investigativo donde expondrá los resultados científico-técnicos.. Además de la entrega del informe y los resultados alcanzados, el estudiante debe realizar la defensa oral de sus resultados ante el tribunal designado.
+
+Se debe hacer énfasis en la presentación de los resultados en las Jornadas Científicas Estudiantiles, Fórum de estudiantes, Eventos nacionales e internacionales donde sea oportuna la misma.
+
+**Sistema de evaluación**
+
+Presentación de los resultados de la práctica. Para la evaluación se debe tener en cuenta la redacción del informe y la calidad de la presentación oral.
+
+**BIBLIOGRAFÍA**
+
+Acorde al tema objeto de la investigación a realizar.
+
+####
+
+#### Asignatura: Práctica laboral e Investigativa III
+
+**DATOS PRELIMINARES**
+
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| --- | --- | --- | --- | --- | --- | --- |
+| Solución de problemas | 120 |  |  |  |  |  |
+| Totales | 120 |  |  |  |  |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura permite la integración de los contenidos impartidos hasta el tercer año académico desarrollando herramientas acorde a las habilidades que dispone para la solución de problemas que emanen de los centros laborales donde realice la Práctica.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**

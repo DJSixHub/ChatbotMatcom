@@ -1,0 +1,61 @@
+1.  Aplicar los conocimientos y las habilidades adquiridas en las asignaturas del año a la resolución de problemas especialmente diseñados, que contribuyan a completar y profundizar dichos conocimientos, integrándolos interdisciplinariamente y en su relación con la ciencia de datos.
+2.  Adquirir habilidades para la abstracción y el razonamiento matemático-computacional, así como conocimientos básicos de la notación, terminología, definiciones y operatoria de las estructuras lógicas, algebraicas, geométricas y analíticas y su aplicación en la modelación de estructuras y procesos tanto continuos como discretos.
+3.  Programar algoritmos para responder a preguntas simples sobre un dominio de datos en concreto, haciendo uso de técnicas de programación y herramientas computacionales afines a la ciencia de datos.
+4.  Describir estadísticamente los datos y sus características básicas de modo que permitan su análisis exploratorio.
+5.  Localizar y consultar literatura relacionada con las asignaturas del año, tanto en idioma español como en inglés. Elaborar esquemas y resúmenes en español sobre los materiales consultados.
+6.  Crear productos comunicativos referentes a los resultados obtenidos en la solución de problemas de otras asignaturas, empleando narrativas y estrategias de comunicación que contengan los datos y los análisis que se deriven de estos.
+7.  Adquirir los fundamentos filosóficos de la concepción científica del mundo y, en particular, del objeto de la ciencia de datos.
+8.  Adquirir habilidades prácticas en la captura, preprocesamiento y exploración de datos reales, bajo la dirección de los profesores o de otros profesionales, en la Práctica Laboral e Investigativa.
+
+**Segundo año**
+
+1.  Aplicar métodos numéricos, modelos estadísticos, bayesianos y ecuaciones diferenciales para deducir conclusiones cuantitativas y cualitativas acerca del comportamiento de los procesos reales estudiados, realizando su programación y utilizando el software adecuado para ello.
+2.  Utilizar técnicas de inteligencia artificial que permitan la creación de modelos de aprendizaje de máquina.
+3.  Analizar y utilizar diferentes modelos y sistemas computacionales explorando su capacidad de representación, procesamiento, comunicación y estrategias de control para la solución más eficiente y efectiva de problemas tanto propios como interdisciplinarios,
+4.  Continuar perfeccionando las habilidades para crear productos comunicativos referentes a los resultados obtenidos en la solución de problemas de otras asignaturas, empleando narrativas y estrategias de comunicación que contengan los datos y los análisis que se deriven de estos.
+5.  Consultar, localizar y resumir literatura relacionada con las disciplinas básicas y con los problemas propuestos, tanto en español como en inglés.
+6.  Adquirir nociones de la modelación de procesos reales, bajo la dirección de los profesores o de otros profesionales, mediante el análisis de distintos problemas en la Práctica Laboral e Investigativa.
+7.  Continuar desarrollando una cultura histórica y de pensamiento que les permita enjuiciar críticamente la realidad contemporánea apropiándose de los elementos fundamentales de la concepción científica del mundo y la sociedad humana,
+
+**Tercer año**
+
+1.  Utilizar modelos de optimización, aplicados a problemas de análisis de datos así como conocer definiciones teóricas, algoritmos, complejidad y heurísticas asociadas.
+2.  Continuar el desarrollo de modelos de aprendizaje de máquina enfocados en el paradigma de las redes neuronales y el aprendizaje profundo.
+3.  Diseñar, utilizar y analizar los sistemas de recuperación de información así como su relación con los sistemas de bases de datos.
+4.  Utilizar metodologías y tecnologías de la ingeniería de datos, así como del procesamiento de grandes volúmenes de datos para la solución de problemas de ciencia de datos.
+5.  Enfrentar la simulación de problemas relacionados con sistemas reales y sus procesos.
+6.  Analizar, a través de un enfoque social humanista, las principales tendencias del desarrollo científico y tecnológico actual, así como los principales conflictos éticos-sociales-tecnológicos que se relacionan con la publicación, gestión y manipulación de los datos.
+7.  Iniciar la formación relativamente especializada del científico de datos de perfil amplio mediante las asignaturas optativas.
+8.  Participar en la modelación y análisis de datos y fenómenos reales, utilizando para ello los recursos de la estadística, la optimización, el aprendizaje de máquina y las tecnología para el procesamiento de grandes volúmenes de datos, bajo la dirección de profesores y otros especialistas.
+9.  Desarrollar las habilidades de expresión oral y escrita, así como la consulta de literatura tanto en español como en inglés, a través de las discusiones en el colectivo y la presentación y defensa de tareas conjuntas donde se combinen conocimientos de distintas asignaturas.
+10.  Adquirir hábitos de disciplina laboral consciente, mediante la vinculación del estudio con el trabajo en una entidad laboral o unidad docente representativa de alguna de las esferas de actuación del científico de datos profesional.
+
+**Cuarto año**
+
+1.  Continuar la formación relativamente especializada del científico de datos de perfil amplio mediante las asignaturas optativas y electivas.
+2.  Interpretar los fundamentos de la preparación del país para la Defensa y ejecutar las obligaciones relacionadas con la Seguridad Nacional, la Defensa Nacional, Ciberseguridad y la Privacidad, sobre la base de compatibilizar su desempeño profesional con esas importantes tareas.
+3.  Consolidar el aprendizaje de conocimientos y habilidades esenciales para la formación integral del científico de datos y complementar la asimilación de contenidos de la formación a través de las asignaturas optativas y electivas.
+4.  Mediante el conocimiento de las disciplinas de formación general, adquirir convicciones indispensables para una ética profesional del científico comprometido con su nación y con su tiempo.
+5.  Desarrollar las habilidades y hábitos inherentes a la actividad profesional del científico de datos, mediante la resolución de un problema concreto, de interés para la entidad laboral donde realizó la práctica laboral el estudiante durante el tercer año.
+6.  Desarrollar las habilidades para el trabajo en colectivos interdisciplinarios con científicos de datos y otros profesionales. Adquirir convicciones y valores inherentes a la ética profesional, mediante el conocimiento de la historia y los problemas filosóficos fundamentales de la ciencia.
+7.  Consultar literatura especializada (tanto en inglés como en español) y auxiliarse de los medios de procesamiento de la información por computadoras, para su trabajo de investigación.
+8.  Realizar un trabajo, o conjunto de trabajos, científico-investigativos que comprenda el estudio de una clase de problemas de ciencia de datos a la que deberá aportar una solución (teórica y/o práctica), la cual deberá desarrollar, implementar, exponer y defender.
+9.  Aprobar satisfactoriamente el ejercicio de culminación de estudios.
+
+## PLAN DEL PROCESO DOCENTE
+
+**APROBADO:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+DR. C. MIRIAM NICADO GARCÍAZZ
+
+RECTORA
+
+\_\_\_\_ de \_\_\_\_\_\_\_\_\_\_ de \_\_\_\_\_\_\_
+
+**CARRERA:** CIENCIA DE DATOS
+
+**CALIFICACIÓN:** LICENCIADO EN CIENCIA DE DATOS
+
+**TIPO DE CURSO:** CURSO DIURNO
+
+**DURACIÓN DE LA CARRERA:** 4 AÑOS

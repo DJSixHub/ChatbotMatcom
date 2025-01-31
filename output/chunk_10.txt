@@ -1,0 +1,81 @@
+El curso de Filosofía y Sociedad es de nivel básico, y tiene la intención que el estudiante conozca y aplique el método histórico-dialéctico de la filosofía Marxista para la comprensión del pensamiento y el conocimiento científico en el devenir dialéctico de la historia. Se incluirán conceptos de ética, epistemología, producción, desarrollo sostenible mediante el diálogo y análisis de problemas relacionados con el uso eficiente de los recursos (materias primas y productos terminados) en los procesos de producción y su carácter social.
+
+Al manejar conceptos y categorías filosóficas que posibiliten este análisis, la materia contribuye al desarrollo del pensamiento lógico-abstracto y a formar una actitud reflexiva y crítica en los estudiantes. Además, se edifica la aprehensión de un lenguaje científico necesario para el diálogo y posterior trabajo intra, multi y transdisciplinario. Con el método dialéctico desarrollado por la teoría marxista el estudiante podrá “saber situar las partes en el todo, y mover el pensamiento desde lo simple a lo complejo”.
+
+La filosofía y el método histórico-dialéctico posibilitan una forma de valoración sistémica de la realidad, lo que permite fortalecer el sentido de responsabilidad social y de compromiso con la sociedad cubana como su realidad inmediata. Asimismo, se profundiza en el cultivo de la moral del científico, los valores humanistas y la identidad como principio rector de nuestra forma de apropiación espiritual de la realidad. En última instancia, se contribuye a potenciar el pensamiento crítico, reflexivo y creativo en los estudiantes.
+
+El panorama de crisis global, en términos ambientales y sociales de la vida humana hoy, evidencia la imposibilidad del capitalismo como sistema para solucionar sus problemas. Las preocupaciones de trasfondo son de carácter ético y responden a las preguntas eternas de la filosofía: ¿quiénes somos? Y ¿hacia dónde vamos? Sólo desde el saber científico no logramos responder el significado de la existencia humana y las cuestiones de sentido de su condición en la compleja relación con la Naturaleza. Por otra parte, la filosofía necesita continuar dialogando con las Ciencias Naturales y Matemáticas, aprehender sus problemáticas y aportes, en nuestra función común como teóricos de la realidad social.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1\. Valorar los retos y desafíos del mundo contemporáneo; a partir del análisis de los fundamentos teórico-metodológico de la dialéctica materialista, para la formación de una concepción humanista y científica del mundo.
+
+2\. Fundamentar el lugar de la filosofía en el sistema de conocimiento científico; a partir del estudio de la transición de cosmogonía a cosmología en correlato con hitos del pensamiento antiguo y medieval.
+
+3\. Explicar la dialéctica marxista como forma de comprensión del conocimiento en diálogo con los presupuestos epistemológicos de la especialidad.
+
+4\. Valorar los problemas del mundo contemporáneo y el papel del profesional de las ciencias de la computación como sujeto histórico social.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+El mito como presupuesto del saber filosófico. Saber filosófico y concepción científica del mundo. Las problemáticas esenciales del conocimiento en su devenir histórico. El método dialéctico marxista como forma de comprensión del conocimiento. Los presupuestos teórico- metodológico de la dialéctica marxista en diálogo con las ciencias. El científico como sujeto histórico y de la transformación social. La relación entre ciencia, ética, política y cultura. Problemas globales del mundo contemporáneo.
+
+**Habilidades principales a dominar**
+
+1.  Definir los rasgos esenciales de los conceptos claves dentro del sistema de conocimiento.
+2.  Identificar en un marco teórico de relaciones los conceptos que se trabajen.
+3.  Determinar criterios de relación entre los conceptos, categorías, problemáticas.
+4.  Elaborar síntesis parciales y conclusiones generales.
+5.  Analizar los límites del objeto de estudio, a partir de la descomposición de sus partes, para revelar sus elementos más simples.
+6.  Sintetizar los nexos causales entre las partes analizadas, elaborando conclusiones acerca de la integralidad del todo.
+7.  Interpretar los presupuestos epistemológicos de la dialéctica marxista como base de las formas de comprensión del conocimiento.
+8.  Argumentar los presupuestos epistemológicos de la especialidad.
+9.  Establecer relaciones entre los presupuestos epistemológicos de la filosofía y las problemáticas de interés del campo de las ciencias de matemáticas, computacionales y de datos.
+10.  Ordenar lógicamente las interrelaciones encontradas.
+11.  Exponer ordenadamente los juicios y razonamientos.
+12.  Desarrollar el pensamiento lógico y establecer relaciones entre el enfoque filosófico y el que corresponde al perfil profesional de la Matemática.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye a la formación ética partiendo de la concepción martiana, marxista leninista y fidelista del mundo como base de la formación de valores. De igual modo tributa al desarrollo de la capacidad de reflexión e integración en el análisis científico, político e ideológico con espíritu crítico y autocrítico. Asimismo, consolida el valor de la responsabilidad social del científico de las ciencias de la computación como un valor de altos compromisos de respeto a la vida, las sociedades y la naturaleza. La honestidad, el humanismo y la solidaridad como valores complementarios de un profesional socialista. Fomentar el respeto y la humildad como base de la comunicación en cualquiera de sus prácticas profesionales. Además de fomentar la identidad nacional y las convicciones políticas e ideológicas acordes a nuestro proyecto social socialista.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Filosofía y Sociedad es la asignatura que inicia el desarrollo de la disciplina. Ello responde a su condición de visión generalizadora y fundamento metodológico de las demás asignaturas de la disciplina. La asignatura está distribuida en tres temas que serán abordados a través de conferencias, seminarios y clases prácticas que darán criterios de medidas para evaluar el desempeño de los estudiantes. La evaluación sistemática debe propiciar la participación activa de los estudiantes desde una orientación adecuada de estas actividades, determinante para medir los conocimientos y habilidades adquiridas en el desempeño profesional de los estudiantes.
+
+En consonancia con esta perspectiva en su aplicación el programa debe ser adecuado a las especificidades de la especialidad con vistas a contribuir a la formación integral del estudiante como ciudadano y científico moralmente competente, lo cual está acorde con su desempeño profesional.
+
+En tanto concepción del mundo y método del conocimiento, la asignatura, contribuye con la disciplina integradora de la especialidad en la que se imparte. Permite incidir metodológicamente en las líneas investigativas declaradas por esta carrera, debido al carácter generalizador, metodológico y cosmovisivo de la asignatura, lo que permite un diálogo permanente entre la filosofía y la ciencia de datos.
+
+**Sistema de evaluación**
+
+La evaluación de la asignatura posee un carácter sistemático que evalúa conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura, otras; siendo el seminario la evaluación principal de los temas.
+
+**BIBLIOGRAFÍA**
+
+1.  Colectivo de autores, “Filosofía Marxista”. Tomos I y II. Editorial Félix Varela, La Habana. 2011.
+2.  Colectivo de autores, “Lecciones de Filosofía”. Tomos I y II. Editorial Félix Varela. La Habana.
+3.  Marx C. Engels y F. “Obras Completas” en tres tomos, Editorial progreso, Moscú, 2005
+4.  Lenin, V.I “Materialismo empiriocriticismo”. Obras Completas. Tomo 14, Buenos Aires, 1960.
+
+####
+
+#### Asignatura: Economía Política
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Fundamentos generales del Modo de Producción Capitalista | 19 | 12 |  | 7 |  |  |
+| El Imperialismo como Fase Superior del Capitalismo | 16 | 8 |  | 6 |  | 2 |
+| La Economía Política y la Construcción del Socialismo | 21 | 12 |  | 9 |  |  |
+| Totales | 56 | 32 |  | 22 |  | 2 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+El estudio de la Economía Política constituye un elemento esencial para los futuros profesionales universitarios cubanos. Esto es así, porque el carácter explotador del modo de producción capitalista se reproduce histórica y lógicamente profundizando su sistema de contradicciones, las cuales prevalecen y se acentúan en la fase Imperialista hasta el presente, exacerbando la polarización y desigualdad a niveles extremos, entre países y al interior de estos, llegando a poner en peligro la subsistencia misma de la humanidad. Por esta razón, la lucha por el socialismo es hoy más actual y vigente que nunca; obsérvese que en América Latina se debaten posibles proyectos alternativos a la hegemonía del capital. Además, nuestro país se encuentra enfrascado en la creación de la nueva sociedad y, no obstante al implacable asedio imperialista y las contradicciones inherentes al proceso de construcción socialista, ha alcanzado innumerables logros en las más diversas esferas del desarrollo socio-económico, ejerciendo una estimulante influencia en América Latina y otras áreas del mundo. Sin embargo, los resultados obtenidos en el terreno de la economía aún se encuentran distantes de nuestras necesidades y aspiraciones, y en consecuencia, las tareas del desarrollo económico futuro plantean grandes retos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**

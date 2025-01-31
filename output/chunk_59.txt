@@ -1,0 +1,133 @@
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Ulrik Brandes, Thomas Erlebach (Eds) Network Analysis. Methodological Foundations. Springer-Verlag, Berlin Heidelberg, 2005
+2.  Charu C. Aggarwal. Social Network Data Analytics. Springer, 2011
+
+**COMPLEMENTARIA**
+
+1.  Maksim Tsvetovat, Alexander Kouznetsov. Social Network Analysis for Startups. O'Reilly, 2011
+
+#### Asignatura: Procesamiento de Lenguaje
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Representación | 6 | 4 | 2 |  |  |  |
+| Preprocesamiento | 10 | 4 | 2 |  | 4 |  |
+| Semántica | 8 | 4 | 2 |  | 2 |  |
+| Conocimiento | 8 | 4 | 2 |  | 2 |  |
+| Totales | 32 | 16 | 8 |  | 8 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+El texto es uno de los tipos de datos más abundantes en la era de la información y a su vez más complejos, ya que mucha de la información que las personas comparten es en este formato. Por lo tanto, un graduado de Ciencia de Datos debe conocer algoritmos y modelos que puedan procesar este tipo de datos y le permitan obtener información o conocimiento relevante para el problema que desee resolver. Además, en particular el trabajo con texto requiere conocimiento de algoritmos particulares que no se estudian en otras asignaturas de la carrera. Esta asignatura forma habilidades básicas para procesar lenguaje desde lenguajes estructurados y semiestructurados hasta el lenguaje natural.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar las múltiples teorías y conceptos para la representación textual y su procesamiento
+2.  Solucionar problemas en el ámbito de la información textual yendo desde problemas básicos hasta aquellos basados en representaciones más complejas como es el lenguaje natural
+3.  Representar computacionalmente conocimiento a partir de información textual
+4.  Identificar las tareas de preprocesamiento de texto necesarias para cada problema.
+5.  Comparar los distintos niveles a los expresa la información en el texto.
+6.  Resolver problemas prácticos utilizando procesamiento de lenguaje.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Modelos de Representación del Lenguaje. Parsing. Gramáticas. Expresiones Regulares. Postagging. Preprocesamiento del texto. Funciones de similaridad en texto. Modelos de representación semántica. Detección de entidades y relaciones. Generación de Texto. Respuestas a preguntas (Question answering). Comprensión del lenguaje natural (Natural language understanding). Representaciones ontológicas.
+
+**Habilidades principales a dominar**
+
+1.  Representar el texto desde diferentes aproximaciones: tanto para generar lenguaje como para reconocerlo.
+2.  Resolver problemas clásicos de Procesamiento de Lenguaje desde lenguajes regulares hasta lenguaje natural.
+3.  Utilizar algoritmos de procesamiento de texto como stemming, postaging o corrección ortográfica.
+4.  Aplicar la teoría de la representación de Lenguajes.
+5.  Determinar en un problema medidas de similaridad entre textos que ayuden a resolverlo.
+6.  Utilizar la semántica para comprender un texto.
+7.  Combinar métodos de aprendizaje de máquina con otras técnicas de PLN.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de ciencia de datos.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Combinar los conocimientos propios de la asignatura con otros que se desarrollan en las asignaturas de Recuperación de Información, Aprendizaje de Máquina y Redes Neuronales. Además, de ser posible, desarrollar proyectos evaluativos que integren habilidades y conocimientos de otras asignaturas como las mencionadas anteriormente.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Como complemento de esta asignatura se propone ofertar cursos optativos sobre las arquitecturas de redes neuronales más utilizadas para el procesamiento de lenguaje natural, lo que permitirá a los estudiantes profundizar en los detalles técnicos de este tipo de modelos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Daniel Jurafsky y James H. Martin, “Speech and Language Processing”, 3ra edición, 2020.
+
+**COMPLEMENTARIA**
+
+1.  Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana “Practical Natural Language Processing. A Comprehensive Guide to Building Real-World NLP Systems” O’Reilly, 2020
+2.  Steven Bird, Ewan Klein, Edward Loper “Natural Language Processing with Python” O’Reilly, 2009
+3.  Hobson Lane, Cole Howard, Hannes Max Hapke “Natural Language Processing in Action: Understanding, analyzing, and generating text with Python” Manning Publications Co, 2019
+4.  Taeho Jo “Text Mining Concepts, Implementation, and Big Data” Challenge-Springer, 2018
+
+####
+
+#### Asignatura: Procesamiento de Imágenes
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Representación, adquisición y tipos de imagen | 4 | 2 | 2 |  |  |  |
+| Técnicas para el procesamiento de imágenes | 12 | 6 | 6 |  |  |  |
+| Segmentación de imágenes | 12 | 6 | 6 |  |  |  |
+| Métodos basados en IA para el análisis y reconocimiento de imágenes | 12 | 6 | 6 |  |  |  |
+| Aplicaciones del procesamiento y análisis de Imágenes | 8 | 4 | 4 |  |  |  |
+| Totales | 48 | 24 | 24 |  |  |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**

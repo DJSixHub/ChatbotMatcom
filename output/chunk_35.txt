@@ -1,0 +1,58 @@
+Arquitectura de los sistemas de bases de datos. Modelo conceptual de datos: representación lógica de las componentes de un fenómeno o proceso, sus características y las relaciones que existen entre ellas. Fundamentos matemáticos del modelo relacional. Representación de datos mediante ficheros de texto plano y XML. Consultas a bases de datos XML. Diversidad de paradigmas de las bases de datos no relacionales: llave-valor, orientación a columnas, orientación a documentos. Bases de datos orientadas a grafos. Implementación y aplicaciones de las bases de datos no relacionales.
+
+Los datos como recursos estratégicos: gobernabilidad, calidad y ética de los datos. Estrategias de desarrollo de las soluciones de inteligencia de negocios. Arquitecturas conceptuales de datos en las soluciones de inteligencia de negocios. Alternativas de integración y virtualización de datos. Modelos y entornos analíticos en las soluciones de inteligencia de negocios. Fomento del autoservicio y las introspecciones accionables. Computación en la Nube e Inteligencia de Negocios. Automatización y tecnologías híbridas en las soluciones de inteligencia y analítica de negocios. Modelos de negocios y Ciencia de Datos.
+
+Funciones del sistema operativo como administrador de recursos y como interfaz entre usuario y medio técnico. Sus componentes, Sistemas de archivo, Administración de la memoria, Manipulación del procesador, Administración de Entrada/Salida. Proceso, Sincronización y comunicación entre procesos concurrentes. Fundamentos acerca de la transmisión de datos. Medios que se emplean en la interconexión de computadoras en redes. Arquitecturas de las redes de computadoras. Topologías. Modelos de referencia estándar. Redes de Área Local. Redes de Área Extendida. Internet. Pila de protocolos TCP/IP. Algoritmos para la comunicación de datos en redes de computadoras. Contenerización y virtualización. Algoritmos distribuidos. Comunicación. Tolerancia a fallas. Sincronización. Algoritmos de consenso. Almacenamiento distribuido.
+
+**Habilidades principales a dominar**
+
+*   Recolectar, estructurar, y almacenar datos de un dominio (ya sea en grandes volúmenes o no) de forma eficiente para su posterior procesamiento.
+*   Analizar conjuntos de datos para responder preguntas de dicho dominio de manera explícita.
+*   Asistir en el diseño de sistemas de procesamiento y análisis de datos junto a especialistas de otras ramas del conocimiento.
+*   Evaluar los resultados de un proceso de análisis de datos e interpretarlos en función del dominio de interés, asistiendo a la toma de decisiones.
+*   Utilizar adecuadamente los distintos sistemas computacionales a partir del conocimiento de sus fundamentos.
+*   Utilizar las redes de computadoras como el escenario por excelencia para la solución computacional de procesos de ciencia de datos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN**
+
+Esta es una disciplina fundamental en el Plan de Estudio para el desarrollo de soluciones computacionales a problemas y que además sirve de soporte a otras disciplinas.
+
+Las capacidades y habilidades que deben lograrse en la disciplina trascienden los marcos de esta y se verán aplicadas o integradas en otras disciplinas. Es por ello que es importante la integración que exista con otras como Ciencia de Datos, Inteligencia Artificial, Probabilidades y Estadística y Fundamentos Matemáticos del plan de estudios.
+
+La disciplina debe hacer un balance adecuado entre lo conceptual y práctico, entre lo abstracto y lo concreto, entre los aspectos más formales y los más intuitivos y experimentales interiorizando siempre en los alumnos el doble papel científico-tecnológico que tiene la especialidad.
+
+Por las características tan dinámicas que tiene esta profesión, y por las novedades tecnológicas que constantemente se desarrollan en el mercado es importante formar en el estudiante las capacidades conceptuales y básicas necesarias para asimilar y adaptarse a los cambios y para participar proactivamente en los mismos. Aunque debe procurarse el carácter pragmático más eficaz en cada momento, esto no puede implicar que los contenidos se conciban en función únicamente de estudiar y trabajar con una tecnología específica. El dominio de una determinada tecnología siempre será una consecuencia y no un fin. En este sentido es importante que el o los lenguajes de programación seleccionados deben ser lenguajes que sobrepasen el uso académico, asimismo el lenguaje puede variar según el momento de la impartición de las diferentes asignaturas y las circunstancias específicas de cada IES.
+
+Por las mismas razones anteriores la disciplina debe complementarse con las actividades de Práctica Profesional y con cursos optativos, que pueden ayudar a la integración y a cubrir necesidades más específicas en cada momento y escenario específico.
+
+Para alcanzar la mayor parte de las habilidades es muy importante el trabajo práctico que consolide y ejercite los elementos conceptuales. Este trabajo práctico puede desarrollarse en clases prácticas, laboratorios, seminarios, tareas y proyectos extra clase. Es muy importante que los proyectos y tareas extra clase terminen en implementaciones computacionales que sus desarrolladores puedan presentar y defender.
+
+Por lo general los grupos de laboratorios, clases prácticas y seminarios deben ser lo suficientemente pequeños como para que los docentes puedan tener un dominio y control de los mismos y puedan ejercer un trabajo más individualizado.
+
+Aunque buena parte del desarrollo de _software_ se hace en equipos de trabajo, la disciplina debe cuidar poder evaluar la individualidad y evitar el fraude académico (a veces inconsciente cuando se copia un pedazo de un proyecto o se apropia de una idea de un colega en un momento en que debería haber sido desarrollada de manera individual).
+
+Por el volumen y por la naturaleza cambiante de la información, es imposible, y ecológicamente insostenible, disponer de toda la literatura y documentación impresa para el desarrollo de la disciplina. Es por ello que es importante que los estudiantes dispongan de conectividad suficiente, y estabilidad de la misma, para tener acceso a Internet y a los servicios de documentación internos porque sin ello no es viable alcanzar los objetivos de la disciplina.
+
+Para el desarrollo efectivo de una buena parte de las clases es necesario hacer demostraciones e ilustraciones visuales.
+
+La disciplina debe aportar al estudiante una visión más allá del dominio propio de cada asignatura, vinculándose con el rol social que juega el científico de datos, incidiendo en el análisis de las principales tendencias del campo, así como de los conflictos éticos-sociales-tecnológicos que se pueden derivar de su actuar como futuro profesional de la ciencia de datos. Los problemas de la seguridad de la información y la integridad de los sistemas computacionales son abordados en aras de salvaguardar la identidad y soberanía cubana, aspectos que deben ser tratados en cada uno de los contenidos de la disciplina. Además, debe promover el desarrollo de habilidades de expresión oral y escrita, así como la consulta de literatura en español e inglés, a través del debate y la presentación y defensa de las tareas extraclase que se orienten. Siempre que sea posible se debe enfatizar en el respeto y el cuidado medioambiental desde la práctica profesional. De esta manera, la disciplina se vincula con las estrategias curriculares generales definidas para toda la carrera.
+
+De manera particular, esta disciplina incide en la implementación de la estrategia curricular relacionada con la preparación para la defensa a partir de la discusión y el análisis de las principales estrategias para la protección de los datos almacenados en sistemas de información. Además, en relación con la estrategia curricular relacionada con la dimensión ambiental, se debe hacer énfasis en el impacto ambiental derivado del uso de sistemas computacionales complejos, y la importancia de optimizar dichos sistemas para disminuir el costo ambiental de su uso.
+
+En todas las asignaturas de la disciplina debe establecerse un punto de vista práctico, orientado a la solución de problemas concretos del perfil del científico de datos, sin menoscabo de la profundidad teórica y el dominio de los conceptos fundamentales que sustentan todas las habilidades prácticas.
+
+**Sistema de evaluación**
+
+Se recomienda estructurar un sistema de evaluaciones periódicas a lo largo del curso a través de preguntas escritas frecuentes en clases prácticas y una prueba parcial ubicadas según las unidades lógicas en que se organicen los contenidos de los programas que permitan un control de la marcha del proceso de aprendizaje por parte de los estudiantes.

@@ -1,0 +1,58 @@
+Aprendizaje Supervisado, No supervisado, Semi supervisado. Regresión. Clasificación. Clustering. Reglas de asociación: Algoritmo A priori. Algoritmo FP-growth Modelos basados en reglas: estructuras Precisión cubrimiento. Estrategias de resolución de conflictos. Curvas de aprendizaje. Bias vs Varianza. Evaluación de algoritmos: métricas de error, matrices de confusión. Comparación de algoritmos Detección de Outliers. Reducción de dimensiones. Modelos de ensembles: Bagging, boosting. Modelos probabilistas**.** Métodos de partición de datos para el entrenamiento. Aprendizaje por Refuerzo.
+
+Fundamentos teóricos de las redes neuronales. Funcionamiento de una red neuronal. Back propagation. Funciones de activación. Tipos de arquitectura de redes: Feed Forward, Convolucionales, Recurrentes, LSTM, GAN. Embedding y Autoencoders. Modelos Transformer. Regularización y Dropout. Destilación. Transfer learning.
+
+Simulación de sistemas. Conceptos fundamentales de los sistemas dinámicos. Representación de sistemas: diferentes tipos de modelos. Fases fundamentales del proceso de simulación. Conceptos fundamentales de la simulación. Simulación orientada a eventos. Teoría de Colas. Método de Montecarlo. Lógica Difusa. Modelos de Inferencia Difusa. Agentes Inteligentes y Sistemas Multiagentes.
+
+**Habilidades principales a dominar**
+
+*   Reconocer en la práctica los problemas que requieren para su solución el uso de Inteligencia Artificial.
+*   Modelar y solucionar problemas de la vida real utilizando herramientas de Inteligencia Artificial.
+*   Evaluar la dimensión y complejidad de los problemas de Inteligencia Artificial.
+*   Identificar y utilizar los modelos de Aprendizaje de Máquina adecuados según el tipo de problema que se enfrente.
+*   Identificar y utilizar la arquitectura, o combinación de arquitecturas, de Red Neuronal apropiada según el tipo de problema a solucionar.
+*   Identificar e implementar el modelo de simulación adecuado a los procesos a simular según el problema real que se enfrente.
+*   Enfrentar diferentes dominios y tipos de problemas utilizando en cada caso las modelaciones que se ajusten mejor a sus características.
+*   Combinar diferentes herramientas y enfoques de Inteligencia Artificial para crear mejores soluciones a problemas de ciencia de datos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN**
+
+Esta es una disciplina fundamental en el Plan de Estudio para el desarrollo de las habilidades necesarias para enfrentar problemas de ciencia de datos, y además sirve de soporte a otras disciplinas.
+
+En este escenario la disciplina debe dotar al estudiante de los conceptos y habilidades básicas y fundamentales para desarrollar análisis y aplicaciones que le permitan al egresado integrarse a escenarios particulares en la solución de problemas de la ciencia de datos, adaptarse al uso de las diferentes tecnologías existentes y promover y participar en la asimilación y desarrollo de nuevas tecnologías. Es por ello que la disciplina debe balancear la enseñanza de los fundamentos conceptuales más genéricos y establecidos, con el desarrollo de habilidades prácticas en tecnologías, herramientas, lenguajes y dispositivos concretos presentes en los variados escenarios de las aplicaciones de hoy: la empresa, la casa, los servicios, la calle, la Web.
+
+La gran mayoría de las aplicaciones de Ciencia de Datos que realizarán los egresados se expresarán de algún modo en programas para lo cual harán uso de las capacidades y habilidades que se desarrollen en esta disciplina y a partir de ella.
+
+Las capacidades y habilidades que deben lograrse en la disciplina trascienden los marcos de esta y se verán aplicadas o integradas en otras disciplinas. Es por ello que es importante la integración que exista entre esta disciplina y otras del plan de estudios como las de Programación, de Estadística y Probabilidades o la de Ciencia de Datos propiamente.
+
+La disciplina debe hacer un balance adecuado entre lo conceptual y práctico, entre lo abstracto y lo concreto, entre los aspectos más formales y los más intuitivos y experimentales interiorizando siempre en los alumnos el doble papel científico-tecnológico que tiene la especialidad.
+
+Por las características tan dinámicas que tiene esta profesión, y por las novedades tecnológicas que constantemente se desarrollan en el mercado es importante desarrollar en el estudiante las capacidades conceptuales y básicas necesarias para asimilar y adaptarse a los cambios y para participar proactivamente en los mismos. Aunque debe procurarse el carácter pragmático más eficaz en cada momento esto no puede implicar que los contenidos se conciban en función únicamente de estudiar y trabajar con una tecnología específica. El dominio de una determinada tecnología siempre será una consecuencia y no un fin.
+
+Por las mismas razones anteriores la disciplina debe complementarse con las actividades de Práctica Profesional y con cursos optativos, que pueden ayudar a la integración y a cubrir necesidades más específicas en cada momento y escenario específico.
+
+Para alcanzar la mayor parte de las habilidades es muy importante el trabajo práctico que consolide y ejercite los elementos conceptuales. Este trabajo práctico puede desarrollarse en clases prácticas, laboratorios, seminarios, tareas y proyectos extra clase. Es muy importante que los proyectos y tareas extra clase terminen en implementaciones computacionales que sus desarrolladores puedan presentar y defender.
+
+Se debe contar con la infraestructura de equipamiento y _software_ que haga factible este trabajo práctico. Por lo general los grupos de laboratorios, clases prácticas y seminarios deben ser lo suficientemente pequeños como para que los docentes puedan tener un dominio y control de los mismos y puedan ejercer un trabajo más individualizado. La disciplina debe enriquecerse con el uso de adiestrados y alumnos ayudantes para propiciar una asesoría, seguimiento y control más individualizado de los estudiantes.
+
+Así mismo se debe contar con laboratorios con el equipamiento y la conectividad suficientes para las prácticas y el desarrollo de las evaluaciones.
+
+Por el volumen y por la naturaleza cambiante de la información, es imposible, y ecológicamente insostenible, disponer de toda la literatura y documentación impresa para el desarrollo de la disciplina. Es por ello que es importante que los estudiantes dispongan de conectividad suficiente, y estabilidad de la misma, para tener acceso a Internet y a los servicios de documentación internos porque sin ello no es viable alcanzar los objetivos de la disciplina.
+
+Para el desarrollo efectivo de una parte de las clases es necesario hacer demostraciones e ilustraciones visuales. Los temas en los que los estudiantes adquieren las primeras habilidades básicas para resolver problemas de aprendizaje automático deben ser ubicados en el segundo año de la carrera y seguidamente los contenidos que permiten incrementar los tipos de problemas que pueden resolver e incrementan su comprensión. La comprensión básica del razonamiento de estos problemas la obtienen de los conocimientos de Lógica, los cuales deberían abordarse en el primer semestre de la carrera como base para otras temáticas, no solo de esta disciplina.
+
+Asociados a esta disciplina deben desarrollarse cursos optativos que permitan la actualización según el desarrollo a nivel internacional y los requerimientos del contexto local.
+
+La disciplina debe aportar al estudiante una visión más allá del dominio propio de cada asignatura, vinculándose con el rol social que juega el científico de datos, incidiendo en el análisis de las principales tendencias del campo, así como de los conflictos éticos-sociales-tecnológicos que se pueden derivar de su actuar como futuro profesional de la ciencia de datos. Los problemas de la seguridad de la información y la integridad de los sistemas computacionales son abordados en aras de salvaguardar la identidad y soberanía cubana, aspectos que deben ser tratados en cada uno de los contenidos de la disciplina. Además, debe promover el desarrollo de habilidades de expresión oral y escrita, así como la consulta de literatura en español e inglés, a través del debate y la presentación y defensa de las tareas extraclase que se orienten. Siempre que sea posible se debe enfatizar en el respeto y el cuidado medioambiental desde la práctica profesional. De esta manera, la disciplina se vincula con las estrategias curriculares generales definidas para toda la carrera.
+
+De manera particular, esta disciplina incide en la implementación de la estrategia curricular relacionada con la formación humanística y ética, y el rol social de la profesión a partir de la discusión sostenida en todas las asignaturas de los peligros potenciales del uso de sistemas basados en inteligencia artificial que puedan acentuar los sesgos inherentes a los datos utilizados en su entrenamiento, así como los conflictos éticos relacionados con la explicabilidad, transparencia, y gobernabilidad de estos sistemas.

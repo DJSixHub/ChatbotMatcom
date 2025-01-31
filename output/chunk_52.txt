@@ -1,0 +1,99 @@
+1.  Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython - William McKinney (O'Reilly Media; 2nd edition, 2017)
+2.  Knaflic et al. Storytelling with data: a data visualization guide for business professionals. Wiley, 2015,
+3.  Max Shron. Thinking with Data: How to Turn Information into Insights. O’reilly, 2014
+4.  Benoît, Gerald. Introduction to Information Visualization. Transforming Data into Meaningful Information. Lanham : Rowman & Littlefield, 2019
+5.  Roger Lee. Big Data, Cloud Computing, and Data Science Engineering.Studies in Computational Intelligence, 2020
+6.  Learning Spark: Lightning-Fast Big Data Analysis, by Holden Karau, Andy Konwinski, Patrick Wendell, and Matei Zaharia. O'Reilly Media. Feb 2015.
+7.  Hadoop: The Definitive Guide, by Tom White. O'Reilly Media. April 2015.
+8.  Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. Prentice Hall. 2008.
+9.  García-Molina H., Ullman J. D., Widom J. “Database Systems. The Complete Book”. Prentice Hall, 2013.
+10.  Hohpe G., Woolf B. “Enterprise Integration Pattern: Designing, Building, and Deploying Messaging Solutions”. Addison-Wesley, 2003.
+11.  Manning, A. “Databases for Small Business: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals”. Apress. EUA, 2015. ISBN-13 (electronic): 978-1-4842-0277-7.
+12.  Petrie K., Potter D., Ankorion, I. “Streaming Change Data Capture”. (ebook) O’Reilly Media, Inc. EUA, 2018. ISBN: 978-1-492-03249-6.
+13.  Zheng J. G. “Business Intelligence and Analytics. A Comprehensive Overview” Research Gate, 2020. [https://www.researchgate.net/publication/3275](https://www.researchgate.net/publication/3275)
+14.  Mary Manjikian. Cybersecurity Ethics: An introduction, Routledge, 2017.
+15.  Kim-Kwang Raymond Choo, Ali Dehghantanha (eds). Handbook of Big Data Privacy. Springer, 2020
+16.  Maksim Tsvetovat, Alexander Kouznetsov. Social Network Analysis for Startups. Oreilly, 2011
+17.  Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana “Practical Natural Language Processing. A Comprehensive Guide to Building Real-World NLP Systems” O’Reilly, 2020
+18.  Steven Bird, Ewan Klein, Edward Loper “Natural Language Processing with Python” O’Reilly, 2009
+19.  Hobson Lane, Cole Howard, Hannes Max Hapke “Natural Language Processing in Action: Understanding, analyzing, and generating text with Python” Manning Publications Co, 2019
+20.  Charles L. Epstein. Introduction to the Mathematics of Medical Image Processing. Second Edition, SIAM 2008.
+21.  Klaus D. Toennis, Guide to Medical Image Analysis: Methods and Algorithms. Second Edition, Springer 2017.
+22.  R. Suganya, S. Rajaram, A. Sheik Abdullah. Big Data in Medical Image Processing. CRC Press, Taylor and Francis Group, 2018.
+23.  Taeho Jo “Text Mining Concepts, Implementation, and Big Data” Challenge-Springer, 2018
+
+#### Asignatura: Introducción a la Ciencia de Datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Cómo enfrentarse a un problema de Ciencia de Datos | 8 | 4 | 2 | 2 |  |  |
+| Los Datos | 8 | 4 | 2 | 2 |  |  |
+| El científico de Datos | 8 | 4 | 2 | 2 |  |  |
+| Los formatos de datos | 8 | 4 | 2 |  | 2 |  |
+| La capturas de datos | 8 | 4 | 2 |  | 2 |  |
+| El preprocesamiento de datos | 8 | 4 | 2 |  | 2 |  |
+| Totales | 48 | 24 | 12 | 6 | 6 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+En esta asignatura se introduce el objeto y los métodos de estudio de la Ciencia de Datos. Aquí se presenta a los estudiantes la caracterización de esta especialidad, sus campos de acción profesional y los objetivos y contenidos del plan de estudios, y se muestra su necesidad e impacto.
+
+Los contenidos a tratar se dividen en tres grandes bloques: los problemas de ciencia de datos, los datos y su naturaleza, y el científico de datos como componente humano de los procesos de ciencia de datos.
+
+En el primer tema se presentan los tipos de problemas típicos a los que se enfrenta la ciencia de datos como disciplina científica y técnica, y los métodos más importantes a nuestra disposición para atacar dichos problemas, incluyendo desde la captura y el procesamiento de los datos, hasta cómo presentar, visualizar, y comunicar los resultados de la ciencia de datos. En el segundo tema se introduce el objeto de estudio fundamental de la carrera: los datos. En este tema se presentan las fuentes que dan origen a los datos y las características que pueden tener en términos de su disponibilidad, variabilidad, observabilidad, volumen, velocidad, calidad, sesgos, etc. En el tercer tema se introduce la labor del científico de datos, las tareas y roles que puede desempeñar, y las responsabilidades que tiene como profesional y miembro de la sociedad.
+
+En este punto lo que se desea es presentar al estudiante una visión inicial pero integrada de la disciplina de ciencia de datos, su relación con otras ciencias, y su papel en el desarrollo de la sociedad.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Definir el objeto de estudio y los métodos de estudio de la Ciencia de Datos.
+2.  Identificar y comprender los roles que juegan los Científicos de Datos y las tareas que desempeñan.
+3.  Caracterizar las fuentes de datos más comunes y los formatos más convenientes para su almacenamiento computacional según el uso.
+4.  Definir el pipeline general de un proceso de ciencia de datos desde la captura y procesamiento de los datos hasta la presentación de los resultados.
+5.  Utilizar herramientas computacionales para la carga, almacenamiento y serialización de datos en diferentes formatos
+6.  Identificar las bibliotecas de código más utilizadas en la comunidad científica y la industria para el preprocesamiento de datos en memoria
+7.  Utilizar los algoritmos básicos de preprocesamiento de datos más convenientes según el tipo de dato y la naturaleza del problema a resolver
+8.  Utilizar herramientas computacionales sencillas para la extracción de datos de fuentes semi- y no-estructurada como texto plano y HTML
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Conceptos y definiciones básicas de la Ciencia de Datos. Pasos de un proceso general de ciencia de datos. Captura, preprocesamiento, modelación, visualización, y comunicación de los resultados. Los datos, su naturaleza, origen, características, y utilidad. Roles de un científico de datos.
+
+Tipos de datos estructurados y sus formatos: JSON, XML, CSV, YAML, XLS. Herramientas computacionales para cargar y guardar datos en estos formatos. Estructuras de datos básicas para el almacenamiento de datos: listas, diccionarios, _dataframes_. Herramientas para el trabajo con dichas estructuras de datos. El formato HTML, herramientas para su procesamiento y extracción de datos. Concepto de API RESTfull, herramientas de código para su consulta. Herramientas para implementar _web scrappers._ Uso básico de expresiones regulares para extraer datos en formato semi-estructurado (e.j., correos electrónicos, fechas, nombres de entidades). Formatos básicos de datos multimedia (audio, imágenes, vídeos). Herramientas computacionales para su carga y procesamientos básicos.
+
+**Habilidades principales a dominar**
+
+1.  Identificar y enfrentar un problema de ciencia de datos
+2.  Reconocer las diversas fuentes de datos y caracterizarlas para un problema concreto
+3.  Identificar los tipos de datos más comunes y los formatos en que se almacenan usualmente para su uso computacional
+4.  Seleccionar y utilizar las herramientas computacionales (e.j., bibliotecas de código) adecuadas para la carga, almacenamiento, y serialización de datos según su formato
+5.  Manejar datos almacenados en memoria en estructuras de datos adecuadas (e.j., listas, diccionarios, _dataframes)_ y transformarlos para realizar distintos tipos de procesamientos
+6.  Utilizar herramientas computacionales para la captura de datos desde diferentes fuentes, ya sea almacenadas localmente o en sistemas en línea
+7.  Utilizar algoritmos sencillos de procesamiento de datos para la limpieza, imputación, normalización, y estandarización de datos de diversa naturaleza
+8.  Extraer datos estructurados a partir de fuentes semi- y no-estructuradas (e.j., texto, HTML) aplicando algoritmos sencillos de reconocimiento (_parsing_) y herramientas computacionales adecuadas
+9.  Cargar y realizar procesamientos básicos en datos multimedia (audio, imágenes, y vídeo)
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de la ciencia de datos.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Promover el trabajo en equipo para aprender habilidades básicas que utilizarán los estudiantes en esta y en otras disciplinas.

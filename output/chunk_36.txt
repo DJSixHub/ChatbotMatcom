@@ -1,0 +1,100 @@
+Siempre que sea posible, concebir como mecanismo fundamental de evaluación una tarea evaluativa de la complejidad necesaria para integrar la mayoría de los conocimientos del curso, y preferiblemente en conjunción con otra asignatura de la misma u otra disciplina.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Think Python: How to Think Like a Computer Scientist (2nd edition). Allen B. Downey. O'Reilly.
+2.  Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edición. Wess McKinney.
+3.  Cormen, T. H., Leiserson, Ch. E., Rivest, R. L. “Introduction to Algorithms”, Mc Graw Hills, MIT Press, 3ra Edición , 2009.
+4.  Aho A. V., Hopcroft J., Ullman J. D., “Data Structures and Algorithms”, Addison Wesley, 1983.
+5.  CormenTh..H., Leiserson Ch.E.,.RivestStein R.L., “Introduction to Algorithms”, , MIT Press, McGraw Hill, 3ra edición, 2009
+6.  Scheinerman E. R “Matemáticas Discretas”, Editorial Félix Varela,2001
+7.  Elmasri, R., & Navathe, S. B. “Fundamentals of database systems”. Pearson Education, Inc., 2015.
+8.  García Hernández L., Montes de Oca Richardson M. “Sistemas de Bases de Datos: Modelación y Diseño”. Reimpresión Editorial “Félix Varela”. Cuba, 2009. ISBN: 978-959-07-1229-6.
+9.  Harrison G. “Next Generation Databases: NoSQL, NewSQL, and Big Data”. Apress, EUA, 2015. ISBN: 978-1-4842-1329-2
+10.  Oppel A., Sheldon R. “SQL. A Beginner's Guide”, 3rd. Edition. McGraw Hill Companies, 2009. ISBN- 0-07-154865-3.
+11.  Manning, A. “Databases for Small Business: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals”. Springer Science+Business Media, 2015. [www.it-ebooks.info](http://www.it-ebooks.info/)
+12.  Mohanty S., Jagadeesh, M., Srivatsa, H. “Big Data Imperatives. Enterprise Business Intelligence Implementations & Analytics”. Apress. EUA, 2013. [www.it-ebooks.info](http://www.it-ebooks.info/)
+13.  Sharda R., Delen, D., Turban, E. “Business Intelligence and Analytics: Systems for Decision Support”. Pearson Education, Inc., 2015. ISBN 13: 978-0-13-305090-5.
+14.  Baeza-Yates R. y Berthier Ribeiro Neto Modern “Information Retrieval”, Addison-Wesley, 1999. [http://sunsite.dcc.uchile.cl/irbook/](http://sunsite.dcc.uchile.cl/irbook/).
+15.  Manning, Ch. D.; Raghavan, P.; Schütze, H. “An Introduction to Information Retrieval”. Cambridge University Press. Inglaterra, 2007
+16.  Tanenbaum, A. “Modern Operating Systems”, 2nd Edition, 2006, ISBN: 0-130-31358-0.
+17.  Tanenbaum, A., “Computer Networks” 4th Edition. Prentice-Hall. 2003
+18.  Tanenbaum A.S, Steen M. Van. “Distributed Systems: Principles and Paradigms”. ISBN-13: 9780132392273 Pub. Date: October 2006.
+
+**COMPLEMENTARIA**
+
+1.  Knuth D. “The Art of Computer Programming (I,III)”, Addison Wesley, 1973.
+2.  Ellis Horowitz, SartijSahu, “Fundamentals of Computer Algorithms”. Tomos I y II., Computer Sciense Press, 1978.
+3.  Date C. J., “An Introduction to Database Systems”. 8th. Edition, Pearson Education, Inc., 2004.
+4.  Powell G. “Beginning Database Design”. Wiley Publishing, Inc., 2006. ISBN-10: 0-7645-7490-6.
+5.  Sumathi S., Esakkirajan S. “Fundamentals of relational Database Management Systems”. Studies in Computational Intelligence, Vol. 47. Springer Science + Business Media, 2007. ISBN-10 3-540-48397-7.
+6.  Ullman, J. D. “Principles of Database and Knowledge-Base Systems, Computer”. Science Press. EUA, 1990.
+7.  Azarmi, B. _Scalable Big Data Architecture_. Springer Science+Business Media New York. ISBN: 978-1-4842-1327-8. 2016. www.springeronline.com
+8.  Dean, J. “Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners”. Wiley & SAS Business Series. EUA, 2014. [www.it-ebooks.info](http://www.it-ebooks.info/)
+9.  Decker, J. “Embedded analytics for Dummies”. John Wiley & Sons, Inc., EUA, 2017. ISBN 978-1-119-42440-6.
+10.  Harrison, G. “Next Generation Databases: NoSQL, NewSQL, and Big Data”. Apress, NY. EUA, 2015. ISBN: 978-1-4842-1330-8.
+11.  Inmon, W.; Linstedt, D. “Data Architecture: A Primer for the Data Scientist: Big Data, Data Warehouse, and Data Vault”. Elsevier Inc. ISBN: 978-0-12-802044-9. 2015.
+12.  Provost, F.; Fawcett, T. “Data Science for Business”. O’Reilly Media, Inc. ISBN: 978-1-449-36132-7. 2013.
+13.  Simon, Ph. “The Visual Organization: Data Visualization, Big Data, and the Quest for Better Decisions”. Wiley & SAS Business Series, 2015. [www.it-ebooks.info](http://www.it-ebooks.info/)
+14.  Zheng, J. G. “Business Intelligence and Analytics. A Comprehensive Overview”. Presentation. Research Gate, 2020.
+15.  Abramowicz, W. (Ed.). “Business Information Systems. Lecture Notes in Business Information Processing”. Springer Verlag. EUA, 2013. ISBN 978-3-642-38365-6; e-ISBN 978-3-642-38366-3.
+16.  Kumar, J. “Apache Solr Search Patterns.” Packt Publishing Ltd. Reino Unido, 2015. ISBN 978-1-78398-184-7.
+17.  Lawson, R.” Web Scraping with Python”. Packt Publishing Ltd. Reino Unido, 2015. ISBN 978-1-78216-436-4.
+18.  Leskovec, J.; Rajaraman, A.; Ullman, J. D. “Mining of Massive Datasets”, Copyright © 2010, 2011, 2012, 2013, 2014 Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman. Stanford University. [](http://www.mmds.org/)[www.mmds.org](http://www.mmds.org).
+19.  Shahi, D. “Apache Solr: A Practical Approach to Enterprise” Search. Apress. Springer Science+Business Media. EUA, 2015. ISBN-13 (pbk): 978-1-4842-1071-0; ISBN-13 (electronic): 978-1-4842-1070-3.
+20.  Wattenhofer R., “Principles of Distributed Computing”, ETH Zürich, Spring 2016.
+21.  Bryant R. E. “Computer Systems, A programmer’s Perspective”, 2009
+22.  Comer, Douglas, “Internetworking with TCP/IP”, 5th Edition. Prentice-Hall. 2006.
+23.  Kurose, K. Ross, W., “Computer Networking: A Top-Down Approach Featuring the Internet”. 3rd Edition. Addison-Wesley. 2004
+24.  Stallings W. “Operating Systems, Internals and Design Principles”, 4th Edition, 2006.
+25.  Oldham J., Alex Samuel “Advanced Linux Programming, Mark Mitchell”,2012
+26.  Bovet D.P., Cesati M. “Understanding the Linux Kernel”, 2010, ISBN: 0-596-00002-2
+
+#### Asignatura: Introducción a la Programación
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Recursos básicos de Programación. Programación Estructurada | 32 | 14 | 14 |  |  | 4 |
+| Estrategias de solución y Recursividad | 32 | 14 | 14 |  |  | 4 |
+| Totales | 64 | 28 | 28 |  |  | 8 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Para el científico de datos, es imprescindible dominar un lenguaje de programación que le permita implementar un flujo de análisis de datos, desde la carga y limpieza de los datos hasta la modelación, la inferencia, y la visualización de los resultados.
+
+Esta asignatura está orientada a los fundamentos de la programación estructurada y funcional, las instrucciones básicas, y las técnicas más básicas de solución de problemas, llegando hasta la recursión. Como asignatura introductoria, no asume conocimientos precedentes de programación, por lo que debe encargarse de crear las intuiciones y los fundamentos básicos que permitan al licenciado en Ciencia de Datos utilizar y desarrollar aplicaciones informáticas en los múltiples dominios en los que se desempeñará.
+
+Las habilidades obtenidas en esta asignatura le permitirán al estudiante poner en práctica todas las técnicas y algoritmos estudiados en el resto de la carrera, y servirán de base para todas las asignaturas que tengan un componente computacional. Asimismo, la asignatura formará las primeras habilidades de trabajo en equipo, que son fundamentales para el entorno interdisciplinario donde se desarrolla la ciencia de datos.
+
+Además, desde el punto de vista práctico, esta asignatura introduce el concepto de _notebook_ de código y su uso en complemento (y no substitución) de formatos más convencionales.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Utilizar los conceptos e instrucciones fundamentales de la programación estructurada en la solución de problemas de programación.
+2.  Desarrollar un pensamiento algorítmico para la solución de problemas de programación.
+3.  Programar con un lenguaje que propicie lograr el objetivo anterior en la implementación de las soluciones computacionales a problemas.
+4.  Utilizar de forma efectiva entornos de programación interactiva para la implementación de soluciones prototípicas y la experimentación.
+5.  Implementar computacionalmente diferentes estrategias de solución y algoritmos usando un lenguaje de programación.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Nociones básicas sobre computadoras, algoritmos, programas, len­guajes y ambientes de programación interactiva y entornos integrados de desarrollo (IDE).
+
+El concepto de tipo. Tipos básicos y sus operaciones. Variables, constantes y expresiones. Tipos más abstractos. El concepto de objeto e instancia de un tipo. Métodos y Propiedades. Métodos con parámetros y traspaso de parámetros. Métodos que retornan un valor y métodos que no retornan un valor (provocan una acción que puede modificar a un objeto).
+
+Estructuras de control condicionales. Estructuras de control iterativas (ciclos).
+
+Estructuras de datos básicas como tuplas, listas, conjuntos y diccionarios.
+
+Recursividad. Utilidad de la recursión para facilitar la expresión de la solución a un problema.
+
+Estrategias de solución de problemas. Fuerza bruta. Divide y vencerás. Vuelta atrás (backtrack). Combinatoria. Elementos de programación dinámica.
+
+**Habilidades principales a dominar**

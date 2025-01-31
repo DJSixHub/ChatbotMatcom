@@ -1,0 +1,118 @@
+En todas las asignaturas de la disciplina debe establecerse un punto de vista práctico, orientado a la solución de problemas concretos del perfil del científico de datos, sin menoscabo de la profundidad teórica y el dominio de los conceptos fundamentales que sustentan todas las habilidades prácticas.
+
+**Sistema de evaluación**
+
+Se recomienda utilizar un sistema de evaluación continua que fomente que los estudiantes mejoren cada vez más sus habilidades individuales y se enfrenten a nuevos retos a la vez que aprenden a trabajar en equipo. Con el desarrollo de proyectos con varias entregas parciales que les ayude a determinar mejoras y corregir errores de forma progresiva.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  García L. y Almeida Y., ¨Introducción a la Teoría de Conjuntos y a la Lógica¨, 2017
+2.  Kevin P. Murphy, “Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)”, The MIT Press, 2012.
+3.  Russel, S., Norvig P. “Artificial Intelligence: A Modern Approach” Fourth Edition, 2020
+4.  “Deep Learning (Adaptive Computation and Machine Learning series)”, The MIT Press, 2016.
+5.  Kevin P. Murphy, “Probabilistic Machine Learning: An Introduction”, The MIT Press, 2021.
+6.  Richard O. Duda “Pattern Classification”, Second Edition.
+7.  Russel, S., Norvig P. “Artificial Intelligence: A Modern Approach” Fourth Edition, 2020
+8.  Colectivo de autores “Modeling and Simulation: An Application-Oriented Introduction”, Springer Undergraduate Texts in Mathematics and Technology, 2014
+9.  Sheldon M. Ross (1999), “Simulation”, segunda edición.
+10.  García L. y colectivo de autores.” Temas de Simulación”, en proceso de edición 2017
+
+**COMPLEMENTARIA**
+
+1.  Colectivo de Autores “Learning From Data”, AMLBook, 2012.
+2.  Foreman J. W. “Data Smart: Using Data Science to Transform Information into Insight”, 2013.
+3.  François Chollet. “Deep Learning with Python” Manning Publications Co. 2021
+4.  Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong “Mathematics for Machine Learning” Cambridge University Press, 2020
+5.  Andriy Burkov. The Hundred-Page Machine Learning Book
+6.  Mchaney R. “Undestanding computer simulation”, Ventus Publishing, 2009.
+7.  Chung C. A. “Simulation Modeling Handbook: A Practical Approach”, CRC Press, 2003.
+8.  Maisel Herbert y Gnugnoli Giuliano, “Simulation of Discrete Stochastic Systems”, Science Research Associates Inc. USA, 1972.
+9.  Kevin P. Murphy, “Probabilistic Machine Learning: Advanced Topics”, The MIT Press, 2022
+
+####
+
+#### Asignatura: Lógica
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Teoría de conjuntos | 18 | 8 | 10 |  |  | 2 |
+| Lógica proposicional bivalente | 26 | 12 | 14 |  |  | 2 |
+| Lógica de predicados | 14 | 6 | 8 |  |  | 2 |
+| Totales | 64 | 26 | 32 |  |  | 6 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La lógica es el núcleo esencial para la formación del pensamiento lógico-computacional que es imprescindible en la Ciencia de datos. La lógica es el primer eslabón para introducir al estudiante la formalización de un lenguaje en el cual el estudiante puede representar, de manera elemental, formas complejas y verificar su cumplimiento y veracidad además de poder inferir formalmente, a partir de demostraciones, nuevo conocimiento. En la lógica se estudian tres grandes temáticas: la teoría de conjuntos, la lógica proposicional y la lógica de predicados.
+
+Esta asignatura es punto de partida para todas las disciplinas de la formación tanto básica como básica específica.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Utilizar las bases de la Teoría de Conjuntos para representar la información de manera abstracta, realizar operaciones y obtener nuevo conocimiento mediante los métodos de demostración.
+2.  Utilizar los conceptos básicos de la Lógica, tanto proposicional como de predicados, en la representación y el procesamiento deductivo de la información.
+3.  Caracterizar el diseño estructural y funcional de las computadoras, a través de las principales aplicaciones de la Lógica, la representación de la información y los circuitos lógicos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Conjuntos. Relación de pertenencia. Representación extensional e intencional de conjuntos. Relación de inclusión entre conjuntos, definición de subconjunto. Propiedades de la inclusión. Igualdad de conjuntos. Conjuntos distinguidos: conjunto universo, conjunto vacío y conjunto potencia. Operaciones entre conjuntos: unión e intersección de conjuntos. Conjuntos disjuntos. Complemento relativo y absoluto. Propiedades de las operaciones conjuntuales: leyes de potencia, asociativas, conmutativas, distributivas, de identidad, de complemento y de Morgan. Particiones.
+
+Relaciones. Pares ordenados. Relaciones binarias. Operaciones entre relaciones. Propiedades de **l**as relaciones. Relaciones de equivalencia y particiones. Relaciones de Orden. Pares ordenados. Conjuntos de pares ordenados. Conjuntos productos. Definición extensional de relaciones como subconjuntos de conjuntos productos. Relaciones binarias. Tipos de relaciones de acuerdo a las propiedades que satisfacen. Relaciones de equivalencia y sus propiedades. Relaciones de orden y sus propiedades.
+
+Funciones: definición, funciones inyectivas, sobreyectivas y biyectivas. Operaciones con funciones. Ejemplos simples de aplicación de relaciones y funciones en el área de la matemática y la computación. Operaciones entre proposiciones.
+
+Lenguaje de la lógica proposicional. Fórmulas. Definición de las operaciones proposicionales. Interpretación de Fórmulas. Leyes de la lógica proposicional. Deducción proposicional. Reglas de Inferencia de la lógica proposicional. Concepto de demostración. Ejemplos de demostración matemática. Algoritmo de satisfacibilidad.
+
+Recursividad, propiedades y estrategias de búsqueda. Predicados. Aproximación intuitiva a la lógica predicados. Aproximación intuitiva a la cuantificación como operación lógica. El lenguaje de la lógica de predicados: predicados, constantes, variables, funciones, operaciones lógicas. Expresiones de la lógica de predicados: términos y fórmulas. Interpretación y evaluación de fórmulas.
+
+Deducción en la lógica de predicados. Aproximación axiomática a la lógica de predicados. Deducción en la lógica de predicados: reglas de inferencia y extensión del concepto de prueba. Demostración matemática.
+
+**Habilidades principales a dominar**
+
+1.  Utilizar los conceptos de conjunto, relación, función, así como sus principales conceptos derivados, su encadenamiento definicional y sus relaciones deductivas.
+2.  Representar expresiones booleanas.
+3.  Identificar cómo ocurre el procesamiento lógico de las computadoras.
+4.  Demostrar proposiciones lógicas.
+5.  Aplicar las formas de representación de la información.
+6.  Concebir, primariamente, el funcionamiento de algoritmos recursivos.
+7.  Distinguir entre términos y fórmulas en un lenguaje científico
+8.  Identificar los escenarios donde son aplicables las operaciones de cuantificación.
+9.  Utilizar e interpretar de los cuantificadores en las fórmulas.
+10.  Demostrar fórmulas en las que ocurren cuantificadores.
+11.  Utilizar el método axiomático para la presentación de teorías simples.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**

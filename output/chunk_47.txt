@@ -1,0 +1,125 @@
+1.  García L. y Almeida Y., ¨Introducción a la Teoría de Conjuntos y a la Lógica¨, 2017
+
+####
+
+#### Asignatura: Aprendizaje de Máquina
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Aprendizaje Supervisado | 20 | 10 | 6 |  | 4 |  |
+| Aprendizaje No Supervisado | 16 | 8 | 4 |  | 4 |  |
+| Aprendizaje Semi-supervisado | 8 | 4 | 2 |  | 2 |  |
+| Aprendizaje por Refuerzo | 8 | 4 | 2 |  | 2 |  |
+| Métodos de Evaluación | 4 | 2 | 2 |  |  |  |
+| Aplicaciones del Aprendizaje de Máquina | 8 | 4 |  | 4 |  |  |
+| Totales | 64 | 32 | 16 | 4 | 12 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta es una asignatura esencial para la formación del profesional en Ciencia de Datos en un mundo donde los datos crecen exponencialmente y es necesaria la utilización de sistemas automatizados para el procesamiento de estos grandes volúmenes de información.
+
+En la asignatura se introducirán conocimientos básicos para poder resolver los problemas más comunes de predicción y clasificación en casos donde no existe un gran volumen de datos. Esta asignatura abre las puertas al profesional, desde la perspectiva del aprendizaje de máquina, al mundo de la Ciencia de Datos y su forma de pensar, así como a parte de sus complejidades desde el punto de vista computacional. La asignatura aporta, además, un conocimiento general muy básico de los diferentes enfoques existentes para resolver problemas de Análisis de Datos.
+
+En esta asignatura los estudiantes serán capaces de desarrollar sistemas que generalicen el conocimiento a partir de información no estructurada, obtenida a partir de ejemplos entrenantes, y con esta obtener nuevos conocimientos. La mayoría de los problemas a los cuales se les aplican las técnicas y modelos del aprendizaje de máquina son intratables o de gran complejidad computacional y, bajo este enfoque, se intenta lograr soluciones factibles a estos problemas.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Identificar los problemas cuya solución requiere los conceptos y métodos del Aprendizaje de Máquina, incluyendo problemas con datos (métodos de obtención de datos, conocimiento, procesamiento).
+2.  Caracterizar las clases de problemas cuya solución requiere el empleo de los conceptos y métodos del aprendizaje de máquina
+3.  Aplicar los métodos fundamentales de representación y procesamiento que intervienen en la solución de problemas de aprendizaje de máquina.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Aprendizaje Supervisado, No supervisado, Semi supervisado. Regresión. Clasificación. Clustering. Reglas de asociación: Algoritmo A priori. Algoritmo FP-growth Modelos basados en reglas: estructuras Precisión cubrimiento. Estrategias de resolución de conflictos. Curvas de aprendizaje. Bias vs Varianza. Evaluación de algoritmos: métricas de error, matrices de confusión. Comparación de algoritmos Detección de Outliers. Reducción de dimensiones. Modelos de ensembles: Bagging, boosting. Modelos probabilistas**.** Métodos de partición de datos para el entrenamiento. Aprendizaje por Refuerzo.
+
+**Habilidades principales a dominar**
+
+1.  Reconocer problemas de aprendizaje de máquina
+2.  Resolver de forma práctica problemas básicos de aprendizaje de máquina
+3.  Implementar pipelines de aprendizaje de máquina para resolver problemas
+4.  Conocer diferentes paradigmas de aprendizaje de máquina y decidir el apropiado según el problema a resolver.
+5.  Evaluar el rendimiento de un algoritmo de aprendizaje de máquina a partir de los resultados obtenidos de su aplicación
+6.  Valorar las implicaciones éticas y morales del uso de datos en las soluciones basadas en aprendizaje tanto a nivel individual como social y las herramientas existentes para lidiar con las consecuencias.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Kevin P. Murphy, “Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)”, The MIT Press, 2012.
+2.  Russel, S., Norvig P. “Artificial Intelligence: A Modern Approach” Fourth Edition, 2020
+
+**COMPLEMENTARIA**
+
+1.  Colectivo de Autores “Learning From Data”, AMLBook, 2012.
+2.  Foreman J. W. “Data Smart: Using Data Science to Transform Information into Insight”, 2013.
+3.  Andriy Burkov. The Hundred-Page Machine Learning Book
+4.  Kevin P. Murphy, “Probabilistic Machine Learning: Advanced Topics”, The MIT Press, 2022
+
+####
+
+#### Asignatura: Redes Neuronales
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Fundamentos | 12 | 6 | 4 |  | 2 |  |
+| Arquitecturas | 32 | 16 | 10 | 4 | 2 |  |
+| Temas generales | 10 | 4 | 4 | 2 |  |  |
+| Aplicaciones a problemas | 10 | 4 |  |  | 6 |  |
+| Totales | 64 | 30 | 18 | 6 | 10 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Las redes neuronales y el aprendizaje profundo (deep learning) son dos de los términos que más se utilizan en el escenario de la ciencia de datos y la computación actualmente. Todos los días aparecen arquitecturas o modelos nuevos que son aplicables en distintos dominios del conocimiento y permiten la optimización de procesos complejos cuya solución parecía lejana no hace mucho tiempo.
+
+La asignatura de Redes Neuronales introduce entonces el conocimiento y las técnicas para resolver problemas de mayor complejidad como, por ejemplo, aquellos que no pueden modelarse como un solo paso de entrenamiento. Ello permite resolver problemas múltiples utilizando algunas de las herramientas más poderosas y actuales -las redes neuronales- conociendo sus debilidades y potencialidades. Para ello se estudiarán los diferentes paradigmas y arquitecturas y se analiza cómo abordar los diferentes problemas y las complejidades en la solución de cada uno de ellos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Enumerar los fundamentos básicos de las redes neuronales. El algoritmo de backpropagation y el teorema de representación universal.
+2.  Atacar diferentes problemas utilizando el paradigma de Redes Neuronales.
+3.  Identificar las arquitecturas de redes neuronales más comúnmente utilizadas en la industria y entender su funcionamiento y aplicaciones.
+4.  Aplicar las técnicas generales y buenas prácticas para el trabajo con redes neuronales como: regularización, dropout, entre otros.
+5.  Implementar arquitecturas de redes neuronales utilizando bibliotecas del estado del arte.
+6.  Aplicar los conocimientos sobre redes neuronales en la solución de problemas reales.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**

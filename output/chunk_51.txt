@@ -1,0 +1,74 @@
+*   Identificar y enfrentar un problema de ciencia de datos.
+*   Reconocer las diversas fuentes de datos y caracterizarlas para un problema concreto.
+*   Trabajar en equipos multidisciplinarios ocupando los diferentes roles que puede jugar el científico de datos en cada proyecto.
+*   Enumerar los conceptos esenciales de la comunicación basada en datos.
+*   Establecer las bases del rigor comunicativo y la ética profesional en relación a la comunicación basada en datos.
+*   Definir, diseñar, producir y realizar procesos y productos comunicativos basados en datos.
+*   Introducir los conocimientos sobre las bases legales en las que se sustenta el acceso y el manejo de los datos a todos los niveles.
+*   Identificar y analizar críticamente los problemas éticos de la ciencia de datos y su comunicación.
+*   Identificar los tipos de datos más comunes y los formatos más convenientes para su almacenamiento computacional según el uso.
+*   Utilizar herramientas computacionales para la carga, almacenamiento y serialización de datos en diferentes formatos.
+*   Manejar los conceptos básicos de la visualización de datos y los elementos de diseño basados en datos.
+*   Utilizar adecuadamente los distintos tipos de visualización según el objetivo que se persigue y el dominio de los datos a utilizar.
+*   Desarrollar visualizaciones de datos en sus distintas variantes.
+*   Valorar las distintas metodologías para los procesos de ciencia de datos
+*   Instalar, utilizar y gestionar sistemas que permitan el almacenamiento, la integración y el procesamiento de datos.
+*   Implantar y gestionar sistemas (_devops_) de manera local, en red o en la nube.
+*   Diseñar y realizar experimentos para evaluar rendimiento, así como seleccionar métricas de rendimiento.
+*   Redactar documentos, exponer los resultados y participar en foros de discusión.
+*   Leer e interpretar bibliografía en idioma inglés.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN**
+
+En lo fundamental, la disciplina tiene como forma de enseñanza las actividades lectivas (conferencias, clases prácticas, seminarios y laboratorios) presenciales. No obstante, sobre todo en las asignaturas referidas a las aplicaciones de la Ciencia de Datos, se desarrollarán, en dependencia de las condiciones, actividades lectivas en empresas e instituciones relacionadas con los campos de aplicación seleccionados.
+
+La vinculación con la práctica es fundamental en esta disciplina. Desde las temáticas de Introducción a la Ciencia de Datos debe procurarse la participación, como conferencistas, de especialistas de las entidades que proveen colecciones de datos y que necesitan y usan- o no- la analítica de datos para su funcionamiento. De manera que una de las formas organizativas que usará esta asignatura, además de las clásicas actividades lectivas en los espacios docentes de la Universidad, serán las visitas a estas entidades.
+
+La disciplina debe tener un carácter acentuadamente aplicado. Eso estará más presente en algunas temáticas que en otras, pero debe procurarse constantemente que actividades como el estudio de casos reales, los trabajos referativos y la discusión en seminarios se programen en la mayor parte de estas. La idea es que el estudiante recorra, a través de la disciplina, todas las actividades que incluyen el ciclo de vida de los datos, comprendiendo la importancia y complejidad de cada una, y enfrentándose, tanto como el contexto académico lo permita, con situaciones reales que demanden el uso del herramental teórico- práctico que va recibiendo en la medida que avanza en la carrera.
+
+La disciplina debe aportar al estudiante una visión más allá del dominio propio de cada asignatura, vinculándose con el rol social que juega el científico de datos, incidiendo en el análisis de las principales tendencias del campo, así como de los conflictos éticos-sociales-tecnológicos que se pueden derivar de su actuar como futuro profesional de la ciencia de datos. Los problemas de la seguridad de la información y la integridad de los sistemas computacionales son abordados en aras de salvaguardar la identidad y soberanía cubana, aspectos que deben ser tratados en cada uno de los contenidos de la disciplina. Además, debe promover el desarrollo de habilidades de expresión oral y escrita, así como la consulta de literatura en español e inglés, a través del debate y la presentación y defensa de las tareas extraclase que se orienten. Siempre que sea posible se debe enfatizar en el respeto y el cuidado medioambiental desde la práctica profesional. De esta manera, la disciplina se vincula con las estrategias curriculares generales definidas para toda la carrera.
+
+De manera particular, esta disciplina incide en la implementación de la estrategia curricular relacionada con la formación humanística y ética, y el rol social de la profesión, pues es donde se define este rol y se estudian los modos de actuación del profesional de la ciencia de datos. Debe analizarse el impacto social que pueden tener las decisiones basadas en datos tomadas a todos los niveles de organización social, y por tanto la responsabilidad del científico de datos como proveedor de los análisis que soportan dichas decisiones. Es fundamental discutir la necesidad de garantizar la verificabilidad, correctitud, y representatividad de los datos, especialmente cuando son usados para tomar decisiones que puedan impactar en la vida de las personas. Además, se debe discutir también el impacto ambiental del uso de sistemas de cómputo para el procesamiento de grandes volúmenes de datos y la necesidad de racionalizar su uso dentro de lo posible.
+
+También aquí tiene gran importancia la estrategia curricular relacionada con la formación jurídica. Aquí debe analizarse con profundidad las regulaciones asociadas con el acceso a los datos, su seguridad y su privacidad en relación con los contenidos de la disciplina y con las soluciones y ejemplos que se propongan como parte de los ejercicios docentes. En todos los casos se debe propiciar que los estudiantes emitan juicios y valoraciones éticas y jurídicas de rigor.
+
+**Sistema de evaluación**
+
+Se recomienda utilizar un sistema de evaluación continua que fomente que los estudiantes mejoren cada vez más sus habilidades individuales y se enfrenten a nuevos retos a la vez que aprenden a trabajar en equipo. Con el desarrollo de proyectos con varias entregas parciales que les ayude a determinar mejoras y corregir errores de forma progresiva.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Data Science. John D. Kelleher, Brendan Tierney. 2018. The MIT Press; Illustrated edición (13 Abril 2018).
+2.  The Art of Data Science: A Guide for Anyone Who Works with Data. by Roger D. Peng, Elizabeth Matsui. 2016.
+3.  Effective Pandas: Patterns for Data Manipulation - Matt Harrison
+4.  Carl Allchin. Communicating with Data: Making Your Case With Data. O’reilly, 2021 (1st edition)
+5.  Deborah Nolan, Sara Stoudt. Communicating with Data. The Art of Writing for Data Science. Oxford University Press, 2021
+6.  Cole Nussbaumer Knaflic. Storytelling with Data: Let's Practice!. Wiley, 2019
+7.  Tufte Edward R.The Visual Display of Quantitative Information.2ed. Graphics Press, 2001
+8.  Alberto Cairo. How charts lie. Getting smarter about visual information. W. W. Norton & Company, 2019.
+9.  Claus O. Wilke. Fundamentals of Data Visualization. O’reilly, 2019
+10.  Joe Reis, Matt Housley. Fundamentals of Data Engineering. O’reilly 2022
+11.  Jesse Anderson. Data Teams: A Unified Management Model for Successful Data-Focused Teams. Apress, 2020
+12.  Azarmi B. “Scalable Big Data Architecture”. Apress. EUA, 2016. ISBN-13 (electronic): 978-1-4842-1326-1.
+13.  Inmon W. H., Linstedt D. “Data Architecture. A Primer for Data Scientist: Big Data, Data Warehouse and Data Vault”. Elsevier, Inc., 2015. ISBN: 978-0-12-802044-9.
+14.  Duane C. Wilson. Cybersecurity. The MIT Press, 2021
+15.  Kutub Thakur, Al-Sakib Khan Pathan. Cybersecurity Fundamentals: A Real-World Perspective. CRC Press, 2020.
+16.  Nataraj Venkataramanan, Ashwin Shriram. Data privacy: principles and practice.CRC Press, 2017
+17.  Ulrik Brandes, Thomas Erlebach (Eds) Network Analysis. Methodological Foundations. Springer-Verlag, Berlin Heidelberg, 2005
+18.  Charu C. Aggarwal. Social Network Data Analytics. Springer, 2011
+19.  Daniel Jurafsky y James H. Martin, “Speech and Language Processing”, 3ra edición, 2020.
+20.  Jiri Jan. Medical Image Processing, Reconstruction and Restoration. Concepts and Methods, Taylor and Francis Group, 2006
+
+**COMPLEMENTARIA**

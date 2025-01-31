@@ -1,0 +1,89 @@
+Las Prácticas Laborales posibilitan la formación integral de los modos de actuación del profesional de la Ciencia de Datos en las esferas de actuación. Se contempla un número de horas para la forma de culminación de estudios, en el cual el estudiante debe demostrar su capacidad para acometer dichos modos de actuación. La propuesta, además, prevé el estudio de temas asociados a la metodología de la investigación, como aspecto complementario e importante en la formación integral del estudiante.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**
+
+1.  Aplicar con un alto grado de creatividad los desarrollos más avanzados y actuales de la Ciencia de Datos en la solución de problemas.
+2.  Laborar con una absoluta inquietud y dedicación a la investigación científica, motivado por el proceso creador e innovador de su actividad profesional.
+3.  Aplicar los nuevos conocimientos y tecnologías de su profesión.
+4.  Proponer pequeñas contribuciones al avance de la Ciencia de Datos y sus aplicaciones, y exponerlas con verificaciones y justificaciones apropiadas.
+5.  Laborar con un alto grado de productividad, basado en la motivación que le proporciona su profesión y en la aplicación de principios de organización y optimización de su actividad laboral.
+6.  Programar de forma eficiente modelos de representación de la información y de los procesos computacionales seleccionados para la resolución de un problema.
+7.  Participar interdisciplinariamente en los proyectos de solución computacional de problemas en los diversos dominios de la ciencia, la tecnología, la gestión, la producción y los servicios,
+8.  Desarrollar, adaptar o reformular _software_ que facilite en general su utilización por personal no especializado.
+9.  Participar en la determinación de recursos computacionales de acuerdo con los requerimientos de la realización computacional de los procesos análisis en la solución de los problemas procedente de las entidades donde realiza la práctica.
+10.  Contribuir a la divulgación de los conocimientos de la Ciencia de Datos mediante publicaciones y proyectos aplicados a problemas reales de la sociedad y la industria.
+11.  Publicar los resultados científicos obtenidos, contribuyendo al avance teórico y aplicativo, por medio de la escritura de informes, artículos y ponencias a eventos en idioma español e inglés.
+
+**CONTENIDOS DE LA DISCIPLINA**
+
+**Conocimientos esenciales a adquirir**
+
+Herramientas y/o sistemas computacionales de análisis de datos para realizar la modelación conceptual de la solución de los problemas, atendiendo al escenario de aplicación, los recursos tecnológicos disponibles y la complejidad de la solución.
+
+Algoritmos, métodos y técnicas matemático-computacionales que amplían los conocimientos en una temática de un dominio específico que por su importancia y aplicación sean necesarios para la solución de los problemas del eslabón base de la carrera.
+
+Estudio de la metodología de la investigación de manera general, así como las particularidades propias de la Ciencia de Datos.
+
+**Habilidades principales a dominar**
+
+*   Caracterizar los elementos básicos de la organización y planificación de la actividad investigativa del profesional, aplicando la metodología de la investigación al campo de la Ciencia de Datos.
+*   Obtener información sobre el estado actual de la técnica respecto a temáticas científicas de interés, a través de motores de búsqueda y otras fuentes, priorizando el uso de idioma inglés.
+*   Utilizar gestores bibliográficos para la organización de la información consultada.
+*   Diseñar e implementar herramientas que den solución a los problemas propuestos como ejercicio de la práctica laboral, atendiendo al escenario de aplicación, los recursos computacionales disponibles y la complejidad de la solución.
+*   Velar por la integralidad del funcionamiento de los sistemas desarrollados, su seguridad, su estética, el completamiento del análisis para la interpretación de los resultados por los expertos del escenario de aplicación y su mantenimiento ulterior.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Al ser considerada esta disciplina como Integradora, ella consigna las _cualidades_ y los _valores_ que han de caracterizar la conducta científica del profesional de la Ciencia de Datos.
+
+Aplicar con un alto grado de creatividad los desarrollos más avanzados y actuales de la Ciencia de Datos en la solución de problemas, con especial énfasis en valores como la honestidad, la ética de la profesión, el sentido de la responsabilidad, el compromiso con la sociedad, la creatividad, la independencia, el rigor científico, la cultura económica y la preservación del medio ambiente. Tales estrategias deberán contribuir, además, al desarrollo de la comunicación, de la autocrítica y la crítica, del espíritu colectivista, solidario y el respeto mutuo en las relaciones interpersonales, así como motivar el proceso creador e innovador con una absoluta inquietud y dedicación por la investigación científica en aras del desarrollo social.
+
+Integrarse a equipos interdisciplinarios para acometer la solución de problemas complejos e interdisciplinarios, con una amplia perspectiva científica y capacidad para el trabajo colaborativo.
+
+Alcanzar un alto grado de productividad, basado en la motivación que le proporciona su profesión y en la aplicación de herramientas de producción y de principios de organización y optimización de su actividad laboral.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN**
+
+En lo fundamental, la disciplina tiene como forma de enseñanza: un mínimo de actividades lectivas que complementan la formación integral para lo cual debe tenerse en cuenta el desarrollo local en aras de vincular al estudiante en los problemas de análisis demandados de los diferentes centros laborales de la localidad donde se estudia la carrera, para lo cual se sugiere que los temas impartidos emanen de centros laborales y sean seleccionados teniendo en cuenta su relevancia científica, actualidad y/o necesidades que cada Colectivo de carrera considere necesario abordar en el pregrado.
+
+Además, la disciplina cuenta con una temática de naturaleza lectiva que apoya su formación académica e investigativa.
+
+La disciplina cuenta en cada año académico con la Práctica Laboral e Investigativa que se desarrollará en entidades u organismos del territorio donde se estudia comenzando en el primer año académico hasta el tercero. Se recomienda, en lo posible, la permanencia del estudiante en el centro en todas sus prácticas laborales concluyendo, en el último año de la carrera, con el ejercicio de culminación de estudio, cuyo tema debe ser propuesto por el centro y aprobado por el colectivo de carrera.
+
+La permanencia del estudiante en un centro permite que se mantenga asociado a este hasta la culminación de sus estudios, lo cual hace posible la sistematicidad y continuidad de un proceso investigativo que puede concluir en el acto de culminación de estudio y reportará la solución de un problema del eslabón de base propuesto por el centro laboral, donde quede de manifiesto la capacidad de enfrentar los modos de actuación definidos en el modelo del profesional.
+
+Atendiendo a esta indicación se ha concebido que las horas destinadas a la Práctica Laboral e Investigativa (360h) sean parte del currículo base, de manera que el estudiante puedan solucionar los problemas que demanden los centros laborales del territorio donde realiza la Práctica, lográndose con ello mayor flexibilidad al programa permitiendo la integración entre las actividades académicas, laborales e investigativas y mayor acercamiento y vinculación con organismos empleadores del territorio.
+
+Cada práctica debe finalizar con la presentación de la solución propuesta al problema planteado y un informe investigativo propiciándose la realización de actividades académicas, documentales o referativas.
+
+Con similar propósito, se ha concebido la culminación de estudio (320h) dentro del currículo base. Como parte de las horas dedicadas a la culminación de estudios se planifican horas presenciales (32 horas) que desdén ser dedicadas la consulta periódica con el tutor o los tutores para la orientación y control del ejercicio de culminación de estudios que desarrolla el estudiante.
+
+En la disciplina se planifica un fondo de tiempo presencial (32 horas) para el currículo propio. Esto se debe concretar en una asignatura que contribuya a la formación metodológica, práctica e investigativa que necesitan los estudiantes para desarrollar su ejercicio de culminación de estudios. Además, se debe tener en cuenta para ello las características de cada IES y del entorno local.
+
+**Sistema de evaluación**
+
+Se sugiere que las evaluaciones de las actividades lectivas se realicen mediante trabajos documentales y/o referativos.
+
+La evaluación de las prácticas laborales e investigativas se realizará mediante la presentación oral y escrita de un informe que elaborarán los estudiantes. Se recomienda que en esta actividad se inserte el uso del idioma inglés tanto de forma escrita como oral.
+
+**BIBLIOGRAFÍA**
+
+*   Depende del objetivo de cada tema objeto de estudio
+
+#### Asignatura: Práctica laboral e Investigativa I
+
+**DATOS PRELIMINARES**
+
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| --- | --- | --- | --- | --- | --- | --- |
+| Herramientas computacionales | 60 |  |  |  |  |  |
+| Solución de problemas sencillos | 60 |  |  |  |  |  |
+| Totales | 120 |  |  |  |  |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura debe ubicarse al finalizar el primer año académico de la carrera para introducir al estudiante con el proceso de investigación científica, búsqueda de información científica, así como el uso de gestores de información, integrando los conocimientos adquiridos en su primer año de la carrera.

@@ -1,0 +1,119 @@
+La disciplina debe aportar al estudiante una visión más allá del dominio propio de cada asignatura, vinculándose con el rol social que juega el científico de datos, incidiendo en el análisis de las principales tendencias del campo, así como de los conflictos éticos-sociales-tecnológicos que se pueden derivar de su actuar como futuro profesional de la ciencia de datos. Los problemas de la seguridad de la información y la integridad de los sistemas computacionales son abordados en aras de salvaguardar la identidad y soberanía cubana, aspectos que deben ser tratados en cada uno de los contenidos de la disciplina. Además, debe promover el desarrollo de habilidades de expresión oral y escrita, así como la consulta de literatura en español e inglés, a través del debate y la presentación y defensa de las tareas extraclase que se orienten. Siempre que sea posible se debe enfatizar en el respeto y el cuidado medioambiental desde la práctica profesional. De esta manera, la disciplina se vincula con las estrategias curriculares generales definidas para toda la carrera.
+
+De manera particular, esta disciplina incide en la implementación de la estrategia curricular relacionada con la formación humanística y ética, y el rol social de la profesión, mediante la discusión sostenida en todas las asignaturas de los dilemas éticos que resultan de la manipulación y el análisis de datos, la importancia de contextualizar estos datos en cada problema pertinente, y la responsabilidad social del científico de datos con garantizar la veracidad, correctitud, y representatividad de los datos utilizados en cualquier análisis de forma que respondan a los principios sociales que defendemos.
+
+En todas las asignaturas de la disciplina debe establecerse un punto de vista práctico, orientado a la solución de problemas concretos del perfil del científico de datos, sin menoscabo de la profundidad teórica y el dominio de los conceptos fundamentales que sustentan todas las habilidades prácticas.
+
+**Sistema de evaluación**
+
+Se recomienda utilizar un sistema de evaluación continua que fomente que los estudiantes mejoren cada vez más sus habilidades individuales y se enfrenten a nuevos retos a la vez que aprenden a trabajar en equipo. Con el desarrollo de proyectos con varias entregas parciales que les ayude a determinar mejoras y corregir errores de forma progresiva; sin menoscabo de la evaluación de las habilidades teóricas.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  “Probabilities and statistics for computer Scientists.”, Michael Baron. 2nd Edition. CRC Press. 2014.
+2.  “Practical statistics for data scientists: 50+ essential concepts using R and Python”. Bruce, P., Bruce, A., & Gedeck, P. (2020). O'Reilly Media.
+3.  Douglas C. Montgomery. (2004): Diseño y análisis de experimentos. Editorial Limusa, S.A. de C.V.
+4.  Carlos Bouza y Vivian Sistachs (a publicar) Métodos del Análisis Estadístico para la Ciencias de los Datos.
+5.  Johnson R.A. & Wichern D.W.¨Applied multivariate statistical analysis¨ (sixth edition), Prentice Hall 2014
+6.  Análisis y diseño de experimentos, Humberto Gutiérrez, Ramón Salazar, Tercera Edición, 2012.
+7.  Estadística y Muestreo, Ciro Martínez Bencardino, 2012
+8.  Time Series Analysis: With Applications in R (Springer Texts in Statistics) 2da Edición de Jonathan D. Cryer y Kung-Sik Chan.
+9.  Probability Models for Computer Science, S. Ross, 2002.
+
+**COMPLEMENTARIA**
+
+1.  “A first course in probability”. Sheldon Ross. 8th Edition. Pearson Education, Inc. 2010.
+2.  Julian J. Faraway. (2009): Linear Models with R. CHAPMAN & HALL/CRC
+3.  Principios Estadísticos para el diseño y análisis de investigaciones, Robert. O Kuehl, 2001
+
+#### Asignatura: Probabilidades
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción a las Probabilidades | 14 | 6 | 6 | 2 |  |  |
+| Variables aleatorias y características | 20 | 8 | 8 | 2 |  | 2 |
+| Teoremas límites | 8 | 4 | 4 |  |  |  |
+| Aplicaciones | 22 | 8 | 12 |  |  | 2 |
+| Totales | 64 | 26 | 30 | 4 |  | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La teoría de las probabilidades proporciona al estudiante herramientas para el análisis de problemas que aparecen en este campo, así como un basamento teórico para abordar los mismos. Esta se encuentra presente de manera significativa en dominios tales como la generación de números aleatorios, la simulación estocástica, técnicas metaheurísticas, teoría de códigos entre otros, además de ser utilizadas en áreas específicas de aplicación como la inteligencia artificial y el procesamiento de imágenes.
+
+Esta asignatura aborda las temáticas generales de la teoría de probabilidades y la modelación estocástica y brinda al estudiante las herramientas básicas para modelar y analizar aspectos estocásticos de los problemas, fenómenos y algoritmos que encontrarán en otras asignaturas, y en su futura vida laboral.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Modelar fenómenos y procesos del mundo real que les permita el trabajo en espacios de probabilidad a partir de desarrollar un pensamiento probabilístico.
+2.  Utilizar e interpretar adecuadamente las definiciones de variables aleatorias continuas y discretas, funciones de distribución, densidad y probabilidad y sus propiedades.
+3.  Aplicar la definición de vector aleatorio y sus funciones de comportamiento probabilístico para la solución de problemas.
+4.  Utilizar, calcular e interpretar características numéricas como: valor esperado, varianza y otras medidas en variables unidimensionales.
+5.  Calcular e interpretar valores de covarianza y correlación.
+6.  Aplicar los enunciados de los principales teoremas límites y su importancia en la solución de problemas.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Probabilidades. Esquemas y Modelos Probabilísticos. Probabilidad Condicional. Independencia. Teorema de Bayes Variables y vectores aleatorios continuos y discretos. Distribuciones de Probabilidad, características numéricas. Funciones de Distribución y de Densidad. Aplicaciones a la generación de variables aleatorias. Teoremas límites. Modelos Bayesianos.
+
+**Habilidades principales a dominar**
+
+1.  Resolver problemas de cálculo de probabilidades e identificar esquemas prácticos específicos, utilizando elementos básicos de la teoría combinatoria y de la teoría de probabilidades.
+2.  Calcular probabilidades y obtener e interpretar características numéricas o de comportamiento probabilístico general de variables aleatorias continuas o discretas unidimensionales obtenidas o no a partir de vectores aleatorios.
+3.  Generar números aleatorios de una distribución dada, a partir de un generador de números aleatorios uniforme.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Debe tenerse en cuenta los contenidos de la asignatura de Análisis Matemático II que son prerrequisito para esta asignatura (en el mismo semestre) de forma que se garantice que se imparten en el orden adecuado.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+
+**Sistema de evaluación**
+
+Evaluaciones sistemáticas en las clases prácticas y seminarios. Una prueba parcial sobre el contenido de los dos primeros temas. Un proyecto para la modelación de un problema y su solución con ayuda de software. Examen Final.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  “Probabilities and statistics for computer Scientists.”, Michael Baron. 2nd Edition. CRC Press. 2014.
+
+**COMPLEMENTARIA**
+
+1.  “A first course in probability”. Sheldon Ross. 8th Edition. Pearson Education, Inc. 2010.
+
+#### Asignatura: Análisis Exploratorio de Datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Estadística Descriptiva | 20 | 8 | 10 |  |  | 2 |
+| Gráficos estadísticos | 10 | 4 | 6 |  |  | 2 |
+| Analítica Predictiva | 16 | 8 | 8 | 2 |  |  |
+| Totales | 48 | 18 | 22 | 4 |  | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La estadística proporciona métodos para el estudio de las leyes o regularidades estadísticas. También le brindará al estudiante un lenguaje común para comunicarse con especialistas de ciencias sociales, naturales o técnicas. Por otra parte, esta asignatura forma en el estudiante la capacidad de interpretar y comunicar con rigor resultados estadísticos sencillos.

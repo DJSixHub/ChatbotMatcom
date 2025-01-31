@@ -1,0 +1,138 @@
+Como forma de evaluar las habilidades en hacer implementaciones en un lenguaje específico, se deben orientar tareas, individuales y/o colectivas, que exijan trabajar tanto de forma independiente como de forma conjunta. Las mismas, no sólo medirán el conocimiento de las estructuras de datos estudiadas sino que obligarán y permitirán integrarse con bibliotecas de clases desarrolladas por terceros haciendo uso de plataformas de desarrollo específicas.
+
+Se deberá vincular a la mayor cantidad posible de actividades de la asignatura, el uso de los medios de cómputo existentes en los laboratorios de computación como vía de fomentar en el estudiante la actividad práctica independiente, en este mismo empeño se deberá incentivar en el uso de _Internet_ como una herramienta más, para su desarrollo profesional y su formación académica.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones sistemáticas** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Cormen, T. H., Leiserson, Ch. E., Rivest, R. L. “Introduction to Algorithms”, Mc Graw Hills, MIT Press, 3ra Edición , 2009.
+2.  Aho A. V., Hopcroft J., Ullman J. D., “Data Structures and Algorithms”, Addison Wesley, 1983.
+
+**COMPLEMENTARIA**
+
+1.  Knuth D. “The Art of Computer Programming (I,III)”, Addison Wesley, 1973.
+
+####
+
+####
+
+####
+
+####
+
+#### Asignatura: Complejidad Computacional
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Complejidad Algorítmica | 4 | 2 | 2 |  |  |  |
+| Estrategias de Diseño de Algoritmos | 12 | 6 | 6 |  |  |  |
+| NP-Completitud | 12 | 6 | 6 |  |  |  |
+| Elementos de Computabilidad | 4 | 2 | 2 |  |  |  |
+| Totales | 32 | 16 | 16 |  |  |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Para resolver satisfactoriamente problemas computacionales en grandes volúmenes de datos, es necesario conocer los conceptos más relevantes sobre complejidad algorítmica, temas relacionados con el costo computacional, la jerarquía de complejidad computacional (problemas _P, NP, NP-Complete, NP-Hard_), y nociones de computabilidad. Esto es necesario para comprender los retos de realizar cómputo en grandes dimensiones y con grandes volúmenes de datos.
+
+Esta asignatura introduce la teoría básica de complejidad computacional y computabilidad, dotando además a los estudiantes de un lenguaje común para colaborar con otros expertos de la ciencia de la computación en la construcción de soluciones escalables y eficientes para problemas de procesamiento de grandes volúmenes de datos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Evaluar en la práctica las teorías y modelos de la Matemática Computacional, aplicándolos a la representación y solución de problemas por computadoras.
+2.  Utilizar, creativa y críticamente, las diferentes técnicas de diseño de algoritmos en la solución de problemas computacionales.
+3.  Evaluar la eficiencia y la complejidad computacional de un algoritmo para la solución de un determinado problema.
+4.  Evaluar la factibilidad de una solución computacional a un problema dado a partir de las nociones de computabilidad, decidibilidad y su relevancia para el probalma dato.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Complejidad Algorítmica. Problemas y Algoritmos. Teorema Maestro. Divide y Vencerás. Algoritmos Golosos. Programación Dinámica. Cotas Mínimas. Transformación de Problemas.
+
+Complejidad Temporal. Tiempo de Ejecución de un Programa. Notaciones asintóticas: O-mayúscula, Omega y Theta. Cálculo del tiempo de ejecución de un programa. Introducción al análisis del tiempo de ejecución en algoritmos recursivos.
+
+Complejidad Espacial. Aspectos de la complejidad algorítmica asociados con el aprovechamiento de la Memoria.
+
+Introducción a la NP-completitud. Problemas decidibles y no decidibles, tratables e intratables. Problema de la satisfacibilidad. Demostración de pertenencia a la clase NP-completo. Otros problemas NP-completos. Problemas NP-duros. Formalización de la noción de algoritmo. Máquina de Turing y Funciones Primitivas Recursivas.
+
+**Habilidades principales a dominar**
+
+1.  Utilizar los conceptos fundamentales de complejidad algorítmica, modelos de cómputo y cotas mínimas de problemas en la caracterización de un problema de computación.
+2.  Aplicar las técnicas de diseño adecuadas en la solución de problemas computacionales complejos.
+3.  Evaluar la eficiencia y la complejidad computacional de un algoritmo para la solución a un determinado problema.
+4.  Reconocer problemas insolubles o indecidibles que puedan aparecer en problemas prácticos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de programación.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Es relevante tomar como referencia, para aplicar los conocimientos de la materia, el desarrollo de los proyectos de otras asignaturas de las distintas disciplinas así como los distintos algoritmos que se estudian a lo largo de la carrera.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  CormenTh..H., Leiserson Ch.E.,.RivestStein R.L., “Introduction to Algorithms”, , MIT Press, McGraw Hill, 3ra edición, 2009
+2.  Scheinerman E. R “Matemáticas Discretas”, Editorial Félix Varela,2001
+
+**COMPLEMENTARIA**
+
+1.  Ellis Horowitz, SartijSahu, “Fundamentals of Computer Algorithms”. Tomos I y II., Computer Sciense Press, 1978.
+
+#### Asignatura: Bases de datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Evolución y conceptos básicos de las bases de datos | 2 | 2 |  |  |  |  |
+| Diseño conceptual de bases de datos | 10 | 2 | 6 |  |  | 2 |
+| Diseño lógico de bases de datos relacionales y no-relacionales | 16 | 6 | 8 |  |  | 2 |
+| Implementación y manejo de bases de datos | 36 | 16 |  |  | 18 | 2 |
+| Totales | 64 | 26 | 14 |  | 18 | 6 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**

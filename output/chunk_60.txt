@@ -1,0 +1,108 @@
+Las imágenes son uno de los formatos de representación y divulgación de información más ampliamente utilizados. Las imágenes pueden ir desde una simple fotografía hasta una imagen médica. En esas imágenes existe un gran cúmulo de información que requiere de conocimiento y técnicas particulares para su extracción.
+
+Para poder utilizar el conocimiento presente en las imágenes es necesario conocer las distintas tipologías de estas y sus modelos y formatos de representación. Asimismo es importante saber cómo preprocesar las imágenes y cómo restaurarlas para posteriormente procesarlas y poder identificar el conocimiento que ellas encierran que puede ir desde la identificación de zonas particulares, de objetos, de colores, entre otras características. Por tanto, es importante poder correlacionar ese conocimiento con su posible aplicación directa en la solución de problemas en los distintos campos del saber y la economía.
+
+Esta asignatura dota entonces a los estudiantes de las herramientas conceptuales y prácticas para manipular, procesar, y utilizar datos en forma de imágenes. Se enfoca tanto en la solución de problemas específicos de dominios de imágenes (tales como detección de objetos) como en problemas de otros dominios donde las imágenes sirvan como un dato de entrada más.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Identificar los distintos tipos de imágenes así como la utilizar los diferentes métodos para su adquisición y representación.
+2.  Aplicar las distintas técnicas para el procesamiento de imágenes en la solución de problemas reales.
+3.  Aplicar métodos de Inteligencia Artificial para el análisis y reconocimientos de imágenes
+4.  Desarrollar aplicaciones para el procesamiento y análisis de imágenes en distintos dominios de aplicación.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Introducción general a la Ciencia de las Imágenes: adquisición, tipos de imágenes digitales, procesamiento e interpretación de una imagen; ejemplos de tareas básicas en el procesamiento de imágenes; introducción a las metodologías en el procesamiento de imágenes. Representación y modelación de imágenes digitales. Algoritmos de suavizado y eliminación de ruido imágenes. Algoritmos de restauración de imágenes. Algoritmos de segmentación de imágenes. Métodos basados en Inteligencia artificial para el análisis y reconocimiento de imágenes. Aplicaciones del procesamiento y análisis de imágenes.
+
+**Habilidades principales a dominar**
+
+1.  Adquirir y capturar imágenes de distintas fuentes
+2.  Representar imágenes en distintos formatos y modelos de representación
+3.  Aplicar las tareas y algoritmos básicos para el procesamiento de imágenes
+4.  Utilizar algoritmos del estado del arte para el suavizado, la eliminación de ruido y la restauración de imágenes.
+5.  Utilizar métodos y algoritmos de inteligencia artificial para el trabajo con imágenes
+6.  Identificar las distintas posibilidades de aplicación de los conocimientos de la asignatura en distintos dominios
+7.  Utilizar lenguajes de programación, bibliotecas y software específico para el trabajo con imágenes
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de ciencia de datos.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Combinar los conocimientos propios de la asignatura con otros que se desarrollan en las asignaturas de Elementos de Matemática y Aplicaciones, Matemática Numérica, Aprendizaje de Máquina y Redes Neuronales. Además, de ser posible, desarrollar proyectos evaluativos que integren habilidades y conocimientos de otras asignaturas como las mencionadas anteriormente.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Como complemento de esta asignatura se propone ofertar cursos optativos sobre las arquitecturas de redes neuronales comúnmente utilizadas para el procesamiento de imágenes, de forma que los estudiantes puedan profundizar en los detalles técnicos de este tipo de modelos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Jiri Jan. Medical Image Processing, Reconstruction and Restoration. Concepts and Methods, Taylor and Francis Group, 2006
+
+**COMPLEMENTARIA**
+
+1.  Charles L. Epstein. Introduction to the Mathematics of Medical Image Processing. Second Edition, SIAM 2008.
+2.  Klaus D. Toennis, Guide to Medical Image Analysis: Methods and Algorithms. Second Edition, Springer 2017.
+3.  R. Suganya, S. Rajaram, A. Sheik Abdullah. Big Data in Medical Image Processing. CRC Press, Taylor and Francis Group, 2018.
+
+###
+
+### PRÁCTICA PROFESIONAL
+
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| --- | --- | --- | --- | --- | --- |
+| Práctica Laboral e Investigativa I | BASE | 120 | 1 | 2 |  |
+| Práctica Laboral e Investigativa II | BASE | 120 | 2 | 4 |  |
+| Práctica Laboral e Investigativa III | BASE | 120 | 3 | 6 |  |
+| Metodología de la Investigación | BASE | 32 | 4 | 8 |  |
+| Culminación de estudio | BASE | 320 | 4 | 8 |  |
+| Total de Horas | 712 |  |
+| Cursos Optativos y Electivo |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Curso Optativo I | OPT./EL. | 64 | 3 | 6 |  |
+| Curso Optativo II | OPT./EL. | 64 | 4 | 7 |  |
+| Curso Electivo | OPT./EL. | 32 | 4 | 8 |  |
+| Total de Horas | 160 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+Es la disciplina integradora del Plan de Estudio, cuyo objetivo fundamental es aproximar al estudiante a las realidades de los centros laborales y lograr su integración en colectivos de trabajo, al realizar actividades concretas del quehacer profesional; adquiriendo de esta forma la conciencia de la importancia social de la carrera, los principios éticos y humanos requeridos por un trabajador en correspondencia con los principios de la moral socialista.
+
+La práctica deberá ser concentrada para ganar en productividad, atendiendo a las necesidades socioeconómicas del país vigentes.
+
+La disciplina Práctica Profesional es la disciplina integradora de la carrera. Se destina un número de horas para las Prácticas Laborales e Investigativas, donde el estudiante integra los conocimientos y las habilidades adquiridas en la solución de un problema procedente de centros laborales, o académicos, donde ha sido insertado para realizar dicha práctica, para la cual debe ser imprescindible la ubicación de los estudiantes en las entidades donde existe volumen de información que permita realizar su análisis.

@@ -1,0 +1,86 @@
+Definición axiomática de los números reales. Representación decimal. Concepto de numerabilidad, la no numerabilidad de ℝ. Nociones topológicas (vecindad, conjunto abierto, conjunto cerrado, punto de acumulación, punto frontera). Encaje de intervalos. Conjuntos acotados. Definición de sucesión, sucesión acotada, infinitesimal, infinitamente grande. Propiedades de las sucesiones, límites. Propiedades de las sucesiones convergentes, sucesiones monótonas. Sucesiones y puntos de acumulación. Sucesión de Cauchy, Principio de convergencia de Bolzano-Cauchy, conjuntos compactos y precompactos (por sucesiones). Función real de variable real. Compuesta, inyectiva, sobreyectiva, biyectiva, inversa.
+
+Definiciones de límites (por sucesiones y ε-δ). Límites laterales y al infinito. Definición de continuidad en un punto y sobre un intervalo. Propiedades de funciones continuas. Clasificación de discontinuidades, funciones continuas a pedazos. Propiedades locales de las funciones continuas. Teorema de Bolzano. Método de bisección. Teorema de Weierstrass. Comparación de funciones y cálculo de límites por equivalentes. Derivada y diferencial de una función en un punto. Relación con continuidad. Derivadas laterales, derivadas infinitas. Reglas de derivación.
+
+Interpretaciones geométricas, aplicaciones en el cálculo aproximado. Método de Newton. Derivadas y diferenciales de orden superior. Teoremas básicos del cálculo diferencial: Fermat, Rolle, Lagrange. Regla de L'Hôpital (sin demostración). Fórmula de Taylor. Aplicaciones al cálculo aproximado. Extremos relativos. Convexidad. Asíntotas. Construcción de gráficos.
+
+Primitiva e integral indefinida. Integración por partes y por sustitución. Integral de Riemann. Interpretación geométrica y física. Propiedades de la integral definida. Teorema del Valor Medio. Cálculo de integrales definidas (fórmula fundamental). Cambio de variables e integración por partes en la integral definida. Aplicaciones.
+
+**Habilidades principales a dominar**
+
+1.  Identificar las propiedades topológicas fundamentales de conjuntos numéricos.
+2.  Analizar la convergencia de sucesiones mediante los teoremas de convergencia de sucesiones monótonas y de Bolzano-Cauchy.
+3.  Calcular límites de funciones elementales. Resolver límites indeterminados. Analizar la continuidad de funciones expresadas mediante funciones elementales (incluso las definidas por partes). Clasificar los puntos de discontinuidad.
+4.  Calcular derivadas y diferenciales de funciones dadas a través de funciones elementales. Calcular derivadas mediante la definición.
+5.  Graficar funciones
+6.  Calcular el polinomio de Taylor para una función y aplicar estos resultados al cálculo aproximado.
+7.  Resolver problemas de optimización.
+8.  Calcular primitivas de funciones mediante integración por partes y cambio de variables. Calcular integrales de Riemann de funciones reales en forma analítica y numérica mediante algoritmos sencillos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se propone la incorporación de nuevos temas relacionados con el uso de importantes _software_ especializados para el trabajo docente y de investigación en Matemática tales como MATHEMATICA, MATLAB, MAPLE, GEOGEBRA entre otros, que estén más acordes con un enfoque actualizado en la computación y en el uso que se pretende lograr de estas técnicas en la Matemática, para el análisis de datos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Sánchez F., C. Análisis Matemático I. Editorial Pueblo y Educación. La Habana, 2001.
+2.  Valdés C., Sánchez C. Análisis Matemático II. Editorial Pueblo y Educación. La Habana, 2001.
+
+**COMPLEMENTARIA**
+
+1.  Valdés C., Sánchez C. Análisis de funciones de una variable real, Editorial Félix Varela, 2017
+2.  Urrutia R., I. “Folleto de ejercicios”.
+3.  Apóstol, T. M. 1970. “Calculus. Vol I”. Editorial Ciencia y Técnica. La Habana.
+4.  Spivak, M.1970. “Calculus.Vol I y II”. Edición Revolucionaria. La Habana.
+5.  Oberguggenberger M., Ostermann A., “Analysis for Computer Scientists. Foundations, Methods, and Algorithms”. © Springer-Verlag London Limited 2011
+6.  Kudriávtsev L. D. “Problemas de Análisis Matemático” .Editorial Mir Moscú. 1984.
+7.  Fikhtengol´ts G.M., “The Fundamentals of Mathematical Analysis”.
+8.  Stewart, James. Cálculo. Trascendentes tempranas, octava edición. ISBN: 978-607-526-549-0
+
+#### Asignatura: Análisis Matemático II
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Nociones topológicas en IRn | 20 | 10 | 8 |  |  | 2 |
+| Función implícita e inversa | 20 | 10 | 8 |  |  | 2 |
+| Sucesiones, sucesión acotada, infinitesimal, infinitamente grande | 20 | 10 | 8 |  |  | 2 |
+| Series numéricas | 20 | 10 | 8 |  |  | 2 |
+| Totales | 80 | 40 | 32 |  |  | 8 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La asignatura Análisis Matemático II es importante porque ayuda a desarrollar en el estudiante las capacidades de generalización, abstracción y razonamiento lógico del estudiante. Debe destacarse la ayuda que brinda el lenguaje matemático para una expresión clara y precisa de las ideas. Como complemento de lo estudiado en el Análisis Matemático I, se generalizan los elementos fundamentales del Cálculo Diferencial e Integral a funciones reales de varias variables. Básicamente se pretende trabajar en los espacios reales de 2 y 3 dimensiones. Se propone la incorporación de nuevos temas relacionados con el uso de importantes _software_ especializados para el trabajo docente y de investigación en Matemática tales como MATHEMATICA, MATLAB, MAPLE, GEOGEBRA, entre otros, que respondan a los conceptos renovadores de este plan, y que estén más acordes con un enfoque actualizado en la ciencia de datos y en el uso que se pretende lograr de estas técnicas en la Matemática.
+
+Por otra parte, los contenidos de esta disciplina brindan una buena oportunidad de subrayar el papel de las aplicaciones y las interrelaciones de la disciplina con otras ramas del saber científico.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**

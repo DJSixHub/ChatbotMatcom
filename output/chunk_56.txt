@@ -1,0 +1,98 @@
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Como complemento de esta asignatura se propone ofertar cursos optativos relacionados con tecnologías y herramientas concretas para el despliegue de sistemas de análisis de datos en la nube, tales como Amazon AWS, Google Cloud Engine, Microsoft Azure, entre otros.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Programación y Sistemas de Información que traten los temas relacionados con el desarrollo de sistemas de recuperación de información, como un dominio concreto donde aplicar los conocimientos y metodologías de la ingeniería de datos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Joe Reis, Matt Housley. Fundamentals of Data Engineering. O’reilly 2022
+2.  Jesse Anderson. Data Teams: A Unified Management Model for Successful Data-Focused Teams. Apress, 2020
+
+**COMPLEMENTARIA**
+
+1.  Roger Lee. Big Data, Cloud Computing, and Data Science Engineering.Studies in Computational Intelligence, 2020
+
+#### Asignatura: Procesamiento de Grandes Volúmenes de Datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción a los conceptos de Big Data | 10 | 4 | 4 |  | 2 |  |
+| Principio de funcionamiento | 10 | 4 | 4 | 2 |  |  |
+| Infraestructura | 20 | 8 | 4 | 2 | 6 |  |
+| Administración de datos en la nube | 24 | 10 | 6 | 2 | 6 |  |
+| Totales | 64 | 26 | 18 | 6 | 14 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Esta asignatura brinda una formación específica para aprender a procesar, analizar, comprender y gestionar grandes conjuntos de datos. En un mundo cada vez más digitalizado los datos se han convertido en uno de los activos estratégicos más importantes de las empresas y las habilidades a adquirir en esta asignatura abren la puerta a varias de las habilidades que conlleva trabajar con una gran cantidad de datos (Big Data).
+
+Cada día se genera una mayor cantidad de datos, las simulaciones, la automatización y la domótica contribuyen a la generación cada vez mayor de datos asociados a diferentes áreas de la industria. El alto crecimiento requiere de herramientas diseñadas específicamente para este trabajo pues los recursos tradicionales son insuficientes en el trabajo con millones de datos.
+
+El perfil del profesional de Ciencia de Datos abarca desde el trabajo con pequeños conjuntos de datos hasta la utilización de una mayor cantidad de información asociada a grandes volúmenes de datos disponibles. Las capacidades para resolver un problema basado en datos pasa indiscutiblemente por la manipulación y procesamiento de los mismos donde es indispensable conocer las herramientas fundamentales para esta tarea, así como sus fundamentos en vista a entender tanto las ventajas como limitaciones existentes.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aprovechar infraestructuras existentes para el procesamiento de grandes volúmenes de datos.
+2.  Identificar problemas que requieren grandes volúmenes de datos.
+3.  Aplicar tecnologías del estado del arte a la solución de problemas de grandes volúmenes de datos.
+4.  Caracterizar las bases del funcionamiento de las tecnologías utilizadas.
+5.  Identificar los conceptos propios del análisis y procesamiento de grandes volúmenes de datos.
+6.  Explorar y aplicar los principales paradigmas conceptual y metodológicamente fundamentados para diseñar y manejar la integración de los datos desde fuentes de información distribuidas.
+7.  Caracterizar las particularidades del desarrollo del proceso de _data warehousing_ en la búsqueda de la efectividad de las consultas y el enriquecimiento del entorno analítico resultante.
+8.  Identificar las tendencias y perspectivas de la integración de los conjuntos masivos de datos, así como la diversificación y optimización de consultas, en términos históricos (_data lake_) y en tiempo real (_streaming_).
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Definiciones de big data. Principio de funcionamiento: MapReduce. Sistemas para la computación distribuida. Almacenamiento y procesamiento distribuido. Concepto ETL, ELT en el ámbito de la ingestión de datos. Fundamentos de _data warehousing_. Estrategias de desarrollo de un almacén de datos heterogéneos. Especificidades y procedimientos para la integración de los datos (ETL/ELT). Principio de funcionamiento de los motores de consulta de datos. Motores y lenguajes de consulta de bases de datos. Herramientas y sistemas de obtención e ingestión de datos. Conceptos de Data Marts y Data Lake. Herramientas y sistemas para el procesamiento de datos en tiempo real.Herramientas para el streaming de mensajes. Procesamiento de datos “in-memory”. Plataformas de integración de información para conjuntos masivos de datos heterogéneos (EAI/EII). Soluciones alternativas: mediadores y virtualización de datos. Sistemas de bases de datos federados. Envolturas para los sistemas basados en mediadores. Generadores de _wrappers_. Optimización de consultas basada en las capacidades de los mediadores. Infraestructura Big Data. Plataformas de Servicios en la nube. Procesamiento HPC.
+
+**Habilidades principales a dominar**
+
+1.  Reconocer los problemas que requieren grandes volúmenes de datos.
+2.  Integrar datos diversos desde múltiples fuentes, proporcionándolos para el procesamiento analítico y otros usos ulteriores.
+3.  Asegurar la calidad de los datos, la accesibilidad y la interoperabilidad, la anotación y la publicación conforme a los estándares para proteger el valor de los datos a través del tiempo.
+4.  Identificar, extraer y utilizar conjuntamente los datos heterogéneos disponibles y pertinentes, incluyendo fuentes de datos modernas como las redes sociales y las tecnologías abiertas.
+5.  Utilizar y conocer las tecnologías utilizadas para el trabajo con grandes volúmenes de datos.
+6.  Identificar y evitar los errores comunes en el análisis de grandes volúmenes de datos.
+7.  Utilizar frameworks open source para la computación distribuida.
+8.  Gestionar y comprender el funcionamiento y la utilización de plataformas de servicios en la nube.
+9.  Realizar procesamiento de datos "in-memory"
+10.  Utilizar almacenamiento y procesamiento distribuido.
+11.  Administrar datos en la nube.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de ciencia de datos.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**

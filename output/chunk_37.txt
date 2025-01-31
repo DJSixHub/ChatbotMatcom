@@ -1,0 +1,108 @@
+*   *   *   1.  Operar con soltura la computadora, el ambiente integrado de desarrollo y el lenguaje de programación que se utilicen como vehículos en el curso.
+            2.  Escribir los códigos en el lenguaje de programación con claridad y legibilidad con el objetivo de hacer su código reusable.
+            3.  Detectar y corregir los errores que puedan producirse en las fases de verificación y ejecución de un programa.
+            4.  Depurar y probar sus programas usando los juegos de datos apropiados.
+            5.  Caracterizar la complejidad de los algoritmos que desarrolle o de los códigos que tenga que evaluar.
+            6.  Seleccionar y usar las bibliotecas de códigos que tengan los tipos y clases más apropiados para la solución del problema que esté implementando.
+            7.  Defender y exponer adecuadamente sus implementaciones y soluciones de modo que puedan ser comprendidas y utilizadas.
+            8.  Realizar modificaciones al código para corregir errores y/o para satisfacer nuevos requerimientos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto y un alto rigor en la obtención de resultados, honestidad, responsabilidad, solidaridad, basado en la formación humanista y la ética de la profesión.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Además de servir adecuadamente para el cumplimiento de los objetivos señalados, el lenguaje de programación seleccionado debe ser un lenguaje de difusión real en la producción. Debe ser escogido en el momento de impartición de la disciplina según las circunstancias específicas de cada CES. Al momento de la confección de este plan, teniendo en cuenta las tendencias en la comunidad científica y la industria relacionadas con la ciencia de datos, se recomienda el lenguaje Python.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Ciencia de Datos para propiciar que los estudiantes vean aplicados los conocimientos de programación en un problema concreto de su interés.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+1.  Think Python: How to Think Like a Computer Scientist (2nd edition). Allen B. Downey. O'Reilly.
+2.  Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edición. Wess McKinney.
+
+#### Asignatura: Programación
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Elementos de Programación Funcional | 20 | 10 | 10 |  |  |  |
+| Elementos de Programación OO | 20 | 10 | 8 |  |  | 2 |
+| Estructuras de Datos Básicas | 16 | 8 | 8 |  |  |  |
+| Concurrencia y Paralelismo | 8 | 4 | 2 |  |  | 2 |
+| Totales | 64 | 32 | 28 |  |  | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+Las nociones básicas de programación son suficientes para las tareas de analítica de datos más simples. Sin embargo, en la implementación de soluciones de análisis de datos más complejas, es necesario tener un dominio sobre los paradigmas de programación que permiten modelar de forma efectiva sistemas donde interactúan varios componentes computacionales. Tal es el caso de los paradigmas orientado a objetos y funcional, que son las dos aproximaciones principales para la construcción de sistemas computacionales complejos.
+
+Esta asignatura introduce los fundamentos de los paradigmas funcional y orientado a objetos como herramientas fundamentales para modelar un dominio y realizar procesamiento sobre el mismo. Dichos paradigmas son presentados en el contexto de entender el flujo típico de los proyectos de ciencia de datos, aunque se aplique en dominios simplificados.
+
+Estos paradigmas proveen a los estudiantes de las herramientas conceptuales y las construcciones lingüísticas que dan soporte a estrategias de solución de problemas como el modelo Map-Reduce y los conceptos relacionados de data-clases y pattern-matching, que serán esenciales en asignaturas posteriores de esta disciplina y de la disciplina de Ciencia de Datos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Utilizar los conceptos e instrucciones fundamentales de la programación orientada a objetos y funcional en la solución de problemas de programación.
+2.  Desarrollar un pensamiento algorítmico para la solución de problemas de programación.
+3.  Programar con un lenguaje que propicie lograr el objetivo anterior en la implementación de las soluciones computacionales a problemas.
+4.  Utilizar de forma efectiva un ambiente integrado de desarrollo (IDE) asociado al lenguaje de programación que se estudie en la asignatura.
+5.  Implementar computacionalmente diferentes estrategias de solución y algoritmos usando un lenguaje de programación.
+6.  Asimilar efectivamente un lenguaje de programación nuevo a partir de su similaridad con el lenguaje de programación básico estudiado en la asignatura.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Elementos de programación orientada a objetos. Jerarquías de Tipos. Herencia. Polimorfismo.
+
+Elementos de programación funcional. Delegados o funciones como ciudadanos de primera clase. Clausura. Funciones de orden superior.
+
+Tipos abstractos y tipos por interfaces (protocolos). Iteradores.
+
+Elementos de programación concurrente. Hebras y sincronización.
+
+Introducción a otros lenguajes aplicados.
+
+**Habilidades principales a dominar**
+
+1.  Operar con soltura la computadora, el ambiente integrado de desarrollo y el lenguaje de programación que se utilicen como vehículos en el curso.
+2.  Escribir los códigos en el lenguaje de programación con claridad y legibilidad con el objetivo de hacer su código reusable.
+3.  Detectar y corregir los errores que puedan producirse en las fases de verificación y ejecución de un programa.
+4.  Depurar y probar sus programas usando los juegos de datos apropiados.
+5.  Caracterizar la complejidad de los algoritmos que desarrolle o de los códigos que tenga que evaluar.
+6.  Seleccionar y usar las bibliotecas de códigos que tengan los tipos y clases más apropiados para la solución del problema que esté implementando.
+7.  Defender y exponer adecuadamente sus implementaciones y soluciones de modo que puedan ser comprendidas y utilizadas.
+8.  Realizar modificaciones al código para corregir errores y/o para satisfacer nuevos requerimientos.
+9.  Diseñar jerarquías de clases y abstracciones funcionales adecuadas para la modelación de un dominio de datos concreto.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+Desarrollar las cualidades de tenacidad y dedicación necesarias en el trabajo de programación.

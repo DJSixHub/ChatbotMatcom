@@ -1,0 +1,98 @@
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  Carl Allchin. Communicating with Data: Making Your Case With Data. O’reilly, 2021 (1st edition)
+2.  Deborah Nolan, Sara Stoudt. Communicating with Data. The Art of Writing for Data Science. Oxford University Press, 2021
+3.  Cole Nussbaumer Knaflic. Storytelling with Data: Let's Practice!. Wiley, 2019
+
+**COMPLEMENTARIA**
+
+1.  Knaflic et al. Storytelling with data: a data visualization guide for business professionals. Wiley, 2015,
+2.  Max Shron. Thinking with Data: How to Turn Information into Insights. O’reilly, 2014
+
+#### Asignatura: Visualización de Datos
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Conceptos de representación visual y elementos de diseño | 4 | 2 |  | 2 |  |  |
+| Tipos y modelos de visualizaciones | 8 | 4 | 4 |  |  |  |
+| Visualizaciones interactivas | 8 | 4 | 2 |  | 2 |  |
+| Productos de datos. Dashboardas | 8 | 4 | 2 |  | 2 |  |
+| Visualización y comunicación | 4 | 2 | 2 |  |  |  |
+| Totales | 32 | 16 | 10 | 2 | 4 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La visualización de datos es un componente esencial en la Ciencia de Datos. Las visualizaciones no solo presentan una interpretación visual de los datos, sino que también mejoran la comprensión, la comunicación y la toma de decisiones. El poder desarrollar y utilizar visualizaciones es transversal a todo el proceso de Ciencia de Datos yendo desde la exploración y manipulación inicial de los datos hasta la comunicación de los resultados pasando también por las etapas de procesamiento, análisis y validación de los resultados.
+
+Para ello es esencial conocer, en primera instancia, los conceptos básicos de la visualización de datos así como los principios del diseño. Es importante conocer los modelos y tipos de visualizaciones existentes para utilizarlos de manera adecuada según el fin que se persigue y el dominio de los datos que se utilicen. Además, es importante conocer el rol de las visualizaciones ya sea dentro de un producto de datos por sí mismo o insertados dentro de un producto comunicativo. También es necesario conocer cómo desarrollar visualizaciones interactivas que permitan a las audiencias objetivos no solo conocer los resultados de los análisis que se comunican sino también ellos ser parte del proceso de análisis y obtener sus propios conclusiones.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los conceptos básicos de la visualización de datos y los elementos de diseño basados en datos.
+2.  Utilizar los métodos y técnicas de representación visual que aumentan la comprensión de datos complejos.
+3.  Determinar adecuadamente los distintos tipos de visualización según el objetivo que se persigue y el dominio de los datos a utilizar.
+4.  Utilizar los distintos modelos de representación visual basados en datos.
+5.  Desarrollar visualizaciones basadas en datos aplicando los conceptos básicos de representación visual y elementos esenciales de diseño
+6.  Utilizar las visualizaciones como otra herramienta práctica dentro de los procesos de ciencia de datos.
+7.  Identificar el rol de las visualizaciones dentro de los productos comunicativos.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Conceptos básicos de representación visual y elementos del diseño. Conceptos básicos de las visualizaciones basadas en datos. Tipos de visualizaciones. Gráficos para series temporales. Gráficos para representar rankings, Gráficos de distribución. Gráficos de desviación. Gráficos de frecuencia. Gráficos de correlación. Gráficos de comparación nominal. Gráficos de flujo. Gráficos jerárquicos. Gráficos geoespaciales. Gráficos pictóricos. Técnicas y herramientas para la creación de visualizaciones. Modelos de visualizaciones interactivas. Técnicas y herramientas para la creación de visualizaciones interactivas. Bibliotecas de software para el desarrollo de visualizaciones. Concepto de dashboard. Desarrollo de dashboards. El rol de las visualizaciones dentro de los productos comunicativos.
+
+**Habilidades principales a dominar**
+
+1.  Identificar las visualizaciones apropiadas según el dominio de los datos, el proceso de ciencia de datos desarrollado y la audiencia objetivo.
+2.  Desarrollar distintos tipos de visualizaciones.
+3.  Concebir, planificar y producir visualizaciones basadas en datos.
+4.  Utilizar las técnicas y herramientas apropiadas para el desarrollo de visualizaciones
+5.  Crear visualizaciones interactivas
+6.  Identificar y utilizar las bibliotecas de software apropiadas para el desarrollo de visualizaciones
+7.  Desarrollar dashboards y productos de datos
+8.  Participar en equipos para la creación colaborativa de visualizaciones y productos de datos.
+9.  Diseñar y producir las visualizaciones de datos de acuerdo a la ética en los procesos de análisis datos y los aspectos legales en el marco de la privacidad, la gobernanza y la seguridad de los datos
+10.  Incorporar de manera adecuada visualizaciones de datos dentro de productos comunicativos.
+11.  Redactar documentos, exponer los resultados y participar en foros de discusión. Así como la lectura e interpretación de bibliografía en idioma inglés.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad con honestidad, responsabilidad, solidaridad, sobre la base de una formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una amplia perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de los resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+Garantizar la protección de los datos, la veracidad de la información y la privacidad de quienes la proveen.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Esta asignatura debe utilizar para su desarrollo los conocimientos, proyectos y ejemplificaciones que se utilizaron en las asignaturas que comprenden la introducción a la ciencia de datos, el análisis exploratorio de datos así como la comunicación en ciencia de datos.
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:

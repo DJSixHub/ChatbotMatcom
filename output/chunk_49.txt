@@ -1,0 +1,99 @@
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Se recomienda la utilización de materiales digitales para la bibliografía con el objetivo de mantener actualizados a los estudiantes y la utilización de materiales en inglés para fomentar el aprendizaje y la preparación de los estudiantes en este idioma.
+
+Es una asignatura de integración donde el contenido impartido se mezcla con conocimientos de otras asignaturas que pertenecen a varias disciplinas. Acorde a esto se recomienda enlazar los contenidos más teóricos de la asignatura con problemas concretos en otras asignaturas, del mismo semestre o semestres anteriores,
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Examen final** que permita evaluar los objetivos y habilidades generales de la asignatura a partir de la solución de problemas integradores. Puede ser en modalidad oral, escrita, o mixta.
+
+**BIBLIOGRAFÍA**
+
+1.  Kevin P. Murphy, “Probabilistic Machine Learning: An Introduction”, The MIT Press, 2021.
+2.  Richard O. Duda “Pattern Classification”, Second Edition.
+3.  Russel, S., Norvig P. “Artificial Intelligence: A Modern Approach” Fourth Edition, 2020
+
+####
+
+#### Asignatura: Simulación
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Introducción a la Simulación | 2 | 2 |  |  |  |  |
+| Simulación Basada en Eventos. | 14 | 8 | 4 |  | 2 |  |
+| Inferencia Difusa | 14 | 8 | 4 |  | 2 |  |
+| Agentes y Sistemas Multiagentes | 18 | 10 | 4 | 2 | 2 |  |
+| Totales | 48 | 28 | 12 | 2 | 6 |  |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La asignatura Simulación es necesaria para el profesional de Ciencia de Datos, pues proporciona los conocimientos fundamentales acerca de los conceptos y técnicas de simulación que son empleados en la actualidad para la solución de problemas fundamentalmente interdisciplinarios. Esta asignatura busca lograr que los estudiantes sean capaces de integrar y aplicar, para ello, todos los conocimientos que han adquirido acerca de los diferentes tipos de modelos matemático-computacionales. Asimismo, la asignatura fomenta el carácter interdisciplinario de la solución de problemas complejos y la utilización de modelos para la representación de sistemas, su ejecución controlada y el análisis de los resultados de la simulación.
+
+Las simulaciones son utilizadas en la industria para replicar y analizar fenómenos complejos en un entorno fácil de inspeccionar, por lo que se convierten en una fuente usual de datos. También son utilizadas para validar y contrastar modelos y predicciones.
+
+La etapa actual de desarrollo y aplicación de la simulación no se concibe sin la introducción de los conceptos y métodos de la inteligencia artificial en los modelos y los procesos de simulación. Luego se introducen concepciones muy importantes en la solución de problemas como son modelos de concurrencia y distributividad y el enfoque de agentes y los sistemas multiagente con diferentes grados de complejidad, estrategias de comunicación y de interacción.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Construir y modelar sistemas a partir de un problema real aplicando las metodologías propias de la simulación.
+2.  Resolver problemas computacionales, aplicando los diferentes métodos de modelación y clasificación de problemas a través de las técnicas de simulación.
+3.  Diseñar sistemas de simulación de acuerdo a la clase de problemas a que se enfrentan.
+4.  Aplicar las técnicas y conceptos de la simulación de sistemas, utilizando computación distribuida e inteligencia artificial.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Simulación de sistemas. Conceptos fundamentales de los sistemas dinámicos. Representación de sistemas: diferentes tipos de modelos. Fases fundamentales del proceso de simulación. Conceptos fundamentales de la simulación. Simulación orientada a eventos. Teoría de Colas. Método de Montecarlo. Lógica Difusa. Modelos de Inferencia Difusa. Agentes Inteligentes y Sistemas Multiagentes.
+
+**Habilidades principales a dominar**
+
+1.  Representar sistemas a partir del conocimiento de los fundamentos de la modelación de sistemas y los principales modelos computacionales disponibles.
+2.  Construir, para un problema dado, el sistema apropiado para llevar a cabo su simulación.
+3.  Aplicar los aspectos fundamentales de la teoría de sistemas discretos descritos a través de eventos y condiciones.
+4.  Aplicar las técnicas de la simulación orientada a eventos y la teoría de colas para la solución de problemas típicos.
+5.  Modelar sistemas y solucionar problemas a partir del conocimiento de los diversos modelos de concurrencia y su aplicación dentro de la simulación.
+6.  Utilizar las distintas técnicas de modelación y aplicar de la simulación para la solución de problemas típicos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Contribuir al desarrollo social y económico en favor de los individuos, las instituciones y la sociedad, con honestidad, responsabilidad y solidaridad, basado en la formación humanista, patriótica y antiimperialista.
+
+Acometer la solución de problemas con una perspectiva científica, basada en el razonamiento lógico y el pensamiento abstracto, un alto rigor en la obtención de resultados y la adecuada capacidad para el trabajo colaborativo.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+*   **Laboratorios.** (Clases prácticas). Se centrarán fundamentalmente en la utilización de los recursos computacionales para la solución de problemas, ya sea desde la implementación de los métodos y algoritmos estudiados en conferencia, hasta su aplicación a problemas prácticos a partir de su ejecución computacional.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Estadística y Probabilidades que traten los temas relacionados con el análisis de procesos estocásticos y la generación de variables aleatorias.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.

@@ -1,0 +1,58 @@
+*   Diseñar los programas de asignaturas de modo que sus objetivos contribuyan al logro de los objetivos de las disciplinas, los cuales a su vez garantizan el cumplimiento del Modelo del Profesional, jerarquizando el papel de los objetivos del año como unidad fundamental dentro de la estructura de organización de la carrera.
+*   Velar por la articulación entre núcleo fundamental y esencial de conocimientos que garantice el análisis y la solución matemático-computacional de los problemas del eslabón base, así como los conocimientos que deben ser impartidos en el posgrado y que garanticen su formación continua.
+*   Jerarquizar la importancia de desarrollar el razonamiento lógico y el pensamiento abstracto del estudiante utilizando para ello todas las formas de enseñanza de las asignaturas
+*   Incrementar en las asignaturas, las formas participativas de los estudiantes en el proceso docente-educativo (diferente a seminarios y clases prácticas), a través de materiales complementarios u otros que los docentes entiendan pertinentes, como contribución al logro de un adecuado grado de independencia de los estudiantes.
+*   Mantener el nivel básico académico y científico de la docencia entre los parámetros que caracterizan el nivel de pregrado y la continuidad en su formación en los campos de conocimiento del posgrado.
+*   Garantizar la permanente actualización de los contenidos.
+*   Mantener en el diseño de las actividades evaluativas, un adecuado balance de preguntas creativas y reproductivas.
+*   Ubicar adecuadamente a los estudiantes en centros laborales y seleccionar los temas objeto de investigación en las Prácticas Laborales e Investigativas, dada su carácter integrador en el Plan de Estudio.
+*   Incrementar la exigencia en el desarrollo de las actividades de laboratorios y otras semejantes, en cuanto al aseguramiento de los medios de cómputo, así como de las medidas de ahorro, como una contribución al desarrollo de valores como la disciplina y el sentido de la responsabilidad.
+*   Prestar especial importancia a mantener la imagen que corresponde a un educador como condición fundamental para incidir en los hábitos de educación formal de los estudiantes y en la formación o consolidación de valores como la responsabilidad y la honestidad, entre otros.
+*   Garantizar la entrega a los estudiantes de materiales de autoestudio, con la suficiente antelación que permita exigir el cumplimiento en tiempo y con la debida calidad de las actividades.
+*   Escuchar los criterios de los estudiantes como ejemplo de respeto hacia ellos y como medio de incidir positivamente sobre su valentía, objetividad y creatividad.
+*   Asumir en todo momento, mediante la adecuada exigencia, actitudes que contribuyan al desarrollo consciente en los estudiantes del sentido de la responsabilidad ante el cumplimiento de sus compromisos docentes, políticos y sociales.
+*   Considerar en los criterios evaluativos, aspectos tales como la presentación, ortografía y forma de expresión.
+*   Prestar especial importancia al uso correcto del lenguaje como medio de transmisión de valores, de preservación de la lengua materna y de contribución al manejo de otro idioma, fundamentalmente el inglés.
+*   Priorizar la disponibilidad de los libros de texto, en sus distintos formatos, velando por su calidad y adecuación, procediendo a incluir nuevos libros o re-ediciones de los existentes en los casos que así se requiera.
+*   Continuar incrementando la cantidad y calidad de los materiales docentes disponibles en la red, velando por el cumplimiento de las medidas de tipo organizativo que permiten mantener el acceso de los estudiantes a la misma.
+*   Velar por la paulatina consolidación de hábitos y valores positivos como la creatividad, la independencia, la responsabilidad, el sentido de colectivismo y la honestidad, entre otros, durante el desarrollo de trabajos de investigación, trabajo de graduación y otras formas de enseñanza.
+*   Organizar la oferta de asignaturas optativas de manera que se mantenga la adecuada posibilidad de elección por parte del estudiante.
+*   Se sugiere que las horas lectivas del octavo semestre se concentren en los dos primeros meses del semestre.
+
+La Ciencia de Datos es una ciencia en constante desarrollo y exige a sus profesionales la constante superación, es por ello que el presente plan se ha articulado armónicamente con el posgrado donde el egresado cumplimentará, ampliará y profundizará los estudios que permitan la creación de sistemas computacionales dirigidos al trabajo con datos mediante modelos, métodos y técnicas matemático-computacionales más complejas y actualizadas teniendo en cuenta los recursos computacionales disponibles y los escenarios de aplicación.
+
+Una vez culminada su formación base debe continuar superándose en la actividad posgraduada mediante cursos de posgrado, de especialidad, maestrías y doctorado, optando por maestrías para ampliar, profundizar y actualizar su formación. Los cursos de posgrado, y las especialidades para su superación constante y en plan de doctorado para la obtención de un grado científico.
+
+Cada institución de educación superior debe velar por la superación de sus egresados mediante los planes de posgrados, maestrías y doctorados que ofrecen acorde al perfil del egresado.
+
+### ESTRATEGIAS CURRICULARES
+
+#### Formación humanística y ética
+
+Aunque los objetivos de formación ética y humanística no se asumen de manera particular por una disciplina específica, de una u otra manera están presentes en todas las disciplinas, a través de la formulación de estrategias educativas y curriculares con especial énfasis en valores como la honestidad, la ética de la profesión, el sentido de la responsabilidad, el compromiso con la sociedad, la creatividad, la independencia, el rigor científico, la cultura económica y la preservación del medio ambiente. Tales estrategias deberán contribuir, además, al desarrollo de la comunicación, de la autocrítica y la crítica, del espíritu colectivista, solidario y el respeto mutuo en las relaciones interpersonales, así como motivar el proceso creador e innovador con una absoluta inquietud y dedicación por la investigación científica en aras del desarrollo social.
+
+Se debe prestar atención al desarrollo de habilidades para formar parte de equipos que acometan la solución de problemas complejos e interdisciplinarios, dotando al profesional en Ciencia de Datos de capacidad para el trabajo colaborativo, siendo tolerante ante opiniones y enfoques diversos y mostrando ética profesional. De igual manera, se deben diseñar acciones que permitan al estudiante expresar respeto y aceptación de las diferencias al apropiarse de conceptos como la diversidad cultural y religiosa como parte de la identidad de los pueblos, aspectos estos que están presentes con gran fuerza en las diferentes culturas.
+
+Basado en la aplicación de herramientas de producción y de principios de organización y optimización de su actividad laboral; el profesional en Ciencia de Datos debe mostrar alto grado de productividad y responsabilidad social, teniendo en cuenta el papel relevante que juega la computación en sus diferentes esferas de actuación.
+
+Esta estrategia se estructura adecuadamente a lo largo de la carrera, integrándose a la formación de los estudiantes y tienen su expresión en su formación integral promoviendo su asistencia a cursos electivos.
+
+#### Lengua materna
+
+Especial importancia se le atribuye en el plan de estudio, al desarrollo en los estudiantes de la capacidad para transmitir conocimientos, lo cual queda definido como uno de los campos de acción del profesional; una de sus esferas de actuación e incluso como habilidad profesional y forma parte de la estrategia de fortalecimiento de la lengua materna.
+
+Se deberá velar por el desarrollo de habilidades comunicativas generales desde las diferentes asignaturas del currículo de la carrera a través de seminarios, talleres y otras actividades prácticas que impliquen exposiciones y debates, prestando atención no sólo al dominio alcanzado por los estudiantes de los conocimientos particulares de las diferentes ramas del saber, sino también a los recursos comunicativos que estos emplean: organización del contenido, uso del lenguaje verbal y extraverbal, empleo de los medios, capacidad de síntesis, capacidad de argumentación, capacidad de ejemplificación, entre otros; enfatizando en la importancia y necesidad del dominio de estas habilidades para el desempeño profesional y docente.
+
+#### Formación en Idioma Inglés
+
+En este plan de estudio el Idioma Inglés pasa a convertirse en requisito de egreso. Sin embargo, el profesional de Ciencia de Datos debe poder leer, escribir y expresarse en ese idioma, por lo que los colectivos de carrera deben asumir el encargo de implementar una estrategia dirigida a desarrollar, desde los primeros años académicos, habilidades de comprensión oral y escrita en lengua inglesa en el campo de la especialidad.
+
+Tal estrategia debe basarse en la organización de seminarios, talleres y jornadas científicas en idioma inglés y se sugiere dirigirla desde la disciplina principal integradora.
+
+Se sugieren algunas actividades que pueden contribuir al logro de los objetivos propuestos como:
+
+*   Desarrollar en los grupos de investigación actividades que involucren el uso del idioma inglés, para promover habilidades de comunicación tanto oral como escrita.
+*   Proponer una asignatura optativa dirigida al desarrollo de habilidades de interpretación, redacción y comunicación oral en temas computacionales.
+*   Promover la presentación y exposición de trabajos en inglés en la Jornada Científica Estudiantil y en dependencia de la relevancia del trabajo en eventos internacionales.
+
+Por otra parte, el profesional de Ciencia de Datos necesita ser capaz de leer literatura científica fundamentalmente en idioma inglés, pues la mayoría de la bibliografía tanto básica como complementaria y la requerida para la investigación, se encuentra en ese idioma.

@@ -1,0 +1,101 @@
+1.  Vincular los modelos de optimización con la vida social del hombre, destacando la relación dialéctica entre problema real y modelo matemático, tanto en la construcción de este último como en la interpretación de la solución hallada en términos del problema original.
+2.  Interpretar de manera creativa la realidad, traducirla al lenguaje de la modelación matemática en Optimización y utilizar las herramientas estudiadas para asimilar la dialéctica del proceso de solución de un problema teniendo en cuenta la calidad de la respuesta buscada bajo asesoría científica de especialistas.
+3.  Fundamentar teóricamente los criterios en que se basan los métodos clásicos de optimización y su algoritmización, así como realizar comparaciones entre diferentes algoritmos, sobre la base de dichos criterios y su comportamiento computacional.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Modelación. Complejidad del problema general de la Programación Matemática. Generalidades teóricas sobre su resolución. Problemas suaves: Condiciones de óptimo local. Problemas convexos. Métodos de solución. Relajación del problema y adición de restricciones. Descomposición: sistema de restricciones y variables. Dualidad Lagrangeana. Partición del conjunto de soluciones factibles. Gradiente, máximo descenso, gradiente estocástico. Algoritmos Heurísticos. Metaheurísticas. Suavización. Algoritmos de solución para problemas lineales y cuadráticos convexos. Problema Lineal Entero Mixto. Uso de lenguajes de modelación y software de solución análisis e interpretación de los resultados
+
+**Habilidades principales a dominar**
+
+1.  Construir modelos de optimización que permitan dar respuestas a situaciones concretas dadas.
+2.  Seleccionar y aplicar los algoritmos más convenientes para resolver problemas de optimización.
+3.  Resolver ejemplos sencillos de problemas de optimización utilizando la caracterización teórica de sus soluciones.
+4.  Modelar, de manera general, la solución de los problemas no lineales convirtiéndolos en una sucesión de problemas de menor grado de complejidad.
+5.  Realizar análisis de convergencia y de complejidad computacional de los algoritmos estudiados.
+6.  Utilizar lenguajes de modelación y software para la solución y análisis de problemas y la interpretación de los resultados
+7.  Programar versiones simples de algoritmos representativos para resolver problemas prácticos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+
+La idea general de la asignatura es presentar diferentes modelos de optimización así como estrategias de solución numérica para los mismos, de modo que se ofrezcan a los estudiantes los elementos básicos para la comunicación con equipos interdisciplinarios que enfrenten la solución de problemas de este tipo. La asignatura contribuye además a relacionar conocimientos de otras disciplinas del plan de estudios.
+
+Es importante que los estudiantes conozcan las ideas básicas y los fundamentos teóricos de los algoritmos que se estudien, de manera que sean capaces de proponer eventuales modificaciones para aplicarlos a problemas específicos o para explotar la estructura particular de los problemas en implementaciones eficientes.
+
+En las clases prácticas y/o seminarios deben utilizarse problemas clásicos importantes: problema de transporte, de la dieta, de mezclas, problema del viajante, problema de la mochila, de cubrimiento de conjuntos, de asignación, problemas de estimación de parámetros, etc. como motivación al estudio de los diferentes tipos de problemas y estrategias de solución que se tratan en la asignatura.
+
+Resulta conveniente que los estudiantes utilicen sistemas de programas que contengan los algoritmos estudiados y sepan interpretar adecuadamente los resultados obtenidos. Debe destacarse, siempre que sea posible, como se concretan estrategias generales de diseño de algoritmos en los algoritmos específicos de la asignatura. También deben aprovecharse los conocimientos de los estudiantes de análisis numérico y estructuras de datos para analizar, preferentemente en seminarios, como influyen estos aspectos en la realización computacional de los algoritmos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+**BÁSICA**
+
+1.  “Linear and nonlinear programming”, D. Luenberger, Y. Ye. 4th Edition. Springer. 2016.
+2.  “Modelos de Optimización”, Otero y autores. Félix Varela, 2006
+
+**COMPLEMENTARIA**
+
+1.  “Numerical Optimization”, Jorge Nocedal, Stephen J. Wright, Springer, 1999.
+2.  “Integer and Combinatorial Optimization”, Laurence A. Wolsey y George L. Nemhauser. Wiley-Interscience, 1999
+
+##
+
+##
+
+##
+
+##
+
+## DISCIPLINAS DE FORMACIÓN BÁSICA ESPECÍFICA
+
+###
+
+###
+
+### ESTADÍSTICA Y PROBABILIDADES
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Probabilidades | BASE | 64 | 1 | 2 | EF |
+| Análisis Exploratorio de Datos | BASE | 48 | 1 | 2 |  |
+| Análisis Estadístico I | BASE | 64 | 2 | 3 | EF |
+| Análisis Estadístico II | BASE | 64 | 2 | 4 | EF |
+| Muestreo y Diseño de Experimentos | PROPIO | 64 | 3 | 5 |  |
+| Procesos Estocásticos y Series de Tiempo | PROPIO | 64 | 3 | 6 |  |
+| Total de Horas | 368 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+Teniendo en cuenta que entre las actividades más importantes y propias del profesional en Ciencia de Datos están la asimilación, evaluación, aplicación y desarrollo de aplicaciones de análisis de datos, la disciplina Probabilidades y Estadística posee un carácter fundamental en el plan de estudios. Los contenidos de esta disciplina tributan decisivamente a las disciplinas de Inteligencia Artificial y Ciencia de Datos.
+
+El mundo no es determinista, y la mayoría de los problemas a los que debe enfrentarse un científico de datos tiene como dominio procesos estocásticos constituidos por sucesos aleatorios. La teoría de las probabilidades proporciona al estudiante herramientas para el análisis de problemas que aparecen en este campo, así como un basamento teórico para abordar los mismos. Esta se encuentra presente de manera significativa en dominios tales como la generación de números aleatorios, la simulación estocástica, entre otros, además de ser utilizadas en áreas específicas de aplicación como la inteligencia artificial y la inteligencia de negocios con particular interés en la evaluación de modelos predictivos.
+
+La parte concerniente a la estadística posibilitará un lenguaje común con investigadores de otras ramas de las ciencias exactas, naturales, sociales y técnicas, así como para la comunicación de resultados en entornos laborales. Esto permite formar habilidades para la concepción y desarrollo de algoritmos concernientes a las técnicas en este dominio para el almacenaje, procesamiento y análisis de datos, además de facilitar herramientas para el estudio y el análisis de algoritmos estocásticos.
+
+La disciplina prepara al estudiante para la modelación matemática en fenómenos aleatorios, así como la solución de problemas teóricos y prácticos relacionados con las muy diversas áreas del conocimiento donde se manifiestan estos fenómenos. También prepara en el uso de sistemas computacionales para la aplicación de la modelación probabilística, los análisis estadísticos, y la utilización de diferentes técnicas y procedimientos probabilísticos, estadísticos en diversos campos de la ciencia y de la técnica. Además, permite estudio ulterior de modelos y métodos probabilísticos y estadísticos más complejos.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**

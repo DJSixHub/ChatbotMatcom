@@ -1,0 +1,120 @@
+| No | DISCIPLINA Y ASIGNATURA | CANT. DE HORAS | DIST. POR AÑOS | DIST. DE HORAS POR AÑO ACAD. |
+| --- | --- | --- | --- | --- |
+| TOTAL | CLASE | PRACT.LAB. EINVEST. | EXAMEN FINAL DE ASIGN. | TRAB. DE CURSO | 1 | 2 | 3 | 4 |
+| 1 | MARXISMO - LENINISMO | 184 | 184 |  |  |  |  |  |  |  |
+| 1.1 | Filosofía y Sociedad | 48 | 48 |  |  |  | 48 |  |  |  |
+| 1.2 | Economía Política | 56 | 56 |  |  |  |  | 56 |  |  |
+| 1.3 | Teoría Política | 48 | 48 |  |  |  |  |  | 48 |  |
+| 1.4 | Estudio de Ciencia Tecnología y Sociedad | 32 | 32 |  |  |  |  |  |  | 32 |
+| 2 | HISTORIA DE CUBA | 56 | 56 |  |  |  |  |  |  |  |
+| 2.1 | Historia de Cuba | 56 | 56 |  |  |  | 56 |  |  |  |
+| 3 | PREPARACIÓN PARA LA DEFENSA | 68 | 68 |  |  |  |  |  |  |  |
+| 3.1 | Seguridad y Defensa Nacional | 68 | 68 |  |  |  |  |  |  | 68 |
+| 4 | EDUCACIÓN FÍSICA | 112 | 112 |  |  |  |  |  |  |  |
+| 4.1 | Educación Física I | 28 | 28 |  |  |  | 28 |  |  |  |
+| 4.2 | Educación Física II | 28 | 28 |  |  |  | 28 |  |  |  |
+| 4.3 | Educación Física III | 28 | 28 |  |  |  |  | 28 |  |  |
+| 4.4 | Educación Física IV | 28 | 28 |  |  |  |  | 28 |  |  |
+| 5 | FUNDAMENTOS MATEMÁTICOS | 384 | 384 |  |  |  |  |  |  |  |
+| 5.1 | Algebra Lineal | 96 | 96 |  | 1 |  | 96 |  |  |  |
+| 5.2 | Análisis Matemático I | 80 | 80 |  | 1 |  | 80 |  |  |  |
+| 5.3 | Análisis Matemático II | 80 | 80 |  | 1 |  | 80 |  |  |  |
+| 5.4 | Matemática Numérica | 64 | 64 |  |  |  |  | 64 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.5 | Modelos de Optimización | 64 | 64 |  |  |  |  |  | 64 |  |
+| 6 | ESTADÍSTICA Y PROBABILIDADES | 240 | 240 |  |  |  |  |  |  |  |
+| 6.1 | Análisis Exploratorio de Datos | 48 | 48 |  |  |  | 48 |  |  |  |
+| 6.2 | Probabilidades | 64 | 64 |  | 1 |  | 64 |  |  |  |
+| 6.3 | Análisis Estadístico I | 64 | 64 |  | 1 |  |  | 64 |  |  |
+| 6.4 | Análisis Estadístico II | 64 | 64 |  | 1 |  |  | 64 |  |  |
+| 7 | PROGRAMACIÓN Y SISTEMAS DE INFORMACIÓN | 384 | 384 |  |  |  |  |  |  |  |
+| 7.1 | Introducción a la Programación | 64 | 64 |  |  |  | 64 |  |  |  |
+| 7.2 | Programación | 64 | 64 |  |  |  | 64 |  |  |  |
+| 7.3 | Estructura de Datos | 64 | 64 |  | 2 |  |  | 64 |  |  |
+| 7.4 | Bases de Datos | 64 | 64 |  |  |  |  | 64 |  |  |
+| 7.5 | Sistemas Computacionales y Redes | 64 | 64 |  | 2 |  |  | 64 |  |  |
+| 7.7 | Sistemas de Recuperación de Información | 64 | 64 |  |  |  |  |  | 64 |  |
+| 8 | INTELIGENCIA ARTIFICIAL | 240 | 240 |  |  |  |  |  |  |  |
+| 8.1 | Lógica | 64 | 64 |  | 1 |  | 64 |  |  |  |
+| 8.2 | Aprendizaje Automático | 64 | 64 |  |  |  |  | 64 |  |  |
+| 8.3 | Redes Neuronales | 64 | 64 |  |  |  |  |  | 64 |  |
+| 8.4 | Simulación | 48 | 48 |  |  |  |  |  | 48 |  |
+| 9 | CIENCIA DE DATOS | 304 | 304 |  |  |  |  |  |  |  |
+| 9.1 | Introducción a la Ciencia de Datos | 48 | 48 |  |  |  | 48 |  |  |  |
+| 9.2 | Comunicación en Ciencia de Datos | 32 | 32 |  |  |  | 32 |  |  |  |
+| 9.3 | Visualización de Datos | 32 | 32 |  |  |  |  | 32 |  |  |
+| 9.4 | Procesamiento de Grandes Volúmenes de Datos | 64 | 64 |  |  |  |  |  | 64 |  |
+| 9.5 | Ingeniería de Datos | 64 | 64 |  |  |  |  |  | 64 |  |
+| 9.6 | Ciberseguridad y Privacidad | 64 | 64 |  |  |  |  |  |  | 64 |
+| 10 | PRÁCTICA PROFESIONAL | 680 | 680 |  |  |  |  |  |  |  |
+| 10.1 | Práctica Laboral e Investigativa I | 120 |  | 120 |  |  | 120 |  |  |  |
+| 10.2 | Práctica Laboral e Investigativa II | 120 |  | 120 |  |  |  | 120 |  |  |
+| 10.3 | Práctica Laboral e Investigativa III | 120 |  | 120 |  |  |  |  | 120 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10.4 | Culminación de Estudios | 320 | 32 | 288 |  |  |  |  |  | 320 |
+| TOTAL DE HORAS DEL CURRÍCULO BASE POR FORMA Y AÑO | 2540 | 1892 | 648 |  |  | 400464 | 280376 | 240296 | 164320 |
+| TOTAL DE EXÀMENES FINALES DEL CURRÍCULO BASE Y POR AÑO | 8 |  |  |  |  | 32 | 12 | 00 | 00 |
+| TOTAL DE TRABAJOS DE CURSO DEL CURRÍCULO BASE Y POR AÑO | 0 |  |  |  |  | 00 | 00 | 00 | 00 |
+| CURRÍCULO PROPIO |
+| 5 | FUNDAMENTOS MATEMÁTICOS | 80 | 80 |  |  |  |  |  |  |  |
+| 5.6 | Matemática y Aplicaciones | 80 | 80 |  |  |  |  | 80 |  |  |
+| 6 | ESTADÍSTICA Y PROBABILIDADES | 128 | 128 |  |  |  |  |  |  |  |
+| 6.5 | Muestreo y Diseño de Experimentos | 64 | 64 |  |  |  |  |  | 64 |  |
+| 6.6 | Procesos Estocásticos y Series de Tiempo | 64 | 64 |  |  |  |  |  | 64 |  |
+| 7 | PROGRAMACIÓN Y SISTEMAS DE INFORMACIÓN | 96 | 96 |  |  |  |  |  |  |  |
+| 7.7 | Complejidad Computacional | 32 | 32 |  | 2 |  |  | 32 |  |  |
+| 7.8 | Inteligencia de Negocios | 64 | 64 |  |  |  |  |  |  | 64 |
+| 8 | INTELIGENCIA ARTIFICIAL | 48 | 48 |  |  |  |  |  |  |  |
+| 8.5 | Elementos de Inteligencia Artificial | 48 | 48 |  | 4 |  |  |  |  | 48 |
+| 9 | CIENCIA DE DATOS | 112 | 112 |  |  |  |  |  |  |  |
+| 9.7 | Análisis de Redes Complejas | 32 | 32 |  |  |  |  | 32 |  |  |
+| 9.8 | Procesamiento de Lenguaje | 32 | 32 |  |  |  |  |  | 32 |  |
+| 9.9 | Procesamiento de Imágenes | 48 | 48 |  |  |  |  |  | 48 |  |
+| 10 | PRÁCTICA PROFESIONAL | 32 | 32 |  |  |  |  |  |  |  |
+| 10.5 | Metodología de la Investigación | 32 | 32 |  |  |  |  |  |  | 32 |
+| TOTAL DE HORAS DEL CURRÍCULO PROPIO POR FORMA Y AÑO | 464 | 464 |  |  |  | 00 | 8064 | 96112 | 11232 |
+| TOTAL DE EXÀMENES FINALES DEL CURRÍCULO PROPIO Y POR AÑO | 2 |  |  |  |  | 00 | 01 | 00 | 10 |
+| TOTAL DE TRABAJOS DE CURSO DEL CURRÍCULO PROPIO Y POR AÑO | 0 |  |  |  |  | 00 | 00 | 00 | 00 |
+| CURRÍCULO OPTATIVO Y ELECTIVO |
+| --- |
+|  | ASIGNATURAS OPTATIVAS |  |  |  |  |  |  |  |  |  |
+|  | Curso Optativo 1 | 64 | 64 |  |  |  |  |  | 64 |  |
+|  | Curso Optativo 2 | 64 | 64 |  |  |  |  |  |  | 64 |
+|  | Curso Electivo | 32 | 32 |  |  |  |  |  |  | 32 |
+| TOTAL DE HORAS DEL CURRÍCULO OPTATIVO Y ELECTIVO | 160 | 160 |  |  |  | 00 | 00 | 064 | 6432 |
+| TOTAL DE EXÀMENES FINALES DEL CURRÍCULO OPTATIVO Y ELECTIVO | 0 |  |  |  |  | 00 | 00 | 00 | 00 |
+| TOTAL DE TRABAJOS DE CURSO DEL CURRÍCULO OPTATIVO Y ELECTIVO | 0 |  |  |  |  | 00 | 00 | 00 | 00 |
+| TOTALES |
+| TOTAL DE HORAS DEL CURRÍCULO POR FORMA Y AÑO | 3164 | 2516 | 648 |  |  | 400464 | 360440 | 336472 | 340384 |
+| TOTAL DE EXÀMENES FINALES DEL CURRÍCULO Y POR AÑO | 10 |  |  |  |  | 32 | 13 | 00 | 10 |
+| TOTAL DE TRABAJOS DE CURSO DEL CURRÍCULO Y POR AÑO | 0 |  |  |  |  | 00 | 00 | 00 | 00 |
+|  |
+| NOTA: Para tener derecho al ejercicio de culminación de los estudios, el estudiante debe haber aprobado el requisito de Idioma Inglés en un nivel B1+. |
+| OBSERVACIONES: Este documento oficial es parte integrante del plan de estudio de la carrera, al igual que el modelo del profesional y los programas de las disciplinas; los que fueron elaborados y defendidos con éxito por la Comisión Nacional de la carrera, y obran en todas las universidades que la desarrollan. Se define como ejercicios fundamentales de culminación de estudios el Trabajo de diploma y el Portafolio y en casos excepcionales los Exámenes Estatales |
+
+## DISCIPLINAS DE LA CARRERA
+
+## DISCIPLINAS DE FORMACIÓN GENERAL
+
+### MARXISMO - LENINISMO
+
+| Curso Diurno |
+| --- |
+| Asignatura | Currículo | Horas | Año | Sem. | eval. |
+| Filosofía | BASE | 48 | 1 | 1 |  |
+| Economía Política | BASE | 56 | 2 | 3 |  |
+| Teoría Política | BASE | 48 | 3 | 5 |  |
+| Estudios de Ciencia, Tecnología y Sociedad | BASE | 32 | 4 | 7 |  |
+| Total de Horas | 184 |  |
+
+**FUNDAMENTACIÓN DE LA DISCIPLINA**
+
+Esta disciplina resulta importante en el plan de estudio E de la carrera porque permitirá a los estudiantes valorar los presupuestos teóricos del marxismo -en su definición clásica y contemporánea- para comprender desde la tipología de la cultura contemporánea, los procesos sociales que se gestan a favor de las grandes mayorías, ponderando los que con mayor énfasis se refieren a la realidad latinoamericana y cubana.
+
+Es por ello que esta concepción del mundo posee un rol de importancia cardinal en el orden teórico-metodológico para lograr que los objetivos concebidos desde la formación inicial del futuro profesional, pues dialoguen con la necesidad y alcance del desarrollo de las ciencias de la computación desde la perspectiva de los principios esenciales e inalienables de nuestro proyecto social.
+
+La disciplina Marxismo-Leninismo dota a los estudiantes de los presupuestos filosóficos, teóricos, metodológicos y político-ideológicos que fundamentan la concepción científica del mundo; educa en el estilo de pensamiento dialéctico-materialista y su validez científica para la interpretación y transformación práctico-revolucionaria de los complejos problemas del mundo contemporáneo, de Cuba y de la propia práctica profesional del egresado, desde una perspectiva humanista, partidista y clasista, en la convicción del concepto de Fidel de que Patria, Revolución y Socialismo están indisolublemente unido.
+
+Asimismo, esta disciplina es esencial en la preparación de los estudiantes para la defensa de la Revolución ante cualquier forma de agresión del imperialismo, especialmente la subversión político-ideológica en las condiciones de la guerra no convencional que se nos hace.
+
+**OBJETIVOS GENERALES DE LA DISCIPLINA**

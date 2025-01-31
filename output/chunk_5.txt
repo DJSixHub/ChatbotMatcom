@@ -1,0 +1,67 @@
+*   El asesoramiento en la interpretación de los aspectos básicos de la gestión de las organizaciones, sus distintas áreas funcionales y su entorno socio-económico, para analizar posibles soluciones con ciencia de datos en apoyo a la toma de decisiones.
+*   La captura y depuración de los datos en cualquier entorno, su gestión y procesamiento donde se aplican métodos y técnicas para organizar, transformar y distribuir su información garantizando una mejora integral de los procesos de recogida, almacenamiento y uso de los datos, para convertirlos en información.
+*   El desarrollo e implementación de estrategias de gestión de datos para su recopilación, almacenamiento, preservación y disponibilidad para su posterior procesamiento.
+*   La exploración y análisis de la información obtenida para descubrir, mediante métodos y técnicas, el conocimiento e identificar patrones de comportamiento para lograr una interpretación de los datos, facilitando la toma de decisiones.
+*   La comunicación de los resultados de manera clara, concisa y atractiva.
+*   El trabajo en equipos multidisciplinarios que coadyuven al mejor conocimiento del entorno en que desarrollará su trabajo.
+*   La creación de nuevos conocimientos y capacidades mediante el uso del método científico (hipótesis, prueba/artefacto, evaluación) o métodos de ingeniería similares para descubrir nuevos enfoques con el objetivo de crear nuevos conocimientos.
+
+#### Campos de acción
+
+Los campos de acción de esta carrera son:
+
+*   la captura de los datos (recepción de señales y adquisición de datos)
+*   su gestión y procesamiento (ordenación, limpieza, transformación, almacenamiento, protección e ingeniería de datos)
+*   su exploración (minería de datos, agrupación / clasificación, modelado de datos, resumen de datos)
+*   su análisis (exploratorio / confirmatorio, predictivo, regresión, minería de texto, cualitativo)
+*   su comunicación (informes reproducibles, visualización interactiva y de apoyo a la toma de decisiones)
+*   la investigación fundamental (la creación o aplicación de nuevos modelos)
+
+Para esta labor profesional, se requiere del conocimiento de diferentes ramas del saber, entre las principales están la Matemática fundamental, las Estadísticas y las Probabilidades, la Computación, la Inteligencia Artificial, la Modelación matemático-computacional, la Gestión y el Procesamiento de los datos así como de la Comunicación y Visualización de la información.
+
+#### Esferas de actuación
+
+Las esferas de actuación de la Ciencia de Datos abarcan todos los sectores sociales y económicos del quehacer humano, ya que los problemas asociados a la captura, el tratamiento y el análisis de datos se presentan en los escenarios más variados, tales como empresas de producción y de servicios, instituciones académicas, centros de investigación, organizaciones sociales, entidades de gobierno a todos los niveles, órganos de prensa, etc.
+
+#### Funciones principales del profesional
+
+El profesional de Ciencia de Datos debe ser capaz de resolver problemas matemáticos, estadísticos y computacionales en el ámbito de la toma de decisiones basadas en datos, para ello:
+
+1.  participa en la definición de los aspectos básicos de la gestión de las organizaciones, sus funciones, su entorno socio-económico y el nivel informacional que posee para analizar posibles soluciones de ciencia de datos de cara a la toma de decisiones con el fin de mejorar su funcionamiento.
+2.  captura, gestiona y procesa los datos (heterogéneos) que posea el escenario de aplicación.
+3.  especifica los requerimientos de los sistemas informáticos para dimensionar la infraestructura de soporte que garantice la adquisición, el almacenamiento y el procesamiento de los datos de manera eficiente y segura.
+4.  explora y analiza los patrones de comportamiento que emanen de los datos y ofrece el conocimiento de manera procesable e intercambiable para su manipulación automática.
+5.  diseña, evalúa y contribuye a la implementación de las soluciones algorítmicas más apropiadas para procesar datos de forma eficiente en el escenario de aplicación en aras de facilitar la toma de decisiones.
+6.  muestra los resultados de manera que se puedan emitir recomendaciones para la toma de decisiones a los especialistas de la rama del escenario de aplicación.
+7.  vela por la actualización y el mantenimiento de soluciones ya desarrolladas.
+8.  realiza investigaciones para proponer alternativas de comportamiento que puedan facilitar una mejora de los procesos en el escenario de aplicación.
+
+### Objetivos generales de la carrera
+
+La carrera de Ciencia de Datos tiene por objetivo fundamental la formación de un profesional integral, con un alto nivel de compromiso social y espíritu solidario, técnica y científicamente capacitado para actuar de manera independiente y creadora en la solución de problemas de las más variadas esferas de la práctica social relacionados con la gestión y el análisis de datos en todo su ciclo de vida. El profesional posee una amplia formación matemático-computacional a la que se une un conjunto preciso de conocimientos relacionados con las ciencias de la información, el diseño, las ciencias sociales y un pertinente complemento práctico con los avances de la ciencia y la tecnología.
+
+### Valores a desarrollar en la carrera
+
+En este plan de estudio se clasifican los valores profesionales del científico de datos en cuatro esferas: la esfera intelectual, la esfera ética, la esfera estética y la esfera político-ideológica.
+
+En la esfera intelectual se desarrollarán los valores que distinguen al científico de datos, a saber
+
+*   La **abstracción** como la capacidad de pasar de las cualidades sensibles de los objetos a sus cualidades abstractas a través de un proceso mental, al descubrir las relaciones que existen entre los objetos.
+*   La **rigurosidad** como la capacidad de exponer y demostrar las opiniones y resultados científicos de manera organizada, precisa y fundamentada.
+*   La **representación** como la capacidad de crear e imaginar objetos y relaciones en su mente, en correspondencia con objetos y relaciones externas y para exteriorizarlas por medio de símbolos, gráficos, modelos y expresiones verbales.
+*   La **eficacia** como la capacidad de incidir científicamente en la esfera material y espiritual de la sociedad con máxima calidad.
+
+En la esfera estética se pretende proveer al individuo de motivación y amor hacia su profesión, mediante la **belleza** como la capacidad de la persona para percibir la elegancia y armonía implícitas las representaciones, modelos y métodos de la Ciencia de Datos, así como para exponerlas y la satisfacción por los resultados alcanzados.
+
+En la esfera ética consideramos dos valores terminales fundamentales en la misma
+
+*   La **honestidad** como la cualidad de la persona que refleja rectitud en el proceder, compostura adecuada ante lo justo, honor y honradez. Significa actuar con sinceridad, sencillez y con la verdad.
+*   La **responsabilidad** como la cualidad de la personalidad que implica libertad para decidir y actuar asumiendo las consecuencias que se deriven de las acciones. Es la actuación consciente y oportuna del cumplimiento cabal del deber contraído, cuya realización proporciona satisfacción. Es compromiso y obligación.
+
+En la esfera político–ideológica es donde se forma la identidad nacional a través del **patriotismo**, como el sentido de amor a la historia y tradiciones de la nación y la disposición plena a cumplir con la patria. Significa **sentido de pertenencia**, que contribuya a la defensa de la independencia nacional y a la lucha por el desarrollo. Es también **antimperialismo, antirracismo, solidaridad, internacionalismo, dignidad y humanismo**.
+
+De forma general, y transversalmente a las cuatro esferas mencionadas anteriormente, la carrera Ciencia de Datos debe contribuir a formar en el futuro profesional de la Ciencia de Datos un profundo sentido de **amor a la profesión**, de **ética de la profesión**, de **responsabilidad**, de **compromiso con la sociedad**, de **constancia**, **motivación**, **creatividad** e **independencia**, de **rigor científico**, de **cultura económica**, de **preservación del medio ambiente**, propiciando el desarrollo de la **comunicación**, de la **autocrítica** y la **crítica**, del **espíritu colectivista**, **solidario** y el **respeto** mutuo en las relaciones interpersonales, así como motivar el proceso creador e innovador con una absoluta inquietud y **dedicación** por la investigación científica en aras del desarrollo social.
+
+### Objetivos por año
+
+**Primer año**

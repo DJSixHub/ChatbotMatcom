@@ -1,0 +1,49 @@
+#### Preparación para la defensa
+
+Esta estrategia se articula en toda la carrera haciendo énfasis en la protección de los medios de cómputos y sus redes, protección de la información, la privacidad de esta, la seguridad de acceso a los sistemas computacionales utilizados o desarrollados, aspectos fundamentales en la salvaguarda de la información y los recursos como concepto amplio de la defensa de la patria, desde la óptica de la profesión.
+
+La disciplina Preparación para la Defensa tiene una enorme importancia para la formación de los valores del patriotismo, el humanismo y el internacionalismo; contribuyen de manera destacada a la formación de una conciencia de la identidad nacional y de una ética humanística. Por consiguiente, se procurará una organización de sus actividades que garantice el máximo aprovechamiento de los estudiantes, basado en el logro de una motivación interna hacia la disciplina.
+
+También es importante que, en las restantes disciplinas, al desarrollar los aspectos de posible aplicación en las tareas de preparación para la defensa, se incluyan ejemplos que ilustren dicha aplicación. Los métodos y técnicas computacionales estudiadas pueden ser utilizados para la solución de problemas interdisciplinarios cuyos objetivos sean la defensa del país.
+
+#### Formación Económica
+
+Los objetivos de la formación económica, aparte de los principios teóricos fundamentales que son objeto de estudio de la disciplina Marxismo-Leninismo, se presentan principalmente, en las Prácticas laborales e investigativas de segundo y tercer años donde se deberá propiciar el vínculo directo del estudiante con alguna entidad laboral representativa del ejercicio de la profesión, donde se obtendrá información acerca del desarrollo económico del país (en particular, los aspectos de la esfera de actuación correspondiente a la entidad laboral).
+
+En varias disciplinas de la carrera se desarrollan soluciones matemático-computacionales desde la perspectiva de la Ciencia de Datos que tienen gran importancia, desde la toma de decisiones, para la economía, Ello no excluye la posibilidad de organizar asignaturas optativas que profundicen en los aspectos de la modelación de este tipo de problemas.
+
+#### Formación Jurídica
+
+Los objetivos de la formación jurídica se presentan en disciplinas del plan de estudio como son los casos de las de Marxismo-Leninismo, Preparación para la Defensa y Ciencia de Datos así como en las Prácticas laborales e investigativas donde, desde el vínculo directo con alguna entidad laboral, se deberá valorar el componente regulatorio y de privacidad relacionado con los datos y la información necesaria para acometer la solución de los problemas que se aborden.
+
+También es importante que en las restantes disciplinas, al desarrollar ejemplos o posibles propuestas de solución a partir de distintos conjuntos datos, se ilustre como se puede reflejar el componente regulatorio en esos casos y se propicie el debate a partir de valoraciones de los propios estudiantes.
+
+Se deben ofertar cursos optativos relacionados con esta área lo que permitiría ampliar el conocimiento y las habilidades de los estudiantes tanto para lograr proponer soluciones basadas en datos más integrales como poder emitir valoraciones jurídicas de alto rigor.
+
+#### Dimensión ambiental
+
+Los estudios para el análisis, la modelación, el análisis y la simulación de sistemas ecológicos y sus procesos, desde los datos, son una vertiente importante del profesional de la Ciencia de Datos. Todas las disciplinas de la carrera concurren en esta aplicación y algunas disciplinas como Estadísticas y Probabilidades, Programación y Sistemas de Información, Inteligencia Artificial y Ciencia de Datos incluyen temas mostrando cómo, en el proceso de Ciencia de Datos, concurren multidisciplinariamente para su solución, como por ejemplo, temas relacionados con la descontaminación de bahías, preservación de playas, conservación del equilibrio ecológico en reservas naturales y regiones estratégicas de desarrollo económico, pronósticos de huracanes, pronósticos de epidemias, procesos de fermentación en la industria médica y farmacéutica, cinética química y producción de polímeros, etc.
+
+#### Tecnología educativa
+
+El uso de las tecnologías de la información y las comunicaciones en la carrera, adquiere una connotación especial pues se asume una doble función: como usuarios y también como actores en la modelación y comunicación.
+
+Desde la función de usuario, las tecnologías de la información y las comunicaciones son utilizadas como apoyo al proceso docente educativo a través de plataformas académicas donde se almacenen los materiales didácticos de cada una de las asignaturas de las disciplinas del plan de estudio.
+
+Desde la función de actores en la modelación y comunicación se puede trabajar en el diseño y propuesta de servicios y aplicaciones que favorecen la actividad docente-investigativa en los centros educacionales.
+
+#### Rol social de la profesión
+
+La profesión, sustentada en el plan de estudio, apoya el desarrollo de la sociedad cubana, puesto que esta es transversal a todas las áreas del conocimiento, la economía y las relaciones del entramado social. En ella se tratan problemas asociados al desarrollo de esta ciencia en correspondencia con los avances tecnológicos y en la explotación al máximo de estas potencialidades, así como, los problemas de otras áreas del saber que requieren la solución de problemas con un enfoque matemático-computacional desde la perspectiva de la Ciencia de Datos.
+
+Teniendo en cuenta estos aspectos, el Licenciado en Ciencia de Datos ve privilegiado su rol social, el cual, entre otros aspectos, puede ser expresado en cuestiones tan necesarias como sensibles para la sociedad como es la toma de decisiones basadas en datos.
+
+### CONSIDERACIONES FINALES
+
+Para concluir, conviene reiterar que la puesta en práctica del plan de estudio “E” de la carrera de Ciencia de Datos requiere de una concepción de la organización del proceso docente educativo en cada período académico basada en la esencialidad de los contenidos, la continuidad de estudios en la educación posgraduada, el carácter del estudiante como gestor de su propio aprendizaje y la renovación de los métodos de enseñanza aprendizaje. Estos últimos deberán basarse en la participación activa e independiente del estudiante en todas las actividades académicas, investigativas, aplicadas y laborales que se organicen, donde el rol de los profesores adquiere el carácter de orientador del proceso docente educativo y guía para el aprendizaje y autoaprendizaje del estudiante apoyado por la tecnología educativa.
+
+1.   Internet de las cosas: IoT, por sus siglas en inglés (Internet of Things) se refiere a la interconexión digital de objetos cotidianos con Internet. Se calcula que en la actualidad hay más conexiones entre equipos que entre personas. [↑](#footnote-ref-0)
+    
+2.  Big Data se puede enunciar como una gran colección de conjuntos de datos que no se pueden almacenar en un sistema tradicional puesto que su volumen, heterogeneidad, estructuración y velocidad de acceso demandan una plataforma innovadora para mejorar los conocimientos para la toma de decisiones. [↑](#footnote-ref-1)
+    
+3.   [https://www.datascienceprograms.org/](https://www.datascienceprograms.org/) [↑](#footnote-ref-2)

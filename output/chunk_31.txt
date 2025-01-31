@@ -1,0 +1,118 @@
+Esta asignatura introduce al estudiante al análisis exploratorio de datos. Permite caracterizar una muestra mediante técnicas de estadística descriptiva y visualización de diferentes tipos de datos. También se abordan elementos de análisis de regresión proveyendo al estudiante de conocimientos precedentes a asignaturas de varias disciplinas de la carrera.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los conceptos de población y muestra en la interpretación de resultados estadísticos.
+2.  Utilizar las técnicas exploratorias adecuadas según el tipo de dato, el volumen de estos y otros requerimientos de la situación.
+3.  Obtener tablas de frecuencia, estadígrafos de posición, dispersión, coeficiente de asimetría y correlación e interpretarlos.
+4.  Utilizar los elementos de estadística predictiva en la solución de problemas prácticos de análisis de datos.
+5.  Formular y modelar rigurosamente problemas de estadística descriptiva y predictiva.
+6.  Exponer con claridad y rigor los resultados y conclusiones obtenidos de un análisis exploratorio de datos.
+7.  Utilizar las técnicas de computación en el planteamiento y solución de los problemas derivados de los aspectos contentivos de esta asignatura, específicamente el lenguaje R.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Población y muestra. Tipos de datos. Estadística descriptiva univariada y bivariada. Medidas de posición y variabilidad. Medidas de asociación. Gráficos estadísticos para diferentes tipos de datos y análisis estadísticos. Elementos de Analítica Predictiva. Análisis de correlación. Análisis de regresión con dos variables.
+
+**Habilidades principales a dominar**
+
+1.  Representar conjuntos de datos en tablas y gráficos estadísticos.
+2.  Seleccionar las técnicas exploratorias adecuadas según la situación.
+3.  Realizar análisis de correlación para diferentes tipos de datos.
+4.  Interpretar los resultados de modelos regresivos para una y dos variables.
+5.  Utilizar el lenguaje R para la solución de problemas del dominio de la asignatura
+
+**Valores fundamentales de la carrera a los que tributa**
+
+Desarrollar en los estudiantes el sentido de la responsabilidad y la honestidad, la La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
+
+*   **Clases de introducción de nuevos contenidos.** (Conferencias). Se explicará la esencia de los métodos que resuelven los problemas que son objeto de estudio, y se enfatizará en las particularidades de los algoritmos que se elijan para ilustrar cada tipo.
+*   **Clases de ejercitación.** (Clases Prácticas). Se centrarán, fundamentalmente, en la solución de problemas típicos de la asignatura, mediante la discusión de ejercicios propuestos, de forma individual o en equipos. Enfrentarse a problemas prácticos para que los estudiantes aprendan a reconocer dónde utilizar los conocimientos adquiridos en la asignatura.
+*   **Seminarios.** Los estudiantes expondrán temas orientados como estudio independiente o resultados de investigación orientadas. Se propone que los temas de los seminarios estén relacionados con aplicaciones de los contenidos de la asignatura a la Ciencia de Datos.
+
+Todos los temas introducidos deben ser motivados por la solución de un problema relacionado con asignaturas de la propia disciplina, combinando varias disciplinas o de algún área específica de la Ciencia de Datos.
+
+Es importante establecer un punto de vista práctico de forma que, aunque se cree una base teórica para consolidar el aprendizaje, el estudiante se enfrente lo antes posible a problemas reales que les permita apreciar donde pueden aplicar los conocimientos adquiridos.
+
+Con vistas a fomentar la interdisciplinaridad, se recomienda valorar la realización de evaluaciones integradas entre la presente asignatura, y otras asignaturas de la disciplina Programación y Sistemas de Información, así como la disciplina Ciencia de Datos que traten los temas relacionados con la comunicación de los resultados del análisis exploratorio de los datos.
+
+**Sistema de evaluación**
+
+Para la evaluación de esta asignatura se proponen los siguientes tipos de actividades evaluativas.
+
+*   **Evaluaciones parciales** en donde se demuestren las habilidades que han alcanzado los estudiantes, con una periodicidad que determine el colectivo de la asignatura. Las evaluaciones sistemáticas evalúan conocimientos y habilidades adquiridas por los estudiantes. Las mismas pueden ser aplicadas a través de preguntas escritas, orales, reportes de lectura u otras.
+*   **Tarea extraclase** de mayor alcance a evaluar y defender frente al profesor. El desarrollo de este trabajo puede unificarse con las evaluaciones sistemáticas del trabajo de los estudiantes de forma que puedan utilizar las evaluaciones sistemáticas para corregir el trabajo.
+
+**BIBLIOGRAFÍA**
+
+1.  “Probabilities and statistics for computer Scientists.”, Michael Baron. 2nd Edition. CRC Press. 2014.
+2.  “Practical statistics for data scientists: 50+ essential concepts using R and Python”. Bruce, P., Bruce, A., & Gedeck, P. (2020). O'Reilly Media.
+
+#### Asignatura: Análisis Estadístico I
+
+**DATOS PRELIMINARES**
+
+| Curso Diurno |
+| --- |
+| Temas | H. | Conf. | C.P. | Sem. | Lab. | eval. |
+| Estimación Estadística | 20 | 10 | 10 |  |  | 1 |
+| Aprendizaje Estadístico y Dócimas de Hipótesis parámetricas | 24 | 12 | 12 |  |  | 1 |
+| Pruebas de hipótesis no paramétricas | 6 | 4 | 4 |  |  | 1 |
+| Análisis de Varianza | 8 | 4 | 4 |  |  | 1 |
+| Totales | 64 | 30 | 30 |  |  | 4 |
+
+**FUNDAMENTACIÓN DE LA ASIGNATURA**
+
+La Inferencia Estadística proporciona métodos para el estudio de las leyes o regularidades estadísticas. También le brindará al estudiante un lenguaje común para comunicarse con especialistas de otras ciencias sociales, naturales o técnicas. Por otra parte esta asignatura forma en el estudiante la capacidad de interpretar y comunicar con rigor resultados estadísticos.
+
+Esta asignatura brindará las herramientas necesarias y creará las habilidades para la concepción y desarrollo de algoritmos concernientes a las técnicas para el almacenaje, procesamiento y análisis estadístico de datos, además de facilitar herramientas para el estudio y el análisis de algoritmos estocásticos.
+
+**OBJETIVOS GENERALES DE LA ASIGNATURA**
+
+1.  Aplicar los conceptos de estimación puntual y por intervalo según y conocer sus principales propiedades
+2.  Fundamentar la importancia del nivel de confianza y la precisión de una estimación por intervalo y su relación con el tamaño de muestra.
+3.  Aplicar el concepto de prueba de hipótesis y seleccionar adecuadamente sus componentes en un problema práctico.
+4.  Ajustar modelos de regresión e interpretar los resultados de las pruebas de hipótesis asociadas.
+5.  Formular y modelar rigurosamente problemas de estadística descriptiva y predictiva.
+6.  Exponer con claridad y rigor los resultados y conclusiones obtenidos de un análisis exploratorio de datos.
+7.  Plantear y resolver computacionalmente problemas de análisis estadístico utilizando lenguajes y herramientas de programación adecuados a este propósito.
+
+**CONTENIDOS BÁSICOS DE LA ASIGNATURA**
+
+**Conocimientos esenciales a adquirir**
+
+Estimación puntual y por intervalos enfoque tradicional. Estimación puntual y por intervalos, enfoque Bayesiano. Pruebas de hipótesis paramétricas. Análisis de varianza. Estimación y pruebas de hipótesis en el Análisis de la regresión. Pruebas de hipótesis no-paramétricas. Pruebas Chi cuadrado. Aprendizaje estadístico.
+
+**Habilidades principales a dominar**
+
+1.  Obtener una estimación puntual a partir de estimadores conocidos y valorarla a través de un intervalo de confianza.
+2.  Valorar los resultados de una prueba de hipótesis.
+3.  Diseñar experimentos sencillos para comprobar las hipótesis deseadas.
+4.  Valorar el ajuste de un modelo de regresión y ser capaces de comparar la bondad de dos modelos dados para una misma variable.
+5.  Aplicar las técnicas de aprendizaje estadístico a problemas diversos.
+
+**Valores fundamentales de la carrera a los que tributa**
+
+La asignatura contribuye mediante su sistema de trabajo al fomento de los valores de responsabilidad ante las tareas asignadas; de honestidad, resaltando el sentido de pertenencia y deber con la sociedad; dignidad, mediante el compromiso revolucionario en el cumplimiento de las funciones como profesional.
+
+La motivación, la creatividad y el amor hacia la profesión y el compromiso con la estética de los resultados.
+
+Trabajar de manera independiente y colaborativa, con constancia y organización en el estudio.
+
+El desarrollo de la responsabilidad social y del espíritu crítico a través de la naturaleza conflictiva de los modelos reales que se estudian en las asignaturas.
+
+**INDICACIONES METODOLÓGICAS Y DE ORGANIZACIÓN DE LA ASIGNATURA**
+
+Para el desarrollo de esta asignatura se proponen los siguientes tipos de actividades docentes:
